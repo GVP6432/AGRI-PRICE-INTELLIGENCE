@@ -1,5 +1,7 @@
 venv/
 .env
 data/*.csv
+!data/sample/
+!data/sample/*.csv
 __pycache__/
 *.pyc

@@ -1,0 +1,2001 @@
+commodity_name,state,district,market,min_price,max_price,modal_price,date
+Ajwan,Gujarat,Amreli,Amreli,63.25,79.55,79.55,2019-05-22
+Ajwan,Gujarat,Banaskanth,Dhanera,80.05,80.05,80.05,2019-05-22
+Ajwan,Gujarat,Jamnagar,Jamnagar,90.0,155.0,122.5,2019-05-22
+Ajwan,Gujarat,Mehsana,Kadi,94.5,112.5,107.0,2019-05-22
+Ajwan,Gujarat,Mehsana,Unjha,21.25,148.5,99.75,2019-05-22
+Ajwan,Madhya Pradesh,Neemuch,Neemuch,80.0,132.0,95.0,2019-05-22
+Ajwan,Rajasthan,Chittorgarh,Nimbahera,9.77,9.95,9.8,2019-05-22
+Ajwan,Rajasthan,Chittorgarh,Pratapgarh,100.5,120.9,110.7,2019-05-22
+Alasande+Gram,Karnataka,Bagalkot,Bagalakot,46.01,46.5,46.46,2019-05-22
+Alasande+Gram,Karnataka,Bangalore,Bangalore,48.0,53.0,50.5,2019-05-22
+Alasande+Gram,Karnataka,Gadag,Laxmeshwar,22.15,46.41,36.54,2019-05-22
+Alasande+Gram,Madhya Pradesh,Panna,Ajaygarh,41.0,46.2,42.0,2019-05-22
+Amaranthus,Kerala,Ernakulam,Aluva,20.0,30.0,25.0,2019-05-22
+Amaranthus,Kerala,Kollam,Anchal,21.0,23.0,22.0,2019-05-22
+Amaranthus,Kerala,Ernakulam,Angamaly,20.0,26.0,23.0,2019-05-22
+Amaranthus,Kerala,Thiruvananthapuram,Attingal,20.0,20.0,20.0,2019-05-22
+Amaranthus,Kerala,Thiruvananthapuram,Chala,27.0,27.52,27.28,2019-05-22
+Amaranthus,Kerala,Thirssur,Chelakkara,20.0,22.0,21.0,2019-05-22
+Amaranthus,Kerala,Alappuzha,Cherthala,35.0,36.0,35.5,2019-05-22
+Amaranthus,Kerala,Alappuzha,Harippad,35.0,40.0,40.0,2019-05-22
+Amaranthus,Kerala,Kozhikode(Calicut),Kallachi,22.0,26.0,24.0,2019-05-22
+Amaranthus,Kerala,Kasargod,Kanjangadu,25.0,33.0,30.0,2019-05-22
+Amaranthus,Kerala,Alappuzha,Kayamkulam,36.0,38.0,37.0,2019-05-22
+Amaranthus,Kerala,Palakad,Koduvayoor,30.0,38.0,34.0,2019-05-22
+Amaranthus,Kerala,Malappuram,Kondotty,19.0,21.0,20.0,2019-05-22
+Amaranthus,Kerala,Ernakulam,Kothamangalam,20.0,25.0,22.0,2019-05-22
+Amaranthus,Kerala,Malappuram,Kottakkal,16.5,18.5,17.0,2019-05-22
+Amaranthus,Kerala,Pathanamthitta,Kuttoor,19.0,24.0,22.0,2019-05-22
+Amaranthus,Kerala,Alappuzha,Madhavapuram,24.0,26.0,25.0,2019-05-22
+Amaranthus,Kerala,Malappuram,Manjeri,11.0,12.0,11.5,2019-05-22
+Amaranthus,Kerala,Kasargod,Manjeswaram,30.0,40.0,35.0,2019-05-22
+Amaranthus,Kerala,Kozhikode(Calicut),Mukkom,14.0,18.0,16.0,2019-05-22
+Amaranthus,Kerala,Kasargod,Neeleswaram,25.0,35.0,30.0,2019-05-22
+Amaranthus,Kerala,Thiruvananthapuram,Neyyatinkara,46.0,50.0,48.0,2019-05-22
+Amaranthus,Kerala,Palakad,Palakkad,20.0,30.0,26.0,2019-05-22
+Amaranthus,Kerala,Kozhikode(Calicut),Palayam,24.0,26.0,25.0,2019-05-22
+Amaranthus,Kerala,Kottayam,Pampady,40.0,44.0,42.0,2019-05-22
+Amaranthus,Kerala,Palakad,Pattambi,18.0,22.0,20.0,2019-05-22
+Amaranthus,Kerala,Kannur,Payyannur,29.0,31.0,30.0,2019-05-22
+Amaranthus,Kerala,Kozhikode(Calicut),Perambra,29.0,31.0,30.0,2019-05-22
+Amaranthus,Kerala,Ernakulam,Perumbavoor,20.0,30.0,25.0,2019-05-22
+Amaranthus,Kerala,Thiruvananthapuram,Pothencode,45.0,55.0,50.0,2019-05-22
+Amaranthus,Kerala,Wayanad,Pulpally,14.0,16.0,15.0,2019-05-22
+Amaranthus,Kerala,Kozhikode(Calicut),Quilandy,24.0,25.0,25.0,2019-05-22
+Amaranthus,Kerala,Kottayam,Thalayolaparambu,16.0,21.0,19.0,2019-05-22
+Amaranthus,Kerala,Idukki,Thodupuzha,22.0,24.0,24.0,2019-05-22
+Amaranthus,Kerala,Thirssur,Thrissur,12.0,15.0,14.0,2019-05-22
+Amaranthus,Kerala,Palakad,Vadakkenchery,15.0,20.0,17.5,2019-05-22
+Amaranthus,Kerala,Kozhikode(Calicut),Vengeri(Kozhikode),17.0,19.0,18.0,2019-05-22
+Amaranthus,Kerala,Palakad,Vithinasserri,15.0,15.0,15.0,2019-05-22
+Amla(Nelli+Kai),Kerala,Malappuram,Kondotty,50.0,52.0,51.0,2019-05-22
+Amla(Nelli+Kai),Kerala,Malappuram,Kottakkal,40.0,41.4,41.0,2019-05-22
+Amla(Nelli+Kai),Madhya Pradesh,Neemuch,Neemuch,124.0,124.0,124.0,2019-05-22
+Amla(Nelli+Kai),Punjab,Sangrur,Lehra Gaga,6.0,6.0,6.0,2019-05-22
+Amla(Nelli+Kai),Uttar Pradesh,Kanpur,Jhijhank,21.0,23.0,22.0,2019-05-22
+Amphophalus,Kerala,Alappuzha,Alappuzha,27.0,28.0,27.5,2019-05-22
+Amphophalus,Kerala,Ernakulam,Angamaly,24.0,28.0,26.0,2019-05-22
+Amphophalus,Kerala,Thiruvananthapuram,Attingal,18.0,20.0,20.0,2019-05-22
+Amphophalus,Kerala,Alappuzha,Chengannur,23.0,26.0,25.0,2019-05-22
+Amphophalus,Kerala,Alappuzha,Harippad,35.0,40.0,40.0,2019-05-22
+Amphophalus,Kerala,Kozhikode(Calicut),Kallachi,18.0,22.0,20.0,2019-05-22
+Amphophalus,Kerala,Alappuzha,Kayamkulam,18.0,20.0,19.0,2019-05-22
+Amphophalus,Kerala,Malappuram,Kottakkal,17.5,18.5,18.0,2019-05-22
+Amphophalus,Kerala,Alappuzha,Madhavapuram,31.0,34.0,32.0,2019-05-22
+Amphophalus,Kerala,Alappuzha,Mannar,25.0,27.0,26.0,2019-05-22
+Amphophalus,Kerala,Kozhikode(Calicut),Mukkom,20.0,24.0,22.0,2019-05-22
+Amphophalus,Kerala,Kasargod,Neeleswaram,38.0,42.0,40.0,2019-05-22
+Amphophalus,Kerala,Thiruvananthapuram,Neyyatinkara,23.0,25.0,24.0,2019-05-22
+Amphophalus,Kerala,Kozhikode(Calicut),Palayam,15.0,17.0,16.0,2019-05-22
+Amphophalus,Kerala,Malappuram,Perinthalmanna,26.0,34.0,30.0,2019-05-22
+Amphophalus,Kerala,Thiruvananthapuram,Pothencode,45.0,55.0,50.0,2019-05-22
+Amphophalus,Kerala,Kozhikode(Calicut),Quilandy,19.0,22.0,21.0,2019-05-22
+Amphophalus,Kerala,Idukki,Thodupuzha,22.0,24.0,24.0,2019-05-22
+Amphophalus,Kerala,Ernakulam,Thrippunithura,24.0,35.0,28.0,2019-05-22
+Antawala,Karnataka,Chikmagalur,Chikkamagalore,20.0,20.0,20.0,2019-05-22
+Apple,Chattisgarh,Durg,Durg,60.0,80.0,70.0,2019-05-22
+Apple,Haryana,Karnal,Asandh,40.0,45.0,44.0,2019-05-22
+Apple,Haryana,Faridabad,Ballabhgarh,80.0,90.0,85.0,2019-05-22
+Apple,Haryana,Hissar,Barwala(Hisar),90.0,90.0,90.0,2019-05-22
+Apple,Haryana,Bhiwani,Ch. Dadri,80.0,100.0,90.0,2019-05-22
+Apple,Haryana,Kaithal,Cheeka,50.0,90.0,90.0,2019-05-22
+Apple,Haryana,Kaithal,Dhand,100.0,120.0,110.0,2019-05-22
+Apple,Haryana,Fatehabad,Fatehabad,100.0,120.0,100.0,2019-05-22
+Apple,Haryana,Sonipat,Gohana,80.0,100.0,80.0,2019-05-22
+Apple,Haryana,Kurukshetra,Iamailabad,75.0,95.0,85.0,2019-05-22
+Apple,Haryana,Mahendragarh-Narnaul,Mohindergarh,100.0,100.0,100.0,2019-05-22
+Apple,Haryana,Jind,Narwana,70.0,80.0,75.0,2019-05-22
+Apple,Haryana,Panipat,Panipat,50.0,150.0,115.0,2019-05-22
+Apple,Haryana,Kurukshetra,Pehowa,52.0,53.6,53.2,2019-05-22
+Apple,Himachal Pradesh,Mandi,Dhanotu (Mandi),80.0,130.0,115.0,2019-05-22
+Apple,Himachal Pradesh,Kangra,Kangra,50.0,100.0,100.0,2019-05-22
+Apple,Himachal Pradesh,Kangra,Kangra(Jassour),80.0,90.0,85.0,2019-05-22
+Apple,Himachal Pradesh,Mandi,Mandi(Mandi),80.0,110.0,100.0,2019-05-22
+Apple,Himachal Pradesh,Kangra,Palampur,150.0,160.0,155.0,2019-05-22
+Apple,Himachal Pradesh,Sirmore,Paonta Sahib,46.0,60.0,50.0,2019-05-22
+Apple,Himachal Pradesh,Solan,Solan,40.0,150.0,70.0,2019-05-22
+Apple,Kerala,Alappuzha,Aroor,140.0,142.0,141.0,2019-05-22
+Apple,Kerala,Thiruvananthapuram,Chala,170.0,171.5,170.5,2019-05-22
+Apple,Kerala,Malappuram,Kondotty,90.0,92.0,91.0,2019-05-22
+Apple,Kerala,Malappuram,Kottakkal,73.0,74.5,73.5,2019-05-22
+Apple,Kerala,Malappuram,Manjeri,150.0,151.0,150.5,2019-05-22
+Apple,Kerala,Kozhikode(Calicut),Mukkom,90.0,100.0,95.0,2019-05-22
+Apple,Kerala,Malappuram,Perinthalmanna,136.0,144.0,140.0,2019-05-22
+Apple,Kerala,Idukki,Thodupuzha,110.0,120.0,120.0,2019-05-22
+Apple,Madhya Pradesh,Harda,Harda(F&V),30.0,33.0,32.0,2019-05-22
+Apple,Maharashtra,Chandrapur,Chandrapur(Ganjwad),140.0,165.0,150.0,2019-05-22
+Apple,Maharashtra,Kolhapur,Kolhapur,80.0,135.0,120.0,2019-05-22
+Apple,Maharashtra,Nashik,Nasik,75.0,120.0,90.0,2019-05-22
+Apple,Maharashtra,Pune,Pune,38.0,140.0,70.0,2019-05-22
+Apple,NCT of Delhi,Delhi,Azadpur,50.0,90.0,67.67,2019-05-22
+Apple,Odisha,Mayurbhanja,Karanjia,110.0,120.0,115.0,2019-05-22
+Apple,Punjab,Faridkot,Faridkot,85.0,140.0,125.0,2019-05-22
+Apple,Punjab,Ferozpur,Firozepur City,50.0,120.0,85.0,2019-05-22
+Apple,Punjab,Gurdaspur,Gurdaspur,100.0,150.0,120.0,2019-05-22
+Apple,Punjab,Sangrur,Khanauri,75.0,80.0,78.0,2019-05-22
+Apple,Punjab,Sangrur,Malerkotla,90.0,125.0,110.0,2019-05-22
+Apple,Punjab,Hoshiarpur,Mukerian(Talwara),26.0,32.0,28.0,2019-05-22
+Apple,Punjab,Patiala,Nabha,80.0,105.0,90.0,2019-05-22
+Apple,Punjab,Tarntaran,Patti,50.0,70.0,60.0,2019-05-22
+Apple,Punjab,Sangrur,Sangrur,92.0,130.0,95.0,2019-05-22
+Apple,Rajasthan,Ajmer,Ajmer(F&V),50.0,90.0,70.0,2019-05-22
+Apple,Rajasthan,Ganganagar,Sriganganagar(F&V),55.0,57.0,56.0,2019-05-22
+Apple,Rajasthan,Udaipur,Udaipur(F&V),25.0,115.0,70.0,2019-05-22
+Apple,Uttar Pradesh,Agra,Agra,71.0,73.5,72.0,2019-05-22
+Apple,Uttar Pradesh,Ambedkarnagar,Akbarpur,84.4,85.2,84.8,2019-05-22
+Apple,Uttar Pradesh,Aligarh,Aligarh,74.5,75.5,75.0,2019-05-22
+Apple,Uttar Pradesh,Maharajganj,Anandnagar,42.0,45.0,43.5,2019-05-22
+Apple,Uttar Pradesh,Banda,Atarra,68.5,70.5,69.5,2019-05-22
+Apple,Uttar Pradesh,Auraiya,Auraiya,75.0,78.0,77.0,2019-05-22
+Apple,Uttar Pradesh,Azamgarh,Azamgarh,72.5,75.0,73.75,2019-05-22
+Apple,Uttar Pradesh,Badaun,Badayoun,63.0,68.0,65.0,2019-05-22
+Apple,Uttar Pradesh,Ballia,Ballia,70.0,72.0,71.0,2019-05-22
+Apple,Uttar Pradesh,Balrampur,Balrampur,82.0,88.0,85.0,2019-05-22
+Apple,Uttar Pradesh,Unnao,Bangarmau,75.0,77.0,76.0,2019-05-22
+Apple,Uttar Pradesh,Barabanki,Barabanki,80.0,82.0,81.0,2019-05-22
+Apple,Uttar Pradesh,Baghpat,Baraut,71.0,73.0,72.0,2019-05-22
+Apple,Uttar Pradesh,Bareilly,Bareilly,66.25,66.75,66.5,2019-05-22
+Apple,Uttar Pradesh,Basti,Basti,72.0,74.0,73.0,2019-05-22
+Apple,Uttar Pradesh,Mainpuri,Bewar,58.0,61.0,59.0,2019-05-22
+Apple,Uttar Pradesh,Etawah,Bharthna,73.0,78.0,75.5,2019-05-22
+Apple,Uttar Pradesh,Bijnor,Bijnaur,44.5,47.0,45.6,2019-05-22
+Apple,Uttar Pradesh,Fatehpur,Bindki,78.6,80.7,79.0,2019-05-22
+Apple,Uttar Pradesh,Bulandshahar,Buland Shahr,65.0,70.0,68.5,2019-05-22
+Apple,Uttar Pradesh,Muradabad,Chandausi,73.0,74.5,74.0,2019-05-22
+Apple,Uttar Pradesh,Aligarh,Charra,72.5,73.5,73.0,2019-05-22
+Apple,Uttar Pradesh,Kannuj,Chhibramau(Kannuj),80.0,83.0,82.0,2019-05-22
+Apple,Uttar Pradesh,Etah,Etah,71.0,74.0,72.5,2019-05-22
+Apple,Uttar Pradesh,Etawah,Etawah,75.0,80.0,78.0,2019-05-22
+Apple,Uttar Pradesh,Faizabad,Faizabad,83.5,86.0,84.0,2019-05-22
+Apple,Uttar Pradesh,Farukhabad,Farukhabad,80.0,82.0,81.5,2019-05-22
+Apple,Uttar Pradesh,Agra,Fatehabad,56.0,57.0,56.5,2019-05-22
+Apple,Uttar Pradesh,Fatehpur,Fatehpur,91.0,93.0,92.0,2019-05-22
+Apple,Uttar Pradesh,Saharanpur,Gangoh,65.45,65.7,65.6,2019-05-22
+Apple,Uttar Pradesh,Ghaziabad,Ghaziabad,62.0,66.0,64.0,2019-05-22
+Apple,Uttar Pradesh,Mainpuri,Ghiraur,72.0,74.6,73.0,2019-05-22
+Apple,Uttar Pradesh,Gonda,Gonda,64.7,65.0,64.8,2019-05-22
+Apple,Uttar Pradesh,Gorakhpur,Gorakhpur,74.3,77.8,75.8,2019-05-22
+Apple,Uttar Pradesh,Hardoi,Hardoi,79.8,80.0,79.9,2019-05-22
+Apple,Uttar Pradesh,Jyotiba Phule Nagar,Hasanpur,39.0,40.0,39.5,2019-05-22
+Apple,Uttar Pradesh,Bulandshahar,Jahangirabad,69.0,71.0,70.0,2019-05-22
+Apple,Uttar Pradesh,Jalaun (Orai),Jalaun,59.5,60.0,60.0,2019-05-22
+Apple,Uttar Pradesh,Agra,Jarar,58.5,59.5,59.0,2019-05-22
+Apple,Uttar Pradesh,Jaunpur,Jaunpur,73.0,74.0,73.5,2019-05-22
+Apple,Uttar Pradesh,Jhansi,Jhansi,65.0,66.5,65.85,2019-05-22
+Apple,Uttar Pradesh,Kanpur,Jhijhank,31.0,33.0,32.0,2019-05-22
+Apple,Uttar Pradesh,Kannuj,Kannauj,70.0,72.0,71.0,2019-05-22
+Apple,Uttar Pradesh,Kanpur,Kanpur(Grain),70.25,72.0,71.25,2019-05-22
+Apple,Uttar Pradesh,Chitrakut,Karvi,71.15,73.25,72.0,2019-05-22
+Apple,Uttar Pradesh,Etah,Kasganj,72.0,74.0,73.5,2019-05-22
+Apple,Uttar Pradesh,Farukhabad,Kayamganj,83.5,84.5,84.0,2019-05-22
+Apple,Uttar Pradesh,Agra,Khairagarh,55.0,56.0,55.5,2019-05-22
+Apple,Uttar Pradesh,Bulandshahar,Khurja,68.0,70.0,69.0,2019-05-22
+Apple,Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj,72.5,73.5,73.0,2019-05-22
+Apple,Uttar Pradesh,Mathura,Kosikalan,65.5,66.5,66.0,2019-05-22
+Apple,Uttar Pradesh,Lakhimpur,Lakhimpur,80.5,81.5,81.1,2019-05-22
+Apple,Uttar Pradesh,Lalitpur,Lalitpur,45.3,45.8,45.55,2019-05-22
+Apple,Uttar Pradesh,Lucknow,Lucknow,77.0,80.0,78.0,2019-05-22
+Apple,Uttar Pradesh,Hardoi,Madhoganj,74.0,75.0,74.5,2019-05-22
+Apple,Uttar Pradesh,Maharajganj,Maharajganj,71.0,72.5,72.0,2019-05-22
+Apple,Uttar Pradesh,Mahoba,Mahoba,71.3,72.0,71.7,2019-05-22
+Apple,Uttar Pradesh,Mainpuri,Mainpuri,73.0,75.0,74.0,2019-05-22
+Apple,Uttar Pradesh,Mau(Maunathbhanjan),Mau,72.5,73.5,73.0,2019-05-22
+Apple,Uttar Pradesh,Jhansi,Mauranipur,63.0,63.5,63.5,2019-05-22
+Apple,Uttar Pradesh,Meerut,Mawana,34.0,35.0,34.5,2019-05-22
+Apple,Uttar Pradesh,Meerut,Meerut,70.5,72.2,71.5,2019-05-22
+Apple,Uttar Pradesh,Mirzapur,Mirzapur,70.65,71.0,70.85,2019-05-22
+Apple,Uttar Pradesh,Muradabad,Muradabad,74.0,76.0,75.0,2019-05-22
+Apple,Uttar Pradesh,Muzaffarnagar,Muzzafarnagar,68.0,68.5,68.2,2019-05-22
+Apple,Uttar Pradesh,Siddharth Nagar,Naugarh,73.75,74.25,74.0,2019-05-22
+Apple,Uttar Pradesh,Jalaun (Orai),Orai,70.0,75.0,73.0,2019-05-22
+Apple,Uttar Pradesh,Lakhimpur,Paliakala,79.5,81.0,80.5,2019-05-22
+Apple,Uttar Pradesh,Pillibhit,Pilibhit,66.2,66.6,66.4,2019-05-22
+Apple,Uttar Pradesh,Kanpur,Pukhrayan,68.0,69.0,68.4,2019-05-22
+Apple,Uttar Pradesh,Pillibhit,Puranpur,65.0,66.3,65.6,2019-05-22
+Apple,Uttar Pradesh,Rampur,Rampur,66.5,67.2,66.8,2019-05-22
+Apple,Uttar Pradesh,Bahraich,Ruperdeeha,60.0,62.0,61.0,2019-05-22
+Apple,Uttar Pradesh,Kanpur,Rura,90.0,100.0,100.0,2019-05-22
+Apple,Uttar Pradesh,Saharanpur,Saharanpur,66.6,69.2,68.0,2019-05-22
+Apple,Uttar Pradesh,Siddharth Nagar,Sahiyapur,72.0,74.55,73.25,2019-05-22
+Apple,Uttar Pradesh,Muradabad,Sambhal,50.0,55.0,52.5,2019-05-22
+Apple,Uttar Pradesh,Agra,Samsabad,56.0,60.0,57.5,2019-05-22
+Apple,Uttar Pradesh,Hardoi,Shahabad(New Mandi),78.3,79.2,78.7,2019-05-22
+Apple,Uttar Pradesh,Jaunpur,Shahganj,74.0,76.0,75.0,2019-05-22
+Apple,Uttar Pradesh,Shahjahanpur,Shahjahanpur,0.0,0.0,56.0,2019-05-22
+Apple,Uttar Pradesh,Firozabad,Sirsaganj,71.0,73.0,72.0,2019-05-22
+Apple,Uttar Pradesh,Sitapur,Sitapur,66.0,70.0,68.0,2019-05-22
+Apple,Uttar Pradesh,Sultanpur,Sultanpur,77.0,80.0,78.0,2019-05-22
+Apple,Uttar Pradesh,Padrauna(Kusinagar),Tamkuhi Road,33.0,35.0,34.0,2019-05-22
+Apple,Uttar Pradesh,Firozabad,Tundla,73.5,75.2,74.0,2019-05-22
+Apple,Uttrakhand,Haridwar,Haridwar Union,25.0,40.0,32.0,2019-05-22
+Apple,Uttrakhand,UdhamSinghNagar,Khateema,77.0,79.0,78.0,2019-05-22
+Apple,Uttrakhand,Garhwal (Pauri),Kotadwara,35.0,50.0,41.0,2019-05-22
+Apple,Uttrakhand,Haridwar,Manglaur,28.0,30.0,29.0,2019-05-22
+Apple,Uttrakhand,Dehradoon,Vikasnagar,60.0,60.0,60.0,2019-05-22
+Apple,West Bengal,Kolkata,Mechua,65.0,80.0,75.0,2019-05-22
+Arhar+Dal(Tur+Dal),Assam,Nalbari,Nalbari,72.0,82.0,78.5,2019-05-22
+Arhar+Dal(Tur+Dal),Karnataka,Bangalore,Bangalore,74.0,92.0,83.0,2019-05-22
+Arhar+Dal(Tur+Dal),Karnataka,Mysore,Mysore (Bandipalya),78.0,94.0,86.0,2019-05-22
+Arhar+Dal(Tur+Dal),Karnataka,Shimoga,Shimoga,85.0,95.0,91.5,2019-05-22
+Arhar+Dal(Tur+Dal),Madhya Pradesh,Sagar,Jaisinagar,36.0,38.0,37.0,2019-05-22
+Arhar+Dal(Tur+Dal),Maharashtra,Buldhana,Deoulgaon Raja,47.01,47.01,47.01,2019-05-22
+Arhar+Dal(Tur+Dal),Maharashtra,Mumbai,Mumbai,60.0,85.0,72.0,2019-05-22
+Arhar+Dal(Tur+Dal),Manipur,Bishnupur,Bishenpur,0.0,94.0,94.0,2019-05-22
+Arhar+Dal(Tur+Dal),Manipur,Imphal West,Imphal,0.0,90.0,90.0,2019-05-22
+Arhar+Dal(Tur+Dal),Manipur,Imphal East,Lamlong Bazaar,0.0,90.0,90.0,2019-05-22
+Arhar+Dal(Tur+Dal),Manipur,Thoubal,Thoubal,0.0,90.0,90.0,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,69.5,72.0,70.8,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Allahabad,Ajuha,68.25,69.0,68.5,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Aligarh,Aligarh,79.0,81.0,80.0,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Azamgarh,Azamgarh,71.0,72.0,71.5,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Balrampur,Balrampur,60.0,62.0,61.0,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Bareilly,Bareilly,64.5,65.0,64.7,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Basti,Basti,69.0,70.0,69.5,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Etawah,Bharthna,69.4,73.5,71.5,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Aligarh,Charra,71.0,73.0,72.0,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Kannuj,Chhibramau(Kannuj),70.0,71.0,70.5,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Gorakhpur,Chorichora,74.0,75.25,74.5,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Kanpur,Choubepur,73.0,74.0,73.5,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Mau(Maunathbhanjan),Doharighat,60.0,70.0,65.0,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Etah,Etah,71.0,73.0,72.0,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Etawah,Etawah,69.5,73.0,71.5,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Faizabad,Faizabad,80.0,82.5,81.0,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Farukhabad,Farukhabad,72.0,74.0,73.5,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Fatehpur,Fatehpur,85.0,88.0,86.7,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Ghaziabad,Ghaziabad,71.0,73.0,72.0,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Gonda,Gonda,79.4,79.8,79.5,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Gorakhpur,Gorakhpur,74.3,75.5,74.8,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Hathras,Haathras,66.0,70.0,68.0,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Bulandshahar,Jahangirabad,69.5,70.5,70.0,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Jaunpur,Jaunpur,79.6,80.3,80.0,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Etah,Kasganj,71.0,72.6,72.3,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Farukhabad,Kayamganj,72.5,73.25,73.0,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Bulandshahar,Khurja,65.0,66.5,66.0,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj,69.25,70.25,69.8,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Mathura,Kosikalan,68.6,69.7,69.1,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Lucknow,Lucknow,70.0,71.5,71.0,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Maharajganj,Maharajganj,60.0,62.5,62.0,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Mainpuri,Mainpuri,71.0,73.0,72.0,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Meerut,Meerut,62.5,82.0,72.9,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Mirzapur,Mirzapur,71.15,71.5,71.35,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Hamirpur,Muskara,68.0,69.0,68.5,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Lakhimpur,Paliakala,68.4,69.1,68.7,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Kanpur,Pukhrayan,72.0,73.5,73.5,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Pillibhit,Puranpur,64.2,65.5,64.8,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Saharanpur,Saharanpur,70.25,72.7,71.5,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Gorakhpur,Sehjanwa,68.0,72.0,70.0,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Hardoi,Shahabad(New Mandi),70.2,70.7,70.4,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Sitapur,Sitapur,55.0,60.0,57.75,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Padrauna(Kusinagar),Tamkuhi Road,62.0,64.0,63.0,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Unnao,Unnao,74.75,75.5,75.25,2019-05-22
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Varanasi,Varanasi(Grain),76.5,77.65,77.35,2019-05-22
+Arhar+Dal(Tur+Dal),West Bengal,Puruliya,Purulia,64.0,65.6,65.0,2019-05-22
+Arhar+Dal(Tur+Dal),West Bengal,Birbhum,Sainthia,73.0,74.0,73.5,2019-05-22
+Ashgourd,Kerala,Kollam,Anchal,75.0,77.0,76.0,2019-05-22
+Ashgourd,Kerala,Ernakulam,Angamaly,12.0,16.0,14.0,2019-05-22
+Ashgourd,Kerala,Alappuzha,Aroor,14.0,16.0,15.0,2019-05-22
+Ashgourd,Kerala,Kottayam,Athirampuzha,10.0,12.0,11.0,2019-05-22
+Ashgourd,Kerala,Thiruvananthapuram,Chala,28.0,28.55,28.22,2019-05-22
+Ashgourd,Kerala,Thirssur,Chavakkad,26.0,30.0,28.0,2019-05-22
+Ashgourd,Kerala,Thirssur,Chelakkara,22.0,24.0,23.0,2019-05-22
+Ashgourd,Kerala,Alappuzha,Chengannur,15.0,16.0,16.0,2019-05-22
+Ashgourd,Kerala,Alappuzha,Cherthala,15.0,16.0,15.5,2019-05-22
+Ashgourd,Kerala,Kottayam,Ettumanoor,12.0,14.0,14.0,2019-05-22
+Ashgourd,Kerala,Alappuzha,Harippad,12.0,15.0,15.0,2019-05-22
+Ashgourd,Kerala,Kozhikode(Calicut),Kallachi,18.0,22.0,20.0,2019-05-22
+Ashgourd,Kerala,Wayanad,Kalpetta,12.0,13.0,13.0,2019-05-22
+Ashgourd,Kerala,Kasargod,Kanjangadu,16.0,22.0,18.0,2019-05-22
+Ashgourd,Kerala,Alappuzha,Kayamkulam,8.0,10.0,9.0,2019-05-22
+Ashgourd,Kerala,Palakad,Koduvayoor,6.0,10.0,8.0,2019-05-22
+Ashgourd,Kerala,Malappuram,Kondotty,16.0,18.0,17.0,2019-05-22
+Ashgourd,Kerala,Ernakulam,Kothamangalam,10.0,20.0,14.0,2019-05-22
+Ashgourd,Kerala,Malappuram,Kottakkal,12.0,13.0,12.5,2019-05-22
+Ashgourd,Kerala,Pathanamthitta,Kuttoor,17.0,20.0,20.0,2019-05-22
+Ashgourd,Kerala,Alappuzha,Madhavapuram,15.0,18.0,17.0,2019-05-22
+Ashgourd,Kerala,Malappuram,Manjeri,13.0,14.0,13.5,2019-05-22
+Ashgourd,Kerala,Kasargod,Manjeswaram,32.0,40.0,36.0,2019-05-22
+Ashgourd,Kerala,Alappuzha,Mannar,15.0,17.0,16.0,2019-05-22
+Ashgourd,Kerala,Kozhikode(Calicut),Mukkom,16.0,20.0,18.0,2019-05-22
+Ashgourd,Kerala,Palakad,Palakkad,6.0,10.0,9.0,2019-05-22
+Ashgourd,Kerala,Kozhikode(Calicut),Palayam,7.0,9.0,8.0,2019-05-22
+Ashgourd,Kerala,Kottayam,Pampady,15.0,17.0,16.0,2019-05-22
+Ashgourd,Kerala,Palakad,Pattambi,8.0,12.0,9.0,2019-05-22
+Ashgourd,Kerala,Kannur,Payyannur,19.0,21.0,20.0,2019-05-22
+Ashgourd,Kerala,Ernakulam,Perumbavoor,20.0,28.0,25.0,2019-05-22
+Ashgourd,Kerala,Kozhikode(Calicut),Quilandy,10.0,11.0,10.0,2019-05-22
+Ashgourd,Kerala,Kottayam,Thalayolaparambu,10.0,12.0,11.0,2019-05-22
+Ashgourd,Kerala,Idukki,Thodupuzha,14.0,16.0,16.0,2019-05-22
+Ashgourd,Kerala,Ernakulam,Thrippunithura,16.0,26.0,20.0,2019-05-22
+Ashgourd,Kerala,Thirssur,Thrissur,7.0,8.0,7.5,2019-05-22
+Ashgourd,Kerala,Palakad,vadakarapathy,8.0,10.0,9.0,2019-05-22
+Ashgourd,Kerala,Palakad,Vadakkenchery,9.0,13.0,11.0,2019-05-22
+Ashgourd,Kerala,Kozhikode(Calicut),Vengeri(Kozhikode),18.0,20.0,19.0,2019-05-22
+Avare+Dal,Karnataka,Bangalore,Bangalore,40.0,44.0,42.0,2019-05-22
+Banana,Chattisgarh,Rajnandgaon,Rajnandgaon,22.0,22.0,22.0,2019-05-22
+Banana,Gujarat,Narmada,Rajpipla,1.9,3.0,2.55,2019-05-22
+Banana,Haryana,Karnal,Asandh,30.0,32.5,32.0,2019-05-22
+Banana,Haryana,Hissar,Barwala(Hisar),16.0,16.0,16.0,2019-05-22
+Banana,Haryana,Bhiwani,Bhiwani,15.0,16.0,15.5,2019-05-22
+Banana,Haryana,Kaithal,Cheeka,22.0,22.0,22.0,2019-05-22
+Banana,Haryana,Kaithal,Dhand,25.0,26.0,26.0,2019-05-22
+Banana,Haryana,Fatehabad,Fatehabad,14.0,15.0,14.0,2019-05-22
+Banana,Haryana,Sonipat,Ganaur,25.0,25.0,25.0,2019-05-22
+Banana,Haryana,Kurukshetra,Iamailabad,25.0,35.0,30.2,2019-05-22
+Banana,Haryana,Sirsa,kalanwali,20.0,20.0,20.0,2019-05-22
+Banana,Haryana,Rohtak,Meham,14.0,14.0,14.0,2019-05-22
+Banana,Haryana,Mahendragarh-Narnaul,Mohindergarh,30.0,30.0,30.0,2019-05-22
+Banana,Haryana,Jind,Narwana,15.0,15.0,15.0,2019-05-22
+Banana,Haryana,Panipat,Panipat,9.5,9.5,9.5,2019-05-22
+Banana,Haryana,Yamuna Nagar,Radaur,24.0,24.0,24.0,2019-05-22
+Banana,Haryana,Rohtak,Sampla,15.0,15.0,15.0,2019-05-22
+Banana,Haryana,Sonipat,Sonepat,24.0,25.0,24.0,2019-05-22
+Banana,Himachal Pradesh,Kullu,Bhuntar,30.0,32.0,31.0,2019-05-22
+Banana,Himachal Pradesh,Bilaspur,Bilaspur,26.0,31.0,27.0,2019-05-22
+Banana,Himachal Pradesh,Chamba,Chamba,25.0,27.0,26.0,2019-05-22
+Banana,Himachal Pradesh,Mandi,Dhanotu (Mandi),16.0,24.0,20.0,2019-05-22
+Banana,Himachal Pradesh,Hamirpur,Hamirpur,22.0,26.0,24.0,2019-05-22
+Banana,Himachal Pradesh,Hamirpur,Hamirpur(Nadaun),22.0,26.0,24.0,2019-05-22
+Banana,Himachal Pradesh,Kangra,Kangra,20.0,30.0,25.0,2019-05-22
+Banana,Himachal Pradesh,Kangra,Kangra(Baijnath),22.0,27.0,24.0,2019-05-22
+Banana,Himachal Pradesh,Kangra,Kangra(Jassour),25.0,30.0,27.5,2019-05-22
+Banana,Himachal Pradesh,Kullu,Kullu,27.0,30.0,28.0,2019-05-22
+Banana,Himachal Pradesh,Mandi,Mandi(Mandi),17.0,26.0,20.0,2019-05-22
+Banana,Himachal Pradesh,Sirmore,Nahan,20.0,30.0,25.0,2019-05-22
+Banana,Himachal Pradesh,Kangra,Palampur,28.0,30.0,29.0,2019-05-22
+Banana,Himachal Pradesh,Sirmore,Paonta Sahib,35.0,40.0,38.0,2019-05-22
+Banana,Himachal Pradesh,Solan,Solan,13.0,27.0,24.0,2019-05-22
+Banana,Jammu and Kashmir,Srinagar,Parimpore,31.0,36.0,33.5,2019-05-22
+Banana,Karnataka,Bangalore,Channapatana,8.0,10.0,9.0,2019-05-22
+Banana,Kerala,Ernakulam,Aluva,42.0,50.0,46.0,2019-05-22
+Banana,Kerala,Kollam,Anchal,65.0,67.0,66.0,2019-05-22
+Banana,Kerala,Ernakulam,Angamaly,30.0,36.0,33.0,2019-05-22
+Banana,Kerala,Alappuzha,Aroor,48.0,50.0,49.0,2019-05-22
+Banana,Kerala,Kottayam,Athirampuzha,58.0,60.0,59.0,2019-05-22
+Banana,Kerala,Thiruvananthapuram,Attingal,38.0,40.0,40.0,2019-05-22
+Banana,Kerala,Thiruvananthapuram,Chala,60.0,60.5,60.21,2019-05-22
+Banana,Kerala,Kollam,Chathanoor,43.0,47.0,45.0,2019-05-22
+Banana,Kerala,Thirssur,Chavakkad,40.0,45.0,44.0,2019-05-22
+Banana,Kerala,Kottayam,Ettumanoor,30.0,32.0,32.0,2019-05-22
+Banana,Kerala,Alappuzha,Harippad,45.0,50.0,50.0,2019-05-22
+Banana,Kerala,Kannur,Irikkur,53.0,53.0,53.0,2019-05-22
+Banana,Kerala,Kozhikode(Calicut),Kallachi,53.0,57.0,55.0,2019-05-22
+Banana,Kerala,Kasargod,Kanjangadu,60.0,70.0,65.0,2019-05-22
+Banana,Kerala,Alappuzha,Kayamkulam,60.0,62.0,61.0,2019-05-22
+Banana,Kerala,Palakad,Koduvayoor,38.0,44.0,40.0,2019-05-22
+Banana,Kerala,Ernakulam,Kothamangalam,45.0,54.0,50.0,2019-05-22
+Banana,Kerala,Malappuram,Kottakkal,23.5,24.8,24.5,2019-05-22
+Banana,Kerala,Pathanamthitta,Kuttoor,36.0,40.0,39.0,2019-05-22
+Banana,Kerala,Alappuzha,Madhavapuram,80.0,84.0,82.0,2019-05-22
+Banana,Kerala,Wayanad,Manathavady,45.0,47.0,47.0,2019-05-22
+Banana,Kerala,Malappuram,Manjeri,47.0,48.0,47.5,2019-05-22
+Banana,Kerala,Thiruvananthapuram,Maranelloor,58.0,60.0,59.0,2019-05-22
+Banana,Kerala,Kozhikode(Calicut),Mukkom,36.0,40.0,38.0,2019-05-22
+Banana,Kerala,Kasargod,Neeleswaram,66.0,70.0,68.0,2019-05-22
+Banana,Kerala,Palakad,Palakkad,60.0,70.0,66.0,2019-05-22
+Banana,Kerala,Kottayam,Pampady,60.0,64.0,62.0,2019-05-22
+Banana,Kerala,Palakad,Pattambi,58.0,65.0,62.0,2019-05-22
+Banana,Kerala,Kannur,Payyannur,54.0,56.0,55.0,2019-05-22
+Banana,Kerala,Malappuram,Perinthalmanna,45.0,51.0,48.0,2019-05-22
+Banana,Kerala,Ernakulam,Perumbavoor,25.0,35.0,30.0,2019-05-22
+Banana,Kerala,Wayanad,Pulpally,25.0,27.0,26.0,2019-05-22
+Banana,Kerala,Kottayam,Thalayolaparambu,49.0,58.0,52.0,2019-05-22
+Banana,Kerala,Idukki,Thodupuzha,52.0,55.0,55.0,2019-05-22
+Banana,Kerala,Ernakulam,Thrippunithura,40.0,50.0,44.0,2019-05-22
+Banana,Kerala,Thirssur,Thrissur,60.0,65.0,63.0,2019-05-22
+Banana,Kerala,Palakad,Vadakkenchery,46.0,50.0,48.0,2019-05-22
+Banana,Madhya Pradesh,Burhanpur,Burhanpur(F&V),7.01,17.7,11.9,2019-05-22
+Banana,Maharashtra,Chandrapur,Chandrapur(Ganjwad),10.0,20.0,17.0,2019-05-22
+Banana,Maharashtra,Jalgaon,Yawal,8.1,12.9,12.1,2019-05-22
+Banana,Manipur,Bishnupur,Bishenpur,33.0,40.0,35.0,2019-05-22
+Banana,Manipur,Imphal West,Imphal,33.0,35.0,35.0,2019-05-22
+Banana,Manipur,Imphal East,Lamlong Bazaar,43.0,45.0,45.0,2019-05-22
+Banana,Manipur,Thoubal,Thoubal,30.0,40.0,35.0,2019-05-22
+Banana,Meghalaya,West Garo Hills,Dadengiri,30.0,35.0,32.0,2019-05-22
+Banana,Meghalaya,East Khasi Hills,Shillong,30.0,45.0,40.0,2019-05-22
+Banana,NCT of Delhi,Delhi,Azadpur,6.0,16.0,11.67,2019-05-22
+Banana,Punjab,Jalandhar,Adampur,21.0,22.0,22.0,2019-05-22
+Banana,Punjab,Bhatinda,Bhagta Bhai Ka,35.0,37.0,36.1,2019-05-22
+Banana,Punjab,Faridkot,Faridkot,15.0,20.0,20.0,2019-05-22
+Banana,Punjab,Ferozpur,Firozepur City,15.0,20.0,17.5,2019-05-22
+Banana,Punjab,Gurdaspur,Gurdaspur,23.0,25.0,24.0,2019-05-22
+Banana,Punjab,Sangrur,Khanauri,21.0,23.0,22.0,2019-05-22
+Banana,Punjab,Mohali,Kurali,15.0,16.0,15.5,2019-05-22
+Banana,Punjab,Sangrur,Lehra Gaga,23.0,23.0,23.0,2019-05-22
+Banana,Punjab,Sangrur,Malerkotla,16.5,18.0,17.0,2019-05-22
+Banana,Punjab,Ferozpur,Mamdot,22.0,23.0,22.5,2019-05-22
+Banana,Punjab,Hoshiarpur,Mukerian(Talwara),28.0,34.0,32.0,2019-05-22
+Banana,Punjab,Patiala,Nabha,14.0,14.0,14.0,2019-05-22
+Banana,Punjab,Patiala,Patran,20.0,20.0,20.0,2019-05-22
+Banana,Punjab,Tarntaran,Patti,12.0,18.0,15.0,2019-05-22
+Banana,Punjab,kapurthala,Phagwara,8.25,8.25,8.25,2019-05-22
+Banana,Punjab,Patiala,Rajpura,14.0,18.0,16.0,2019-05-22
+Banana,Punjab,Sangrur,Sunam,11.0,14.0,14.0,2019-05-22
+Banana,Rajasthan,Ajmer,Ajmer(F&V),15.0,22.0,20.0,2019-05-22
+Banana,Rajasthan,Ganganagar,Sriganganagar(F&V),19.0,21.0,20.0,2019-05-22
+Banana,Rajasthan,Udaipur,Udaipur(F&V),6.0,14.0,10.0,2019-05-22
+Banana,Uttar Pradesh,Agra,Achnera,16.7,17.3,17.0,2019-05-22
+Banana,Uttar Pradesh,Agra,Agra,18.0,19.5,18.8,2019-05-22
+Banana,Uttar Pradesh,Ambedkarnagar,Akbarpur,27.4,28.2,27.8,2019-05-22
+Banana,Uttar Pradesh,Aligarh,Aligarh,25.5,26.5,26.0,2019-05-22
+Banana,Uttar Pradesh,Banda,Atarra,18.5,20.5,19.5,2019-05-22
+Banana,Uttar Pradesh,Auraiya,Auraiya,23.0,26.0,24.5,2019-05-22
+Banana,Uttar Pradesh,Badaun,Badayoun,22.5,25.6,23.8,2019-05-22
+Banana,Uttar Pradesh,Ballia,Ballia,26.0,27.4,26.7,2019-05-22
+Banana,Uttar Pradesh,Unnao,Bangarmau,20.0,22.0,21.0,2019-05-22
+Banana,Uttar Pradesh,Barabanki,Barabanki,23.0,25.0,24.0,2019-05-22
+Banana,Uttar Pradesh,Bareilly,Bareilly,25.0,25.5,25.25,2019-05-22
+Banana,Uttar Pradesh,Mainpuri,Bewar,23.0,24.6,24.0,2019-05-22
+Banana,Uttar Pradesh,Etawah,Bharthna,24.0,27.0,25.4,2019-05-22
+Banana,Uttar Pradesh,Bijnor,Bijnaur,17.3,18.5,17.85,2019-05-22
+Banana,Uttar Pradesh,Muradabad,Chandausi,10.5,11.5,11.0,2019-05-22
+Banana,Uttar Pradesh,Aligarh,Charra,21.0,22.0,21.5,2019-05-22
+Banana,Uttar Pradesh,Kannuj,Chhibramau(Kannuj),21.0,23.0,22.0,2019-05-22
+Banana,Uttar Pradesh,Ballia,Chitwadagaon,18.0,19.0,18.5,2019-05-22
+Banana,Uttar Pradesh,Bijnor,Dhampur,10.0,12.0,11.0,2019-05-22
+Banana,Uttar Pradesh,Bulandshahar,Divai,11.8,12.0,11.9,2019-05-22
+Banana,Uttar Pradesh,Etah,Etah,21.5,23.5,22.5,2019-05-22
+Banana,Uttar Pradesh,Etawah,Etawah,21.0,25.0,23.0,2019-05-22
+Banana,Uttar Pradesh,Farukhabad,Farukhabad,22.0,23.0,22.5,2019-05-22
+Banana,Uttar Pradesh,Agra,Fatehabad,9.0,10.0,9.5,2019-05-22
+Banana,Uttar Pradesh,Fatehpur,Fatehpur,22.0,23.5,22.6,2019-05-22
+Banana,Uttar Pradesh,Saharanpur,Gangoh,11.45,11.75,11.6,2019-05-22
+Banana,Uttar Pradesh,Mainpuri,Ghiraur,23.0,25.0,24.0,2019-05-22
+Banana,Uttar Pradesh,Hathras,Haathras,23.0,26.0,24.5,2019-05-22
+Banana,Uttar Pradesh,Hardoi,Hardoi,12.8,13.1,13.1,2019-05-22
+Banana,Uttar Pradesh,Sitapur,Hargaon (Laharpur),6.2,6.6,6.4,2019-05-22
+Banana,Uttar Pradesh,Jyotiba Phule Nagar,Hasanpur,8.0,9.0,8.5,2019-05-22
+Banana,Uttar Pradesh,Jalaun (Orai),Jalaun,17.5,18.0,18.0,2019-05-22
+Banana,Uttar Pradesh,Agra,Jarar,10.0,11.0,10.5,2019-05-22
+Banana,Uttar Pradesh,Jhansi,Jhansi,19.0,20.5,19.65,2019-05-22
+Banana,Uttar Pradesh,Kanpur,Jhijhank,6.25,67.75,6.5,2019-05-22
+Banana,Uttar Pradesh,Kannuj,Kannauj,21.5,22.5,22.0,2019-05-22
+Banana,Uttar Pradesh,Chitrakut,Karvi,19.5,20.65,20.0,2019-05-22
+Banana,Uttar Pradesh,Etah,Kasganj,20.0,21.6,21.2,2019-05-22
+Banana,Uttar Pradesh,Farukhabad,Kayamganj,22.5,23.5,23.0,2019-05-22
+Banana,Uttar Pradesh,Agra,Khairagarh,16.0,17.0,16.5,2019-05-22
+Banana,Uttar Pradesh,Lakhimpur,Lakhimpur,20.5,21.2,20.8,2019-05-22
+Banana,Uttar Pradesh,Lucknow,Lucknow,26.0,28.0,27.0,2019-05-22
+Banana,Uttar Pradesh,Mahoba,Mahoba,19.3,19.8,19.6,2019-05-22
+Banana,Uttar Pradesh,Mainpuri,Mainpuri,23.4,25.4,24.4,2019-05-22
+Banana,Uttar Pradesh,Hamirpur,Maudaha,18.5,20.5,19.8,2019-05-22
+Banana,Uttar Pradesh,Jhansi,Mauranipur,18.0,18.5,18.5,2019-05-22
+Banana,Uttar Pradesh,Muradabad,Muradabad,10.5,12.0,11.0,2019-05-22
+Banana,Uttar Pradesh,Bahraich,Naanpara,16.5,17.4,17.0,2019-05-22
+Banana,Uttar Pradesh,Jalaun (Orai),Orai,18.0,18.5,18.25,2019-05-22
+Banana,Uttar Pradesh,Lakhimpur,Paliakala,19.8,20.45,20.0,2019-05-22
+Banana,Uttar Pradesh,Pillibhit,Pilibhit,11.4,11.8,11.6,2019-05-22
+Banana,Uttar Pradesh,Kanpur,Pukhrayan,26.0,27.5,26.8,2019-05-22
+Banana,Uttar Pradesh,Pillibhit,Puranpur,24.3,25.3,24.8,2019-05-22
+Banana,Uttar Pradesh,Raebarelli,Raibareilly,19.75,20.5,20.0,2019-05-22
+Banana,Uttar Pradesh,Rampur,Rampur,11.5,12.0,11.75,2019-05-22
+Banana,Uttar Pradesh,Bahraich,Ruperdeeha,12.0,13.0,12.5,2019-05-22
+Banana,Uttar Pradesh,Kanpur,Rura,24.0,26.0,26.0,2019-05-22
+Banana,Uttar Pradesh,Agra,Samsabad,10.0,11.0,10.5,2019-05-22
+Banana,Uttar Pradesh,Hardoi,Shahabad(New Mandi),9.8,10.7,10.2,2019-05-22
+Banana,Uttar Pradesh,Badaun,Shahaswan,11.0,12.0,11.5,2019-05-22
+Banana,Uttar Pradesh,Shahjahanpur,Shahjahanpur,21.0,22.0,21.15,2019-05-22
+Banana,Uttar Pradesh,Muzaffarnagar,Shahpur,0.0,0.0,9.5,2019-05-22
+Banana,Uttar Pradesh,Bulandshahar,Sikanderabad,9.0,11.0,10.0,2019-05-22
+Banana,Uttar Pradesh,Firozabad,Sirsaganj,23.0,25.0,24.0,2019-05-22
+Banana,Uttar Pradesh,Sitapur,Sitapur,20.5,22.0,21.5,2019-05-22
+Banana,Uttar Pradesh,Firozabad,Tundla,22.0,22.7,22.6,2019-05-22
+Banana,Uttrakhand,Dehradoon,Dehradoon,6.0,8.5,7.5,2019-05-22
+Banana,Uttrakhand,Nanital,Haldwani,6.32,8.32,7.32,2019-05-22
+Banana,Uttrakhand,Haridwar,Haridwar Union,10.0,12.5,11.0,2019-05-22
+Banana,Uttrakhand,UdhamSinghNagar,Khateema,9.0,11.0,10.0,2019-05-22
+Banana,Uttrakhand,UdhamSinghNagar,Kicchha,10.0,13.0,12.0,2019-05-22
+Banana,Uttrakhand,Haridwar,Manglaur,8.0,10.0,9.0,2019-05-22
+Banana,Uttrakhand,Dehradoon,Rishikesh,8.25,10.65,9.45,2019-05-22
+Banana,Uttrakhand,Haridwar,Roorkee,9.0,10.0,9.5,2019-05-22
+Banana,Uttrakhand,Dehradoon,Vikasnagar,8.0,8.0,8.0,2019-05-22
+Banana,West Bengal,Kolkata,Mechua,30.0,40.0,38.0,2019-05-22
+Banana,West Bengal,Darjeeling,Siliguri,24.0,28.0,26.0,2019-05-22
+Banana+-+Green,Chattisgarh,Durg,Durg,11.0,13.0,12.0,2019-05-22
+Banana+-+Green,Gujarat,Ahmedabad,Ahmedabad,10.0,13.0,12.0,2019-05-22
+Banana+-+Green,Gujarat,Bharuch,Bharuch,8.0,12.5,10.0,2019-05-22
+Banana+-+Green,Gujarat,Surat,Surat,8.0,13.0,10.5,2019-05-22
+Banana+-+Green,Haryana,Sonipat,Gohana,15.0,20.0,15.0,2019-05-22
+Banana+-+Green,Kerala,Ernakulam,Aluva,58.0,70.0,64.0,2019-05-22
+Banana+-+Green,Kerala,Ernakulam,Angamaly,50.0,56.0,53.0,2019-05-22
+Banana+-+Green,Kerala,Alappuzha,Aroor,46.0,48.0,47.0,2019-05-22
+Banana+-+Green,Kerala,Kottayam,Athirampuzha,16.0,18.0,17.0,2019-05-22
+Banana+-+Green,Kerala,Thiruvananthapuram,Attingal,20.0,22.0,22.0,2019-05-22
+Banana+-+Green,Kerala,Thiruvananthapuram,Chala,57.0,57.52,57.28,2019-05-22
+Banana+-+Green,Kerala,Thirssur,Chavakkad,60.0,70.0,68.0,2019-05-22
+Banana+-+Green,Kerala,Thirssur,Chelakkara,35.0,38.0,36.0,2019-05-22
+Banana+-+Green,Kerala,Alappuzha,Chengannur,57.0,60.0,58.0,2019-05-22
+Banana+-+Green,Kerala,Kottayam,Ettumanoor,21.0,22.0,22.0,2019-05-22
+Banana+-+Green,Kerala,Alappuzha,Harippad,30.0,40.0,35.0,2019-05-22
+Banana+-+Green,Kerala,Wayanad,Kalpetta,45.0,46.0,46.0,2019-05-22
+Banana+-+Green,Kerala,Kasargod,Kanjangadu,55.0,65.0,60.0,2019-05-22
+Banana+-+Green,Kerala,Kottayam,Kanjirappally,45.0,50.0,48.0,2019-05-22
+Banana+-+Green,Kerala,Kannur,Kannur,32.0,33.0,32.5,2019-05-22
+Banana+-+Green,Kerala,Alappuzha,Kayamkulam,15.0,17.0,16.0,2019-05-22
+Banana+-+Green,Kerala,Thirssur,Kodungalloor,58.0,58.0,58.0,2019-05-22
+Banana+-+Green,Kerala,Malappuram,Kondotty,35.0,37.0,36.0,2019-05-22
+Banana+-+Green,Kerala,Ernakulam,Kothamangalam,45.0,54.0,50.0,2019-05-22
+Banana+-+Green,Kerala,Malappuram,Kottakkal,21.5,22.5,22.0,2019-05-22
+Banana+-+Green,Kerala,Kasargod,Manjeswaram,42.0,50.0,46.0,2019-05-22
+Banana+-+Green,Kerala,Alappuzha,Mannar,52.0,56.0,55.0,2019-05-22
+Banana+-+Green,Kerala,Kozhikode(Calicut),Mukkom,22.0,26.0,24.0,2019-05-22
+Banana+-+Green,Kerala,Kasargod,Neeleswaram,66.0,70.0,68.0,2019-05-22
+Banana+-+Green,Kerala,Thiruvananthapuram,Neyyatinkara,53.0,55.0,54.0,2019-05-22
+Banana+-+Green,Kerala,Kozhikode(Calicut),Palayam,47.0,49.0,48.0,2019-05-22
+Banana+-+Green,Kerala,Kottayam,Pampady,60.0,64.0,62.0,2019-05-22
+Banana+-+Green,Kerala,Malappuram,Perinthalmanna,36.0,44.0,40.0,2019-05-22
+Banana+-+Green,Kerala,Ernakulam,Perumbavoor,40.0,50.0,45.0,2019-05-22
+Banana+-+Green,Kerala,Thiruvananthapuram,Pothencode,50.0,60.0,55.0,2019-05-22
+Banana+-+Green,Kerala,Kozhikode(Calicut),Quilandy,50.0,53.0,50.0,2019-05-22
+Banana+-+Green,Kerala,Kottayam,Thalayolaparambu,16.0,21.0,19.0,2019-05-22
+Banana+-+Green,Kerala,Idukki,Thodupuzha,32.0,34.0,34.0,2019-05-22
+Banana+-+Green,Kerala,Ernakulam,Thrippunithura,52.0,62.0,56.0,2019-05-22
+Banana+-+Green,Kerala,Thirssur,Thrissur,56.0,58.0,57.0,2019-05-22
+Banana+-+Green,Kerala,Palakad,vadakarapathy,54.0,56.0,55.0,2019-05-22
+Banana+-+Green,NCT of Delhi,Delhi,Azadpur,10.0,14.0,12.0,2019-05-22
+Banana+-+Green,Odisha,Mayurbhanja,Baripada,20.0,30.0,25.0,2019-05-22
+Banana+-+Green,Odisha,Sundergarh,Bonai,40.0,40.0,40.0,2019-05-22
+Banana+-+Green,Odisha,Dhenkanal,Hindol,26.0,30.0,28.0,2019-05-22
+Banana+-+Green,Odisha,Ganjam,Hinjilicut,25.0,35.0,30.0,2019-05-22
+Banana+-+Green,Punjab,Patiala,Patran,11.0,11.0,11.0,2019-05-22
+Banana+-+Green,Uttar Pradesh,Ambedkarnagar,Akbarpur,16.7,17.7,17.3,2019-05-22
+Banana+-+Green,Uttar Pradesh,Etah,Aliganj,10.0,12.0,11.0,2019-05-22
+Banana+-+Green,Uttar Pradesh,Maharajganj,Anandnagar,6.0,7.0,6.5,2019-05-22
+Banana+-+Green,Uttar Pradesh,Auraiya,Auraiya,10.5,12.2,11.5,2019-05-22
+Banana+-+Green,Uttar Pradesh,Etah,Awagarh,17.0,19.0,18.0,2019-05-22
+Banana+-+Green,Uttar Pradesh,Azamgarh,Azamgarh,12.0,13.5,12.85,2019-05-22
+Banana+-+Green,Uttar Pradesh,Balrampur,Balrampur,14.0,16.0,15.0,2019-05-22
+Banana+-+Green,Uttar Pradesh,Barabanki,Barabanki,14.0,15.0,14.65,2019-05-22
+Banana+-+Green,Uttar Pradesh,Baghpat,Baraut,10.4,10.6,10.5,2019-05-22
+Banana+-+Green,Uttar Pradesh,Bareilly,Bareilly,11.0,11.6,11.4,2019-05-22
+Banana+-+Green,Uttar Pradesh,Basti,Basti,11.0,13.0,12.0,2019-05-22
+Banana+-+Green,Uttar Pradesh,Bijnor,Bijnaur,9.2,10.3,9.75,2019-05-22
+Banana+-+Green,Uttar Pradesh,Bulandshahar,Buland Shahr,14.0,18.0,17.25,2019-05-22
+Banana+-+Green,Uttar Pradesh,Gorakhpur,Chorichora,12.0,13.5,12.5,2019-05-22
+Banana+-+Green,Uttar Pradesh,Etah,Etah,14.8,16.5,15.6,2019-05-22
+Banana+-+Green,Uttar Pradesh,Faizabad,Faizabad,17.25,18.0,17.5,2019-05-22
+Banana+-+Green,Uttar Pradesh,Farukhabad,Farukhabad,12.0,14.0,13.0,2019-05-22
+Banana+-+Green,Uttar Pradesh,Maharajganj,Gadaura,8.0,10.0,9.0,2019-05-22
+Banana+-+Green,Uttar Pradesh,Etah,Ganjdudwara,8.0,9.0,8.5,2019-05-22
+Banana+-+Green,Uttar Pradesh,Ghaziabad,Ghaziabad,16.0,17.0,16.5,2019-05-22
+Banana+-+Green,Uttar Pradesh,Gonda,Gonda,8.25,8.35,8.3,2019-05-22
+Banana+-+Green,Uttar Pradesh,Gorakhpur,Gorakhpur,11.1,12.6,11.6,2019-05-22
+Banana+-+Green,Uttar Pradesh,Bulandshahar,Jahangirabad,15.5,16.5,16.0,2019-05-22
+Banana+-+Green,Uttar Pradesh,Jhansi,Jhansi,14.0,15.5,14.6,2019-05-22
+Banana+-+Green,Uttar Pradesh,Kanpur,Jhijhank,5.5,5.5,5.5,2019-05-22
+Banana+-+Green,Uttar Pradesh,Kanpur,Kanpur(Grain),17.5,18.5,18.0,2019-05-22
+Banana+-+Green,Uttar Pradesh,Etah,Kasganj,14.3,15.4,15.0,2019-05-22
+Banana+-+Green,Uttar Pradesh,Sant Kabir Nagar,Khalilabad,10.0,12.5,11.0,2019-05-22
+Banana+-+Green,Uttar Pradesh,Bulandshahar,Khurja,16.7,17.6,17.2,2019-05-22
+Banana+-+Green,Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj,12.0,13.0,12.55,2019-05-22
+Banana+-+Green,Uttar Pradesh,Maharajganj,Maharajganj,10.0,10.2,10.2,2019-05-22
+Banana+-+Green,Uttar Pradesh,Mainpuri,Mainpuri,11.8,12.8,12.3,2019-05-22
+Banana+-+Green,Uttar Pradesh,Mau(Maunathbhanjan),Mau,12.0,13.0,12.55,2019-05-22
+Banana+-+Green,Uttar Pradesh,Meerut,Mawana,10.5,11.0,10.8,2019-05-22
+Banana+-+Green,Uttar Pradesh,Meerut,Meerut,15.0,16.0,15.5,2019-05-22
+Banana+-+Green,Uttar Pradesh,Muzaffarnagar,Muzzafarnagar,13.2,13.85,13.5,2019-05-22
+Banana+-+Green,Uttar Pradesh,Siddharth Nagar,Naugarh,11.5,12.2,11.8,2019-05-22
+Banana+-+Green,Uttar Pradesh,Maharajganj,Nautnava,7.0,8.0,7.5,2019-05-22
+Banana+-+Green,Uttar Pradesh,Lakhimpur,Paliakala,7.3,7.8,7.5,2019-05-22
+Banana+-+Green,Uttar Pradesh,Meerut,Parikshitgarh,10.5,11.0,10.8,2019-05-22
+Banana+-+Green,Uttar Pradesh,Saharanpur,Saharanpur,12.6,14.0,13.2,2019-05-22
+Banana+-+Green,Uttar Pradesh,Siddharth Nagar,Sahiyapur,11.4,12.6,12.0,2019-05-22
+Banana+-+Green,Uttar Pradesh,Meerut,Sardhana,8.5,9.0,8.75,2019-05-22
+Banana+-+Green,Uttar Pradesh,Gorakhpur,Sehjanwa,7.5,8.0,7.5,2019-05-22
+Banana+-+Green,Uttar Pradesh,Shahjahanpur,Shahjahanpur,12.0,13.2,12.5,2019-05-22
+Banana+-+Green,Uttar Pradesh,Sultanpur,Sultanpur,11.0,13.0,11.7,2019-05-22
+Banana+-+Green,Uttar Pradesh,Padrauna(Kusinagar),Tamkuhi Road,7.5,9.0,8.0,2019-05-22
+Banana+-+Green,Uttar Pradesh,Badaun,Visoli,12.0,14.0,13.0,2019-05-22
+Banana+-+Green,Uttrakhand,Garhwal (Pauri),Kotadwara,6.0,9.0,7.5,2019-05-22
+Barley+(Jau),Haryana,Bhiwani,Ch. Dadri,14.0,15.0,14.5,2019-05-22
+Barley+(Jau),Haryana,Jind,Uchana,17.08,17.08,17.08,2019-05-22
+Barley+(Jau),Madhya Pradesh,Panna,Ajaygarh,15.0,16.0,15.5,2019-05-22
+Barley+(Jau),Madhya Pradesh,Chhatarpur,Chhatarpur,17.0,17.5,17.35,2019-05-22
+Barley+(Jau),Madhya Pradesh,Neemuch,Neemuch,17.3,18.11,17.7,2019-05-22
+Barley+(Jau),Rajasthan,Ajmer,Bijay Nagar,17.61,17.72,17.66,2019-05-22
+Barley+(Jau),Rajasthan,Dausa,Dausa,16.0,17.4,16.7,2019-05-22
+Barley+(Jau),Rajasthan,Bundi,DEI(Bundi),16.5,16.81,16.65,2019-05-22
+Barley+(Jau),Rajasthan,Tonk,Deoli,16.8,17.1,16.95,2019-05-22
+Barley+(Jau),Rajasthan,Hanumangarh,Goluwala,15.95,16.26,16.25,2019-05-22
+Barley+(Jau),Rajasthan,Kota,Itawa,16.96,17.25,17.1,2019-05-22
+Barley+(Jau),Rajasthan,Kota,Kota,17.01,17.65,17.4,2019-05-22
+Barley+(Jau),Rajasthan,Dausa,Lalsot,16.75,17.2,17.0,2019-05-22
+Barley+(Jau),Rajasthan,Chittorgarh,Nimbahera,16.0,18.0,17.0,2019-05-22
+Barley+(Jau),Rajasthan,Sikar,Sri Madhopur,17.33,17.5,17.4,2019-05-22
+Barley+(Jau),Rajasthan,Ganganagar,Sriganganagar,16.25,16.89,16.4,2019-05-22
+Barley+(Jau),Rajasthan,Tonk,Tonk,17.1,17.45,17.22,2019-05-22
+Barley+(Jau),Rajasthan,Tonk,Uniyara,16.26,16.26,16.26,2019-05-22
+Barley+(Jau),Uttar Pradesh,Agra,Achnera,18.0,18.9,18.45,2019-05-22
+Barley+(Jau),Uttar Pradesh,Agra,Agra,18.2,18.7,18.45,2019-05-22
+Barley+(Jau),Uttar Pradesh,Azamgarh,Azamgarh,17.65,17.95,17.8,2019-05-22
+Barley+(Jau),Uttar Pradesh,Ballia,Ballia,14.8,16.0,15.3,2019-05-22
+Barley+(Jau),Uttar Pradesh,Aligarh,Charra,17.5,18.3,18.0,2019-05-22
+Barley+(Jau),Uttar Pradesh,Jhansi,Chirgaon,15.75,16.0,15.9,2019-05-22
+Barley+(Jau),Uttar Pradesh,Kanpur,Choubepur,17.5,18.0,17.8,2019-05-22
+Barley+(Jau),Uttar Pradesh,Etah,Etah,17.5,18.0,17.8,2019-05-22
+Barley+(Jau),Uttar Pradesh,Etawah,Etawah,17.3,18.25,17.8,2019-05-22
+Barley+(Jau),Uttar Pradesh,Faizabad,Faizabad,18.4,18.65,18.5,2019-05-22
+Barley+(Jau),Uttar Pradesh,Agra,Fatehabad,17.0,17.5,17.2,2019-05-22
+Barley+(Jau),Uttar Pradesh,Bulandshahar,Gulavati,15.08,15.12,15.1,2019-05-22
+Barley+(Jau),Uttar Pradesh,Jalaun (Orai),Jalaun,16.5,17.0,17.0,2019-05-22
+Barley+(Jau),Uttar Pradesh,Agra,Jarar,14.5,16.0,15.0,2019-05-22
+Barley+(Jau),Uttar Pradesh,Kanpur,Jhijhank,14.0,14.4,14.2,2019-05-22
+Barley+(Jau),Uttar Pradesh,Jalaun (Orai),Kadaura,16.5,17.0,16.75,2019-05-22
+Barley+(Jau),Uttar Pradesh,Kanpur,Kanpur(Grain),18.25,19.25,18.75,2019-05-22
+Barley+(Jau),Uttar Pradesh,Chitrakut,Karvi,15.75,16.15,16.0,2019-05-22
+Barley+(Jau),Uttar Pradesh,Agra,Khairagarh,18.5,18.9,18.7,2019-05-22
+Barley+(Jau),Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj,17.5,18.5,18.0,2019-05-22
+Barley+(Jau),Uttar Pradesh,Lalitpur,Lalitpur,15.4,16.4,15.9,2019-05-22
+Barley+(Jau),Uttar Pradesh,Mahoba,Mahoba,16.3,16.8,16.6,2019-05-22
+Barley+(Jau),Uttar Pradesh,Mau(Maunathbhanjan),Mau,17.5,18.5,18.0,2019-05-22
+Barley+(Jau),Uttar Pradesh,Chitrakut,Mau(Chitrakut),15.25,15.75,15.5,2019-05-22
+Barley+(Jau),Uttar Pradesh,Jhansi,Mauranipur,16.0,17.5,17.1,2019-05-22
+Barley+(Jau),Uttar Pradesh,Meerut,Meerut,18.85,19.25,19.0,2019-05-22
+Barley+(Jau),Uttar Pradesh,Hamirpur,Muskara,16.5,17.25,17.0,2019-05-22
+Barley+(Jau),Uttar Pradesh,Muzaffarnagar,Muzzafarnagar,15.2,19.0,18.85,2019-05-22
+Barley+(Jau),Uttar Pradesh,Jalaun (Orai),Orai,17.0,17.1,17.05,2019-05-22
+Barley+(Jau),Uttar Pradesh,Kanpur,Rura,14.0,14.2,14.2,2019-05-22
+Barley+(Jau),Uttar Pradesh,Saharanpur,Saharanpur,18.6,19.1,18.85,2019-05-22
+Barley+(Jau),Uttar Pradesh,Agra,Samsabad,17.0,17.5,17.3,2019-05-22
+Barley+(Jau),Uttar Pradesh,Gorakhpur,Sehjanwa,14.0,15.0,14.5,2019-05-22
+Barley+(Jau),Uttar Pradesh,Sitapur,Sindholi,15.0,16.0,15.5,2019-05-22
+Barley+(Jau),Uttar Pradesh,Varanasi,Varanasi(Grain),18.15,18.45,18.35,2019-05-22
+Beans,Gujarat,Jamnagar,Jamnagar,50.0,99.95,74.98,2019-05-22
+Beans,Gujarat,Rajkot,Jasdan,45.0,60.0,54.0,2019-05-22
+Beans,Gujarat,Junagarh,Junagadh,35.0,56.0,47.5,2019-05-22
+Beans,Gujarat,Amreli,Rajula,52.55,52.55,52.55,2019-05-22
+Beans,Gujarat,Junagarh,Visavadar,37.5,47.5,42.5,2019-05-22
+Beans,Karnataka,Chikmagalur,Chikkamagalore,49.0,51.0,50.0,2019-05-22
+Beans,Karnataka,Kolar,Kolar,80.0,90.0,85.0,2019-05-22
+Beans,Karnataka,Bangalore,Ramanagara,70.0,80.0,75.0,2019-05-22
+Beans,Kerala,Malappuram,Kottakkal,57.0,58.0,57.5,2019-05-22
+Beans,Maharashtra,Satara,Karad,34.0,38.0,38.0,2019-05-22
+Beans,Maharashtra,Pune,Maanachar,20.0,44.0,32.0,2019-05-22
+Beans,Maharashtra,Pune,Pune,70.0,120.0,100.0,2019-05-22
+Beans,Nagaland,Dimapur,Dimapur,27.0,32.0,30.0,2019-05-22
+Beans,Odisha,Koraput,Koraput(Semilguda),41.0,43.0,42.0,2019-05-22
+Beaten+Rice,Assam,Nagaon,Dhing,26.0,27.5,27.0,2019-05-22
+Beetroot,Gujarat,Ahmedabad,Ahmedabad,8.0,12.0,11.0,2019-05-22
+Beetroot,Gujarat,Kheda,Nadiyad(Piplag),5.5,7.5,6.5,2019-05-22
+Beetroot,Gujarat,Surat,Surat,10.0,15.0,12.5,2019-05-22
+Beetroot,Karnataka,Chikmagalur,Chikkamagalore,9.0,11.0,10.0,2019-05-22
+Beetroot,Karnataka,Davangere,Honnali,10.0,12.0,11.0,2019-05-22
+Beetroot,Karnataka,Kolar,Kolar,18.0,20.0,19.0,2019-05-22
+Beetroot,Kerala,Ernakulam,Angamaly,30.0,34.0,32.0,2019-05-22
+Beetroot,Kerala,Alappuzha,Aroor,40.0,42.0,41.0,2019-05-22
+Beetroot,Kerala,Kottayam,Athirampuzha,28.0,30.0,29.0,2019-05-22
+Beetroot,Kerala,Thiruvananthapuram,Chala,38.0,38.57,38.22,2019-05-22
+Beetroot,Kerala,Thirssur,Chelakkara,20.0,22.0,21.0,2019-05-22
+Beetroot,Kerala,Alappuzha,Chengannur,30.0,33.0,32.0,2019-05-22
+Beetroot,Kerala,Alappuzha,Cherthala,32.0,33.0,32.5,2019-05-22
+Beetroot,Kerala,Kottayam,Ettumanoor,32.0,33.0,33.0,2019-05-22
+Beetroot,Kerala,Alappuzha,Harippad,25.0,30.0,25.0,2019-05-22
+Beetroot,Kerala,Kozhikode(Calicut),Kallachi,38.0,42.0,40.0,2019-05-22
+Beetroot,Kerala,Alappuzha,Kayamkulam,25.0,27.0,26.0,2019-05-22
+Beetroot,Kerala,Palakad,Koduvayoor,15.0,20.0,18.0,2019-05-22
+Beetroot,Kerala,Malappuram,Kondotty,29.0,31.0,30.0,2019-05-22
+Beetroot,Kerala,Alappuzha,Madhavapuram,38.0,44.0,42.0,2019-05-22
+Beetroot,Kerala,Malappuram,Manjeri,26.0,27.0,26.5,2019-05-22
+Beetroot,Kerala,Kasargod,Manjeswaram,30.0,40.0,35.0,2019-05-22
+Beetroot,Kerala,Alappuzha,Mannar,35.0,37.0,36.0,2019-05-22
+Beetroot,Kerala,Kozhikode(Calicut),Mukkom,18.0,22.0,20.0,2019-05-22
+Beetroot,Kerala,Kasargod,Neeleswaram,44.0,48.0,46.0,2019-05-22
+Beetroot,Kerala,Thiruvananthapuram,Neyyatinkara,36.0,40.0,38.0,2019-05-22
+Beetroot,Kerala,Palakad,Palakkad,25.0,30.0,28.0,2019-05-22
+Beetroot,Kerala,Kozhikode(Calicut),Palayam,32.0,34.0,33.0,2019-05-22
+Beetroot,Kerala,Palakad,Pattambi,20.0,30.0,25.0,2019-05-22
+Beetroot,Kerala,Malappuram,Perinthalmanna,37.0,43.0,40.0,2019-05-22
+Beetroot,Kerala,Thiruvananthapuram,Pothencode,35.0,45.0,40.0,2019-05-22
+Beetroot,Kerala,Kozhikode(Calicut),Quilandy,32.0,35.0,33.0,2019-05-22
+Beetroot,Kerala,Kottayam,Thalayolaparambu,25.0,31.0,29.0,2019-05-22
+Beetroot,Kerala,Idukki,Thodupuzha,28.0,30.0,30.0,2019-05-22
+Beetroot,Kerala,Ernakulam,Thrippunithura,36.0,45.0,40.0,2019-05-22
+Beetroot,Kerala,Thirssur,Thrissur,23.0,24.0,24.0,2019-05-22
+Beetroot,Kerala,Palakad,vadakarapathy,27.0,29.0,28.0,2019-05-22
+Beetroot,Kerala,Palakad,Vadakkenchery,28.0,34.0,31.0,2019-05-22
+Beetroot,Madhya Pradesh,Narsinghpur,Gadarwada,6.0,6.0,6.0,2019-05-22
+Beetroot,Maharashtra,Mumbai,Mumbai,10.0,14.0,12.0,2019-05-22
+Beetroot,Maharashtra,Pune,Pune,6.0,12.0,10.0,2019-05-22
+Beetroot,NCT of Delhi,Delhi,Azadpur,6.0,10.0,8.0,2019-05-22
+Beetroot,Rajasthan,Ajmer,Ajmer(F&V),5.0,11.0,8.0,2019-05-22
+Betal+Leaves,Meghalaya,West Garo Hills,Dadengiri,100.0,150.0,120.0,2019-05-22
+Betal+Leaves,Meghalaya,East Khasi Hills,Shillong,125.0,220.0,185.0,2019-05-22
+Betal+Leaves,Meghalaya,West Garo Hills,Tura,100.0,120.0,110.0,2019-05-22
+Bitter+gourd,Assam,Kamrup,Pamohi(Garchuk),20.0,25.0,24.0,2019-05-22
+Bitter+gourd,Chattisgarh,Durg,Durg,26.0,30.0,28.0,2019-05-22
+Bitter+gourd,Gujarat,Ahmedabad,Ahmedabad,18.0,50.0,35.0,2019-05-22
+Bitter+gourd,Gujarat,Dahod,Dahod(Veg. Market),20.0,30.0,25.0,2019-05-22
+Bitter+gourd,Gujarat,Ahmedabad,Dholka(Koth),18.0,20.0,19.0,2019-05-22
+Bitter+gourd,Gujarat,Kheda,Nadiyad(Chaklasi),35.0,40.0,37.5,2019-05-22
+Bitter+gourd,Gujarat,Kheda,Nadiyad(Piplag),35.0,41.0,38.0,2019-05-22
+Bitter+gourd,Gujarat,Vadodara(Baroda),Padra,20.0,25.0,22.5,2019-05-22
+Bitter+gourd,Gujarat,Surat,Surat,17.5,30.0,23.75,2019-05-22
+Bitter+gourd,Gujarat,Junagarh,Talalagir,15.5,17.5,16.5,2019-05-22
+Bitter+gourd,Gujarat,Mehsana,Vijapur(veg),2.5,5.0,3.5,2019-05-22
+Bitter+gourd,Haryana,Karnal,Asandh,18.0,20.0,19.5,2019-05-22
+Bitter+gourd,Haryana,Panchkula,Barwala,6.0,10.0,8.0,2019-05-22
+Bitter+gourd,Haryana,Hissar,Barwala(Hisar),14.0,14.0,14.0,2019-05-22
+Bitter+gourd,Haryana,Yamuna Nagar,Chhachrauli,10.0,13.8,13.8,2019-05-22
+Bitter+gourd,Haryana,Faridabad,Faridabad,12.0,15.0,13.5,2019-05-22
+Bitter+gourd,Haryana,Fatehabad,Fatehabad,15.0,20.0,15.0,2019-05-22
+Bitter+gourd,Haryana,Sonipat,Ganaur,15.0,18.0,16.0,2019-05-22
+Bitter+gourd,Haryana,Mahendragarh-Narnaul,Mohindergarh,10.0,16.0,16.0,2019-05-22
+Bitter+gourd,Haryana,Ambala,Mullana,20.0,20.0,20.0,2019-05-22
+Bitter+gourd,Haryana,Yamuna Nagar,Mustafabad,11.0,12.0,11.0,2019-05-22
+Bitter+gourd,Haryana,Yamuna Nagar,Radaur,12.0,20.0,15.0,2019-05-22
+Bitter+gourd,Himachal Pradesh,Kullu,Bhuntar,10.0,22.0,20.0,2019-05-22
+Bitter+gourd,Himachal Pradesh,Chamba,Chamba,14.0,16.0,15.0,2019-05-22
+Bitter+gourd,Himachal Pradesh,Mandi,Dhanotu (Mandi),10.0,15.0,12.5,2019-05-22
+Bitter+gourd,Himachal Pradesh,Hamirpur,Hamirpur,15.0,16.0,16.0,2019-05-22
+Bitter+gourd,Himachal Pradesh,Hamirpur,Hamirpur(Nadaun),14.0,16.0,15.0,2019-05-22
+Bitter+gourd,Himachal Pradesh,Kangra,Kangra,10.0,15.0,12.5,2019-05-22
+Bitter+gourd,Himachal Pradesh,Kangra,Kangra(Baijnath),20.0,25.0,22.0,2019-05-22
+Bitter+gourd,Himachal Pradesh,Kangra,Kangra(Jassour),10.0,15.0,12.5,2019-05-22
+Bitter+gourd,Himachal Pradesh,Kullu,Kullu,15.0,20.0,18.0,2019-05-22
+Bitter+gourd,Himachal Pradesh,Mandi,Mandi(Mandi),12.0,15.0,14.0,2019-05-22
+Bitter+gourd,Himachal Pradesh,Sirmore,Nahan,8.0,10.0,9.0,2019-05-22
+Bitter+gourd,Himachal Pradesh,Kangra,Palampur,14.0,16.0,15.0,2019-05-22
+Bitter+gourd,Himachal Pradesh,Sirmore,Paonta Sahib,12.0,20.0,15.0,2019-05-22
+Bitter+gourd,Himachal Pradesh,Solan,Solan,10.0,12.0,11.0,2019-05-22
+Bitter+gourd,Jammu and Kashmir,Jammu,Akhnoor,10.0,11.0,10.5,2019-05-22
+Bitter+gourd,Kerala,Ernakulam,Aluva,40.0,50.0,45.0,2019-05-22
+Bitter+gourd,Kerala,Kollam,Anchal,50.0,52.0,51.0,2019-05-22
+Bitter+gourd,Kerala,Ernakulam,Angamaly,48.0,52.0,50.0,2019-05-22
+Bitter+gourd,Kerala,Alappuzha,Aroor,50.0,52.0,51.0,2019-05-22
+Bitter+gourd,Kerala,Kottayam,Athirampuzha,52.0,54.0,53.0,2019-05-22
+Bitter+gourd,Kerala,Thiruvananthapuram,Attingal,59.0,62.0,60.0,2019-05-22
+Bitter+gourd,Kerala,Thiruvananthapuram,Chala,67.0,67.5,67.25,2019-05-22
+Bitter+gourd,Kerala,Kollam,Chathanoor,63.0,67.0,65.0,2019-05-22
+Bitter+gourd,Kerala,Thirssur,Chelakkara,36.0,40.0,38.0,2019-05-22
+Bitter+gourd,Kerala,Alappuzha,Chengannur,57.0,62.0,60.0,2019-05-22
+Bitter+gourd,Kerala,Kottayam,Ettumanoor,52.0,55.0,53.0,2019-05-22
+Bitter+gourd,Kerala,Alappuzha,Harippad,45.0,50.0,50.0,2019-05-22
+Bitter+gourd,Kerala,Kozhikode(Calicut),Kallachi,48.0,52.0,50.0,2019-05-22
+Bitter+gourd,Kerala,Wayanad,Kalpetta,26.0,27.0,27.0,2019-05-22
+Bitter+gourd,Kerala,Kasargod,Kanjangadu,51.0,60.0,55.0,2019-05-22
+Bitter+gourd,Kerala,Alappuzha,Kayamkulam,57.0,59.0,58.0,2019-05-22
+Bitter+gourd,Kerala,Malappuram,Kondotty,44.0,46.0,45.0,2019-05-22
+Bitter+gourd,Kerala,Ernakulam,Kothamangalam,40.0,50.0,45.0,2019-05-22
+Bitter+gourd,Kerala,Malappuram,Kottakkal,47.0,48.0,47.5,2019-05-22
+Bitter+gourd,Kerala,Pathanamthitta,Kuttoor,43.0,50.0,48.0,2019-05-22
+Bitter+gourd,Kerala,Alappuzha,Madhavapuram,70.0,76.0,74.0,2019-05-22
+Bitter+gourd,Kerala,Wayanad,Manathavady,26.0,28.0,28.0,2019-05-22
+Bitter+gourd,Kerala,Malappuram,Manjeri,33.0,34.0,33.5,2019-05-22
+Bitter+gourd,Kerala,Kasargod,Manjeswaram,55.0,64.0,59.5,2019-05-22
+Bitter+gourd,Kerala,Kozhikode(Calicut),Mukkom,26.0,30.0,28.0,2019-05-22
+Bitter+gourd,Kerala,Kasargod,Neeleswaram,56.0,60.0,58.0,2019-05-22
+Bitter+gourd,Kerala,Thiruvananthapuram,Neyyatinkara,33.0,35.0,34.0,2019-05-22
+Bitter+gourd,Kerala,Palakad,Palakkad,50.0,55.0,53.0,2019-05-22
+Bitter+gourd,Kerala,Kozhikode(Calicut),Palayam,39.0,41.0,40.0,2019-05-22
+Bitter+gourd,Kerala,Kottayam,Pampady,50.0,54.0,52.0,2019-05-22
+Bitter+gourd,Kerala,Palakad,Pattambi,45.0,50.0,48.0,2019-05-22
+Bitter+gourd,Kerala,Malappuram,Perinthalmanna,46.0,54.0,50.0,2019-05-22
+Bitter+gourd,Kerala,Ernakulam,Perumbavoor,35.0,45.0,40.0,2019-05-22
+Bitter+gourd,Kerala,Thiruvananthapuram,Pothencode,50.0,60.0,55.0,2019-05-22
+Bitter+gourd,Kerala,Wayanad,Pulpally,15.0,17.0,16.0,2019-05-22
+Bitter+gourd,Kerala,Kozhikode(Calicut),Quilandy,42.0,45.0,43.0,2019-05-22
+Bitter+gourd,Kerala,Kottayam,Thalayolaparambu,45.0,53.0,50.0,2019-05-22
+Bitter+gourd,Kerala,Idukki,Thodupuzha,42.0,44.0,44.0,2019-05-22
+Bitter+gourd,Kerala,Ernakulam,Thrippunithura,50.0,60.0,54.0,2019-05-22
+Bitter+gourd,Kerala,Thirssur,Thrissur,58.0,60.0,59.0,2019-05-22
+Bitter+gourd,Kerala,Palakad,vadakarapathy,39.0,41.0,40.0,2019-05-22
+Bitter+gourd,Kerala,Palakad,Vadakkenchery,45.0,50.0,47.5,2019-05-22
+Bitter+gourd,Kerala,Kozhikode(Calicut),Vengeri(Kozhikode),20.0,22.0,21.0,2019-05-22
+Bitter+gourd,Madhya Pradesh,Chhindwara,Chhindwara(F&V),10.0,14.0,12.0,2019-05-22
+Bitter+gourd,Madhya Pradesh,Narsinghpur,Gadarwada,20.0,20.0,20.0,2019-05-22
+Bitter+gourd,Madhya Pradesh,Harda,Harda(F&V),7.0,9.0,8.0,2019-05-22
+Bitter+gourd,Madhya Pradesh,Indore,Indore(F&V),10.0,20.0,15.0,2019-05-22
+Bitter+gourd,Madhya Pradesh,Jhabua,Thandla,17.0,19.0,18.0,2019-05-22
+Bitter+gourd,Madhya Pradesh,Harda,Timarni,10.0,10.0,10.0,2019-05-22
+Bitter+gourd,Madhya Pradesh,Ujjain,Ujjain(F&V),15.0,38.0,25.17,2019-05-22
+Bitter+gourd,Maharashtra,Aurangabad,Aurangabad,25.0,35.0,30.0,2019-05-22
+Bitter+gourd,Maharashtra,Chandrapur,Chandrapur(Ganjwad),20.0,30.0,25.0,2019-05-22
+Bitter+gourd,Maharashtra,Satara,Karad,35.0,40.0,40.0,2019-05-22
+Bitter+gourd,Maharashtra,Pune,Khed(Chakan),35.0,45.0,40.0,2019-05-22
+Bitter+gourd,Maharashtra,Pune,Maanachar,35.0,38.1,36.85,2019-05-22
+Bitter+gourd,Maharashtra,Mumbai,Mumbai,26.0,32.0,29.0,2019-05-22
+Bitter+gourd,Maharashtra,Nashik,Nasik,29.15,41.65,35.4,2019-05-22
+Bitter+gourd,Maharashtra,Pune,Pune,25.0,40.0,30.0,2019-05-22
+Bitter+gourd,Maharashtra,Pune,Pune(Pimpri),40.0,50.0,45.0,2019-05-22
+Bitter+gourd,Meghalaya,West Garo Hills,Dadengiri,35.0,40.0,37.0,2019-05-22
+Bitter+gourd,Meghalaya,West Garo Hills,Tura,30.0,34.0,34.0,2019-05-22
+Bitter+gourd,Nagaland,Dimapur,Dimapur,37.0,43.0,40.0,2019-05-22
+Bitter+gourd,NCT of Delhi,Delhi,Azadpur,7.0,14.0,10.0,2019-05-22
+Bitter+gourd,Odisha,Nayagarh,Bahadajholla,28.0,31.0,30.0,2019-05-22
+Bitter+gourd,Odisha,Khurda,Balugaon,42.0,45.0,44.0,2019-05-22
+Bitter+gourd,Odisha,Cuttack,Banki,38.0,40.0,39.0,2019-05-22
+Bitter+gourd,Odisha,Mayurbhanja,Baripada,40.0,50.0,45.0,2019-05-22
+Bitter+gourd,Odisha,Mayurbhanja,Betnoti,35.0,40.0,38.0,2019-05-22
+Bitter+gourd,Odisha,Bolangir,Bolangir,58.0,60.0,58.0,2019-05-22
+Bitter+gourd,Odisha,Dhenkanal,Dhenkanal,30.0,40.0,35.0,2019-05-22
+Bitter+gourd,Odisha,Dhenkanal,Hindol,35.0,40.0,38.0,2019-05-22
+Bitter+gourd,Odisha,Ganjam,Hinjilicut,30.0,40.0,35.0,2019-05-22
+Bitter+gourd,Odisha,Jajpur,Jajpur,40.0,50.0,45.0,2019-05-22
+Bitter+gourd,Odisha,Jajpur,Jhumpura,45.0,50.0,50.0,2019-05-22
+Bitter+gourd,Odisha,Dhenkanal,Kamakhyanagar,40.0,45.0,40.0,2019-05-22
+Bitter+gourd,Odisha,Sundergarh,Panposh,26.0,30.0,29.0,2019-05-22
+Bitter+gourd,Odisha,Nayagarh,Sarankul,36.0,40.0,38.0,2019-05-22
+Bitter+gourd,Odisha,Mayurbhanja,Udala,54.0,54.0,54.0,2019-05-22
+Bitter+gourd,Punjab,Fazilka,Abohar,10.5,18.5,15.5,2019-05-22
+Bitter+gourd,Punjab,Jalandhar,Adampur,15.0,20.0,20.0,2019-05-22
+Bitter+gourd,Punjab,Jalandhar,Bilga,23.0,25.0,24.0,2019-05-22
+Bitter+gourd,Punjab,Hoshiarpur,Dasuya,6.0,8.0,8.0,2019-05-22
+Bitter+gourd,Punjab,Gurdaspur,Dera Baba Nanak,15.0,17.0,16.0,2019-05-22
+Bitter+gourd,Punjab,Moga,Dharamkot,15.0,15.0,15.0,2019-05-22
+Bitter+gourd,Punjab,Ferozpur,Firozepur City,18.0,22.0,20.0,2019-05-22
+Bitter+gourd,Punjab,Muktsar,Giddarbaha,10.0,11.0,10.5,2019-05-22
+Bitter+gourd,Punjab,Gurdaspur,Gurdaspur,8.0,12.0,10.0,2019-05-22
+Bitter+gourd,Punjab,Mohali,Lalru,10.0,10.0,10.0,2019-05-22
+Bitter+gourd,Punjab,Jalandhar,Lohian Khas,11.0,13.0,12.0,2019-05-22
+Bitter+gourd,Punjab,Ferozpur,Makhu,7.0,8.0,7.5,2019-05-22
+Bitter+gourd,Punjab,Sangrur,Malerkotla,10.0,12.0,11.5,2019-05-22
+Bitter+gourd,Punjab,Jalandhar,Mehatpur,12.0,14.0,14.0,2019-05-22
+Bitter+gourd,Punjab,Patiala,Nabha,10.0,16.0,13.0,2019-05-22
+Bitter+gourd,Punjab,Tarntaran,Patti,10.0,12.0,11.0,2019-05-22
+Bitter+gourd,Punjab,Jalandhar,Phillaur(Apra Mandi),24.0,26.0,25.0,2019-05-22
+Bitter+gourd,Punjab,Ludhiana,Sahnewal,10.0,12.0,12.0,2019-05-22
+Bitter+gourd,Punjab,Patiala,Samana,14.0,18.0,16.0,2019-05-22
+Bitter+gourd,Punjab,Sangrur,Sangrur,10.0,14.0,10.0,2019-05-22
+Bitter+gourd,Punjab,Sangrur,Sunam,10.0,15.0,13.0,2019-05-22
+Bitter+gourd,Rajasthan,Ganganagar,Sriganganagar(F&V),10.0,12.0,11.0,2019-05-22
+Bitter+gourd,Rajasthan,Udaipur,Udaipur(F&V),10.0,20.0,15.0,2019-05-22
+Bitter+gourd,Tripura,Sepahijala,Bishalgarh,50.0,60.0,55.0,2019-05-22
+Bitter+gourd,Tripura,Sepahijala,Bishramganj,45.0,55.0,50.0,2019-05-22
+Bitter+gourd,Tripura,Sepahijala,Melaghar,25.0,30.0,28.0,2019-05-22
+Bitter+gourd,Tripura,Khowai,Teliamura,30.0,40.0,35.0,2019-05-22
+Bitter+gourd,Uttar Pradesh,Ambedkarnagar,Akbarpur,21.5,22.5,22.0,2019-05-22
+Bitter+gourd,Uttar Pradesh,Aligarh,Aligarh,14.0,15.0,14.5,2019-05-22
+Bitter+gourd,Uttar Pradesh,Auraiya,Auraiya,12.0,13.5,13.0,2019-05-22
+Bitter+gourd,Uttar Pradesh,Azamgarh,Azamgarh,18.75,19.8,19.25,2019-05-22
+Bitter+gourd,Uttar Pradesh,Ballia,Ballia,18.8,19.6,19.3,2019-05-22
+Bitter+gourd,Uttar Pradesh,Unnao,Bangarmau,16.5,17.5,17.0,2019-05-22
+Bitter+gourd,Uttar Pradesh,Barabanki,Barabanki,21.0,23.0,22.0,2019-05-22
+Bitter+gourd,Uttar Pradesh,Bareilly,Bareilly,16.5,17.0,16.75,2019-05-22
+Bitter+gourd,Uttar Pradesh,Basti,Basti,10.0,11.0,10.5,2019-05-22
+Bitter+gourd,Uttar Pradesh,Bijnor,Bijnaur,16.0,17.1,16.6,2019-05-22
+Bitter+gourd,Uttar Pradesh,Saharanpur,Chutmalpur,9.5,10.5,10.0,2019-05-22
+Bitter+gourd,Uttar Pradesh,Etah,Etah,14.0,16.0,15.2,2019-05-22
+Bitter+gourd,Uttar Pradesh,Faizabad,Faizabad,18.5,20.0,19.0,2019-05-22
+Bitter+gourd,Uttar Pradesh,Farukhabad,Farukhabad,18.0,21.0,20.0,2019-05-22
+Bitter+gourd,Uttar Pradesh,Gorakhpur,Gorakhpur,20.5,21.75,21.0,2019-05-22
+Bitter+gourd,Uttar Pradesh,Hathras,Haathras,13.0,15.0,14.0,2019-05-22
+Bitter+gourd,Uttar Pradesh,Hardoi,Hardoi,22.1,22.3,22.2,2019-05-22
+Bitter+gourd,Uttar Pradesh,Bulandshahar,Jahangirabad,11.0,12.0,11.5,2019-05-22
+Bitter+gourd,Uttar Pradesh,Jalaun (Orai),Jalaun,17.5,18.0,18.0,2019-05-22
+Bitter+gourd,Uttar Pradesh,Jaunpur,Jaunpur,19.25,19.65,19.5,2019-05-22
+Bitter+gourd,Uttar Pradesh,Jhansi,Jhansi,17.0,17.6,17.3,2019-05-22
+Bitter+gourd,Uttar Pradesh,Muzaffarnagar,Kadhle,8.0,9.0,8.5,2019-05-22
+Bitter+gourd,Uttar Pradesh,Muzaffarnagar,Kairana,6.0,6.5,6.1,2019-05-22
+Bitter+gourd,Uttar Pradesh,Agra,Khairagarh,14.5,15.5,15.0,2019-05-22
+Bitter+gourd,Uttar Pradesh,Sant Kabir Nagar,Khalilabad,8.0,10.0,8.5,2019-05-22
+Bitter+gourd,Uttar Pradesh,Muzaffarnagar,Khatauli,5.6,5.8,5.7,2019-05-22
+Bitter+gourd,Uttar Pradesh,Bulandshahar,Khurja,13.85,14.5,14.3,2019-05-22
+Bitter+gourd,Uttar Pradesh,Lucknow,Lucknow,24.0,25.5,25.0,2019-05-22
+Bitter+gourd,Uttar Pradesh,Mainpuri,Mainpuri,8.7,10.7,9.7,2019-05-22
+Bitter+gourd,Uttar Pradesh,Mirzapur,Mirzapur,20.25,20.75,20.5,2019-05-22
+Bitter+gourd,Uttar Pradesh,Bahraich,Naanpara,11.45,12.5,12.0,2019-05-22
+Bitter+gourd,Uttar Pradesh,Lakhimpur,Paliakala,13.6,14.2,13.9,2019-05-22
+Bitter+gourd,Uttar Pradesh,Pillibhit,Puranpur,17.0,17.5,17.2,2019-05-22
+Bitter+gourd,Uttar Pradesh,Raebarelli,Raibareilly,7.6,8.0,7.75,2019-05-22
+Bitter+gourd,Uttar Pradesh,Barabanki,Rudauli,20.0,22.15,21.0,2019-05-22
+Bitter+gourd,Uttar Pradesh,Jaunpur,Shahganj,16.3,18.0,17.2,2019-05-22
+Bitter+gourd,Uttar Pradesh,Muzaffarnagar,Shamli,16.0,18.0,17.0,2019-05-22
+Bitter+gourd,Uttar Pradesh,Bulandshahar,Sikarpur,6.0,8.0,7.0,2019-05-22
+Bitter+gourd,Uttar Pradesh,Sultanpur,Sultanpur,15.0,20.0,17.0,2019-05-22
+Bitter+gourd,Uttar Pradesh,Saharanpur,Sultanpurchilkana,7.0,9.0,8.0,2019-05-22
+Bitter+gourd,Uttar Pradesh,Padrauna(Kusinagar),Tamkuhi Road,9.5,10.5,10.0,2019-05-22
+Bitter+gourd,Uttar Pradesh,Muzaffarnagar,Thanabhawan,8.0,9.0,8.4,2019-05-22
+Bitter+gourd,Uttrakhand,Dehradoon,Dehradoon,6.0,8.0,7.5,2019-05-22
+Bitter+gourd,Uttrakhand,Haridwar,Haridwar Union,6.0,10.35,8.0,2019-05-22
+Bitter+gourd,Uttrakhand,UdhamSinghNagar,Jaspur(UC),10.0,10.0,10.0,2019-05-22
+Bitter+gourd,Uttrakhand,UdhamSinghNagar,Khateema,8.0,10.0,9.0,2019-05-22
+Bitter+gourd,Uttrakhand,UdhamSinghNagar,Kicchha,7.0,10.0,8.5,2019-05-22
+Bitter+gourd,Uttrakhand,Garhwal (Pauri),Kotadwara,12.0,15.0,13.0,2019-05-22
+Bitter+gourd,Uttrakhand,Nanital,Ramnagar,6.0,7.0,6.5,2019-05-22
+Bitter+gourd,Uttrakhand,Haridwar,Roorkee,4.5,6.3,5.2,2019-05-22
+Bitter+gourd,Uttrakhand,UdhamSinghNagar,Sitarganj,9.0,11.0,10.0,2019-05-22
+Bitter+gourd,Uttrakhand,Dehradoon,Vikasnagar,16.0,20.0,18.0,2019-05-22
+Bitter+gourd,West Bengal,Jalpaiguri,Alipurduar,16.0,18.0,17.0,2019-05-22
+Bitter+gourd,West Bengal,Dakshin Dinajpur,Balurghat,38.0,40.0,39.0,2019-05-22
+Bitter+gourd,West Bengal,North 24 Parganas,Barasat,35.0,35.0,35.0,2019-05-22
+Bitter+gourd,West Bengal,Coochbehar,Coochbehar,26.0,27.5,27.0,2019-05-22
+Bitter+gourd,West Bengal,Jalpaiguri,Dhupguri,21.0,23.5,22.0,2019-05-22
+Bitter+gourd,West Bengal,Medinipur(E),Egra/contai,25.0,28.0,26.0,2019-05-22
+Bitter+gourd,West Bengal,Jalpaiguri,Falakata,23.0,25.0,24.0,2019-05-22
+Bitter+gourd,West Bengal,North 24 Parganas,Habra,39.0,43.0,42.0,2019-05-22
+Bitter+gourd,West Bengal,Jalpaiguri,Jalpaiguri Sadar,23.0,24.0,23.5,2019-05-22
+Bitter+gourd,West Bengal,Medinipur(W),Medinipur(West),33.0,37.0,35.0,2019-05-22
+Bitter+gourd,West Bengal,Kolkata,Sealdah Koley Market,40.0,42.0,42.0,2019-05-22
+Black+pepper,Karnataka,Chikmagalur,Chikkamagalore,200.0,350.0,238.6,2019-05-22
+Black+pepper,Karnataka,Madikeri(Kodagu),Gonikappal,265.0,270.0,270.0,2019-05-22
+Black+pepper,Kerala,Ernakulam,Angamaly,330.0,350.0,340.0,2019-05-22
+Black+pepper,Kerala,Kannur,Irikkur,320.0,320.0,320.0,2019-05-22
+Black+pepper,Kerala,Wayanad,Kalpetta,320.0,330.0,330.0,2019-05-22
+Black+pepper,Kerala,Kasargod,Kanjangadu,288.0,293.0,290.0,2019-05-22
+Black+pepper,Kerala,Kannur,Kannur,300.0,310.0,305.0,2019-05-22
+Black+pepper,Kerala,Ernakulam,Kothamangalam,330.0,340.0,335.0,2019-05-22
+Black+pepper,Kerala,Kannur,Payyannur,295.0,315.0,305.0,2019-05-22
+Black+pepper,Kerala,Ernakulam,Perumbavoor,320.0,340.0,330.0,2019-05-22
+Black+pepper,Kerala,Kannur,Taliparamba,315.0,320.0,317.5,2019-05-22
+Black+pepper,Kerala,Idukki,Thodupuzha,300.0,310.0,305.0,2019-05-22
+Black+pepper,Kerala,Thirssur,Thrissur,300.0,310.0,305.0,2019-05-22
+Bottle+gourd,Chattisgarh,Durg,Durg,10.0,12.0,11.0,2019-05-22
+Bottle+gourd,Gujarat,Ahmedabad,Ahmedabad,5.0,12.0,10.0,2019-05-22
+Bottle+gourd,Gujarat,Bharuch,Ankleshwar,3.5,5.75,5.25,2019-05-22
+Bottle+gourd,Gujarat,Bharuch,Bharuch,5.0,7.5,6.0,2019-05-22
+Bottle+gourd,Gujarat,Navsari,Bilimora,2.5,5.0,3.75,2019-05-22
+Bottle+gourd,Gujarat,Valsad,Chikli(Khorgam),4.0,5.0,4.5,2019-05-22
+Bottle+gourd,Gujarat,Dahod,Dahod(Veg. Market),5.0,12.0,10.0,2019-05-22
+Bottle+gourd,Gujarat,Ahmedabad,Dholka(Koth),13.0,15.0,14.0,2019-05-22
+Bottle+gourd,Gujarat,Rajkot,Morbi,10.0,15.0,12.5,2019-05-22
+Bottle+gourd,Gujarat,Kheda,Nadiyad(Piplag),4.5,6.5,5.5,2019-05-22
+Bottle+gourd,Gujarat,Vadodara(Baroda),Padra,7.0,12.0,9.5,2019-05-22
+Bottle+gourd,Gujarat,Rajkot,Rajkot(Ghee Peeth),5.5,10.5,7.5,2019-05-22
+Bottle+gourd,Gujarat,Surat,Surat,2.0,13.0,7.5,2019-05-22
+Bottle+gourd,Gujarat,Junagarh,Talalagir,5.0,7.0,6.0,2019-05-22
+Bottle+gourd,Haryana,Karnal,Asandh,8.5,11.0,10.0,2019-05-22
+Bottle+gourd,Haryana,Faridabad,Ballabhgarh,6.0,8.0,7.0,2019-05-22
+Bottle+gourd,Haryana,Panchkula,Barwala,6.0,10.0,8.0,2019-05-22
+Bottle+gourd,Haryana,Hissar,Barwala(Hisar),6.0,7.0,7.0,2019-05-22
+Bottle+gourd,Haryana,Kaithal,Cheeka,12.0,12.0,12.0,2019-05-22
+Bottle+gourd,Haryana,Yamuna Nagar,Chhachrauli,4.0,5.0,4.0,2019-05-22
+Bottle+gourd,Haryana,Faridabad,Faridabad,6.0,8.0,7.0,2019-05-22
+Bottle+gourd,Haryana,Fatehabad,Fatehabad,3.0,5.0,4.0,2019-05-22
+Bottle+gourd,Haryana,Sonipat,Ganaur,10.0,14.0,12.0,2019-05-22
+Bottle+gourd,Haryana,Fatehabad,Jakhal,6.0,6.0,6.0,2019-05-22
+Bottle+gourd,Haryana,Mahendragarh-Narnaul,Mohindergarh,3.0,5.0,4.0,2019-05-22
+Bottle+gourd,Haryana,Yamuna Nagar,Mustafabad,10.0,11.0,10.0,2019-05-22
+Bottle+gourd,Haryana,Gurgaon,Pataudi,3.0,5.0,4.0,2019-05-22
+Bottle+gourd,Haryana,Kurukshetra,Pehowa,12.0,12.0,12.0,2019-05-22
+Bottle+gourd,Haryana,Yamuna Nagar,Radaur,2.5,4.0,3.5,2019-05-22
+Bottle+gourd,Haryana,Panipat,Samalkha,4.0,6.0,5.0,2019-05-22
+Bottle+gourd,Haryana,Sonipat,Sonepat,10.0,12.0,12.0,2019-05-22
+Bottle+gourd,Himachal Pradesh,Kullu,Bhuntar,12.0,13.0,12.5,2019-05-22
+Bottle+gourd,Himachal Pradesh,Bilaspur,Bilaspur,8.0,12.0,9.0,2019-05-22
+Bottle+gourd,Himachal Pradesh,Chamba,Chamba,5.0,7.0,6.0,2019-05-22
+Bottle+gourd,Himachal Pradesh,Mandi,Dhanotu (Mandi),5.0,7.0,6.0,2019-05-22
+Bottle+gourd,Himachal Pradesh,Hamirpur,Hamirpur,6.0,8.0,7.0,2019-05-22
+Bottle+gourd,Himachal Pradesh,Hamirpur,Hamirpur(Nadaun),6.0,8.0,7.0,2019-05-22
+Bottle+gourd,Himachal Pradesh,Kangra,Kangra,5.0,7.0,6.0,2019-05-22
+Bottle+gourd,Himachal Pradesh,Kangra,Kangra(Baijnath),10.0,13.0,12.0,2019-05-22
+Bottle+gourd,Himachal Pradesh,Kangra,Kangra(Jassour),7.0,8.0,7.5,2019-05-22
+Bottle+gourd,Himachal Pradesh,Kullu,Kullu,15.0,20.0,17.0,2019-05-22
+Bottle+gourd,Himachal Pradesh,Mandi,Mandi(Mandi),2.0,10.0,5.0,2019-05-22
+Bottle+gourd,Himachal Pradesh,Sirmore,Nahan,5.0,10.0,8.0,2019-05-22
+Bottle+gourd,Himachal Pradesh,Kangra,Palampur,8.0,9.0,8.5,2019-05-22
+Bottle+gourd,Himachal Pradesh,Sirmore,Paonta Sahib,7.0,10.0,8.0,2019-05-22
+Bottle+gourd,Himachal Pradesh,Solan,Solan,8.0,10.0,9.0,2019-05-22
+Bottle+gourd,Himachal Pradesh,Solan,Solan(Nalagarh),8.0,10.0,9.0,2019-05-22
+Bottle+gourd,Karnataka,Kolar,Kolar,1.0,1.5,1.3,2019-05-22
+Bottle+gourd,Kerala,Kollam,Anchal,13.0,15.0,14.0,2019-05-22
+Bottle+gourd,Kerala,Ernakulam,Angamaly,20.0,26.0,22.0,2019-05-22
+Bottle+gourd,Kerala,Thiruvananthapuram,Chala,22.0,22.52,22.24,2019-05-22
+Bottle+gourd,Kerala,Alappuzha,Chengannur,12.0,13.0,12.0,2019-05-22
+Bottle+gourd,Kerala,Kozhikode(Calicut),Kallachi,28.0,32.0,30.0,2019-05-22
+Bottle+gourd,Kerala,Palakad,Koduvayoor,12.0,18.0,16.0,2019-05-22
+Bottle+gourd,Kerala,Malappuram,Kondotty,18.0,20.0,19.0,2019-05-22
+Bottle+gourd,Kerala,Malappuram,Kottakkal,20.0,21.5,21.0,2019-05-22
+Bottle+gourd,Kerala,Malappuram,Manjeri,18.0,19.0,18.5,2019-05-22
+Bottle+gourd,Kerala,Kasargod,Manjeswaram,22.0,30.0,26.0,2019-05-22
+Bottle+gourd,Kerala,Kozhikode(Calicut),Mukkom,10.0,14.0,12.0,2019-05-22
+Bottle+gourd,Kerala,Palakad,Palakkad,20.0,25.0,23.0,2019-05-22
+Bottle+gourd,Kerala,Kozhikode(Calicut),Palayam,24.0,26.0,25.0,2019-05-22
+Bottle+gourd,Kerala,Palakad,Pattambi,20.0,25.0,22.0,2019-05-22
+Bottle+gourd,Kerala,Malappuram,Perinthalmanna,16.0,20.0,18.0,2019-05-22
+Bottle+gourd,Kerala,Ernakulam,Perumbavoor,13.0,21.0,18.0,2019-05-22
+Bottle+gourd,Kerala,Thiruvananthapuram,Pothencode,30.0,40.0,35.0,2019-05-22
+Bottle+gourd,Kerala,Ernakulam,Thrippunithura,34.0,42.0,38.0,2019-05-22
+Bottle+gourd,Kerala,Palakad,vadakarapathy,10.0,12.0,11.0,2019-05-22
+Bottle+gourd,Kerala,Palakad,Vadakkenchery,18.0,22.0,20.0,2019-05-22
+Bottle+gourd,Madhya Pradesh,Chhindwara,Chhindwara(F&V),7.0,9.0,8.0,2019-05-22
+Bottle+gourd,Madhya Pradesh,Dhar,Dhamnod,7.0,10.0,8.5,2019-05-22
+Bottle+gourd,Madhya Pradesh,Narsinghpur,Gadarwada,5.0,6.0,5.5,2019-05-22
+Bottle+gourd,Madhya Pradesh,Harda,Harda(F&V),4.0,6.0,5.0,2019-05-22
+Bottle+gourd,Madhya Pradesh,Indore,Indore(F&V),3.0,6.0,4.0,2019-05-22
+Bottle+gourd,Madhya Pradesh,Khandwa,Khandwa(F&V),5.0,7.5,6.4,2019-05-22
+Bottle+gourd,Madhya Pradesh,Dhar,Kukshi,4.0,6.0,5.0,2019-05-22
+Bottle+gourd,Madhya Pradesh,Dhar,Rajgarh,8.0,12.0,10.0,2019-05-22
+Bottle+gourd,Madhya Pradesh,Indore,Sanwer,9.5,10.5,10.0,2019-05-22
+Bottle+gourd,Madhya Pradesh,Badwani,Sendhwa,6.0,9.0,7.5,2019-05-22
+Bottle+gourd,Madhya Pradesh,Sheopur,Syopurkalan(F&V),5.0,6.0,5.5,2019-05-22
+Bottle+gourd,Madhya Pradesh,Jhabua,Thandla,18.0,20.0,19.0,2019-05-22
+Bottle+gourd,Madhya Pradesh,Harda,Timarni,3.0,5.0,4.0,2019-05-22
+Bottle+gourd,Madhya Pradesh,Ujjain,Ujjain(F&V),7.0,16.5,12.75,2019-05-22
+Bottle+gourd,Maharashtra,Aurangabad,Aurangabad,7.0,14.0,10.5,2019-05-22
+Bottle+gourd,Maharashtra,Nagpur,Kalmeshwar,7.25,10.0,9.4,2019-05-22
+Bottle+gourd,Maharashtra,Pune,Maanachar,2.0,9.0,5.6,2019-05-22
+Bottle+gourd,Maharashtra,Mumbai,Mumbai,12.0,20.0,16.0,2019-05-22
+Bottle+gourd,Maharashtra,Nashik,Nasik,2.35,6.65,4.0,2019-05-22
+Bottle+gourd,Maharashtra,Pune,Pune,7.0,16.0,10.0,2019-05-22
+Bottle+gourd,Maharashtra,Pune,Pune(Khadiki),6.0,7.0,6.5,2019-05-22
+Bottle+gourd,Maharashtra,Ahmednagar,Shrirampur,8.0,10.0,9.0,2019-05-22
+Bottle+gourd,Nagaland,Dimapur,Dimapur,24.0,28.0,26.0,2019-05-22
+Bottle+gourd,NCT of Delhi,Delhi,Azadpur,3.0,8.0,5.5,2019-05-22
+Bottle+gourd,Punjab,Sangrur,Ahmedgarh,10.0,12.0,11.0,2019-05-22
+Bottle+gourd,Punjab,Sangrur,Bhawanigarh,8.0,10.0,9.0,2019-05-22
+Bottle+gourd,Punjab,Jalandhar,Bilga,8.0,10.0,9.0,2019-05-22
+Bottle+gourd,Punjab,Mohali,Dera Bassi,9.0,11.0,10.0,2019-05-22
+Bottle+gourd,Punjab,Sangrur,Dhuri,7.0,8.0,7.5,2019-05-22
+Bottle+gourd,Punjab,Ferozpur,Firozepur City,10.0,15.0,12.5,2019-05-22
+Bottle+gourd,Punjab,Muktsar,Giddarbaha,3.0,5.0,4.0,2019-05-22
+Bottle+gourd,Punjab,Gurdaspur,Gurdaspur,3.0,4.0,3.5,2019-05-22
+Bottle+gourd,Punjab,Mohali,Kharar,4.0,8.0,6.0,2019-05-22
+Bottle+gourd,Punjab,Mohali,Kurali,5.0,6.0,5.6,2019-05-22
+Bottle+gourd,Punjab,Mohali,Lalru,10.0,10.0,10.0,2019-05-22
+Bottle+gourd,Punjab,Sangrur,Malerkotla,3.5,6.0,4.0,2019-05-22
+Bottle+gourd,Punjab,Tarntaran,Patti,7.0,9.0,8.0,2019-05-22
+Bottle+gourd,Punjab,Patiala,Rajpura,4.0,6.0,5.0,2019-05-22
+Bottle+gourd,Punjab,Ludhiana,Sahnewal,4.0,4.8,4.8,2019-05-22
+Bottle+gourd,Punjab,Sangrur,Sangrur,3.0,5.0,4.0,2019-05-22
+Bottle+gourd,Punjab,Sangrur,Sunam,1.0,3.0,2.0,2019-05-22
+Bottle+gourd,Rajasthan,Jalore,Jalore,4.0,5.0,4.5,2019-05-22
+Bottle+gourd,Rajasthan,Udaipur,Udaipur(F&V),5.0,15.0,10.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Agra,Achnera,7.15,7.65,7.4,2019-05-22
+Bottle+gourd,Uttar Pradesh,Agra,Agra,7.0,8.0,7.5,2019-05-22
+Bottle+gourd,Uttar Pradesh,Ambedkarnagar,Akbarpur,11.8,12.6,12.2,2019-05-22
+Bottle+gourd,Uttar Pradesh,Aligarh,Aligarh,5.0,6.0,5.5,2019-05-22
+Bottle+gourd,Uttar Pradesh,Bulandshahar,Anoop Shahar,3.9,4.1,4.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Bareilly,Anwala,5.0,6.0,5.5,2019-05-22
+Bottle+gourd,Uttar Pradesh,Banda,Atarra,10.0,11.0,10.5,2019-05-22
+Bottle+gourd,Uttar Pradesh,Aligarh,Atrauli,7.3,7.5,7.4,2019-05-22
+Bottle+gourd,Uttar Pradesh,Auraiya,Auraiya,7.5,8.5,8.1,2019-05-22
+Bottle+gourd,Uttar Pradesh,Etah,Awagarh,6.0,8.0,7.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Azamgarh,Azamgarh,9.75,10.75,10.25,2019-05-22
+Bottle+gourd,Uttar Pradesh,Shahjahanpur,Badda,10.0,12.0,11.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Baghpat,Bagpat,8.0,10.0,9.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Ballia,Ballia,12.0,13.0,12.6,2019-05-22
+Bottle+gourd,Uttar Pradesh,Balrampur,Balrampur,7.0,8.5,8.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Unnao,Bangarmau,9.0,10.0,9.5,2019-05-22
+Bottle+gourd,Uttar Pradesh,Barabanki,Barabanki,9.2,11.2,10.5,2019-05-22
+Bottle+gourd,Uttar Pradesh,Baghpat,Baraut,8.0,9.0,8.5,2019-05-22
+Bottle+gourd,Uttar Pradesh,Bareilly,Bareilly,7.4,7.8,7.6,2019-05-22
+Bottle+gourd,Uttar Pradesh,Basti,Basti,18.5,19.5,19.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Mainpuri,Bewar,11.0,13.0,12.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Etawah,Bharthna,8.8,10.5,9.6,2019-05-22
+Bottle+gourd,Uttar Pradesh,Bijnor,Bijnaur,6.4,7.5,7.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Bijnor,Chaandpur,4.0,5.0,4.5,2019-05-22
+Bottle+gourd,Uttar Pradesh,Muradabad,Chandausi,9.4,10.2,9.8,2019-05-22
+Bottle+gourd,Uttar Pradesh,Aligarh,Charra,5.75,6.75,6.25,2019-05-22
+Bottle+gourd,Uttar Pradesh,Kannuj,Chhibramau(Kannuj),6.8,7.2,7.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Saharanpur,Chutmalpur,3.5,4.5,4.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Bijnor,Dhampur,5.0,6.0,5.5,2019-05-22
+Bottle+gourd,Uttar Pradesh,Bulandshahar,Divai,6.8,7.0,6.9,2019-05-22
+Bottle+gourd,Uttar Pradesh,Sonbhadra,Dudhi,3.0,4.0,4.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Etah,Etah,7.0,8.5,7.6,2019-05-22
+Bottle+gourd,Uttar Pradesh,Etawah,Etawah,8.0,10.5,9.5,2019-05-22
+Bottle+gourd,Uttar Pradesh,Faizabad,Faizabad,11.5,12.0,11.7,2019-05-22
+Bottle+gourd,Uttar Pradesh,Farukhabad,Farukhabad,5.5,6.5,6.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Agra,Fatehabad,8.0,8.5,8.2,2019-05-22
+Bottle+gourd,Uttar Pradesh,Fatehpur,Fatehpur,6.0,7.0,6.3,2019-05-22
+Bottle+gourd,Uttar Pradesh,Firozabad,Firozabad,5.0,7.0,6.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Maharajganj,Gadaura,9.0,11.0,10.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Saharanpur,Gangoh,5.45,5.7,5.55,2019-05-22
+Bottle+gourd,Uttar Pradesh,Etah,Ganjdudwara,6.5,7.5,7.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Ghaziabad,Ghaziabad,12.0,13.0,12.5,2019-05-22
+Bottle+gourd,Uttar Pradesh,Mainpuri,Ghiraur,6.0,7.0,6.4,2019-05-22
+Bottle+gourd,Uttar Pradesh,Gonda,Gonda,7.45,7.55,7.5,2019-05-22
+Bottle+gourd,Uttar Pradesh,Gorakhpur,Gorakhpur,12.1,13.3,12.6,2019-05-22
+Bottle+gourd,Uttar Pradesh,Bulandshahar,Gulavati,4.13,4.17,4.15,2019-05-22
+Bottle+gourd,Uttar Pradesh,Hathras,Haathras,4.0,6.0,5.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Jyotiba Phule Nagar,Hasanpur,6.5,7.5,7.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Bulandshahar,Jahangirabad,5.0,6.0,5.5,2019-05-22
+Bottle+gourd,Uttar Pradesh,Shahjahanpur,Jalalabad,4.6,5.0,4.8,2019-05-22
+Bottle+gourd,Uttar Pradesh,Jalaun (Orai),Jalaun,8.5,9.2,9.2,2019-05-22
+Bottle+gourd,Uttar Pradesh,Agra,Jarar,4.7,5.5,5.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Etawah,Jasvantnagar,7.0,8.0,7.5,2019-05-22
+Bottle+gourd,Uttar Pradesh,Jaunpur,Jaunpur,12.3,12.75,12.5,2019-05-22
+Bottle+gourd,Uttar Pradesh,Gautam Budh Nagar,Javer,0.0,7.0,6.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Jhansi,Jhansi,10.0,11.5,10.6,2019-05-22
+Bottle+gourd,Uttar Pradesh,Muzaffarnagar,Kadhle,5.0,5.6,5.3,2019-05-22
+Bottle+gourd,Uttar Pradesh,Muzaffarnagar,Kairana,5.0,6.0,5.4,2019-05-22
+Bottle+gourd,Uttar Pradesh,Kannuj,Kannauj,7.5,8.5,8.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Kanpur,Kanpur(Grain),6.75,7.75,7.25,2019-05-22
+Bottle+gourd,Uttar Pradesh,Chitrakut,Karvi,9.25,10.25,9.7,2019-05-22
+Bottle+gourd,Uttar Pradesh,Etah,Kasganj,7.3,8.0,7.5,2019-05-22
+Bottle+gourd,Uttar Pradesh,Farukhabad,Kayamganj,7.5,8.5,8.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Agra,Khairagarh,15.0,16.0,15.5,2019-05-22
+Bottle+gourd,Uttar Pradesh,Sant Kabir Nagar,Khalilabad,6.0,7.0,6.25,2019-05-22
+Bottle+gourd,Uttar Pradesh,Muzaffarnagar,Khatauli,4.4,4.6,4.5,2019-05-22
+Bottle+gourd,Uttar Pradesh,Baghpat,Khekda,7.0,9.0,8.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Bulandshahar,Khurja,6.2,7.0,6.7,2019-05-22
+Bottle+gourd,Uttar Pradesh,Bijnor,Kiratpur,4.5,5.5,5.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj,9.25,10.25,9.8,2019-05-22
+Bottle+gourd,Uttar Pradesh,Mathura,Kosikalan,2.5,3.5,3.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Lakhimpur,Lakhimpur,8.2,9.2,8.7,2019-05-22
+Bottle+gourd,Uttar Pradesh,Lalitpur,Lalitpur,10.3,10.9,10.6,2019-05-22
+Bottle+gourd,Uttar Pradesh,Lucknow,Lucknow,7.0,8.5,7.5,2019-05-22
+Bottle+gourd,Uttar Pradesh,Mahoba,Mahoba,10.5,11.1,10.8,2019-05-22
+Bottle+gourd,Uttar Pradesh,Mainpuri,Mainpuri,4.5,5.5,5.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Hamirpur,Maudaha,10.0,12.0,11.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Meerut,Meerut,6.5,7.25,7.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Mirzapur,Mirzapur,11.45,11.85,11.65,2019-05-22
+Bottle+gourd,Uttar Pradesh,Jhansi,Moth,8.6,9.5,9.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Muradabad,Muradabad,9.5,11.0,10.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Muzaffarnagar,Muzzafarnagar,7.25,7.9,7.6,2019-05-22
+Bottle+gourd,Uttar Pradesh,Bahraich,Naanpara,5.0,5.9,5.5,2019-05-22
+Bottle+gourd,Uttar Pradesh,Siddharth Nagar,Naugarh,9.25,10.0,9.75,2019-05-22
+Bottle+gourd,Uttar Pradesh,Ghaziabad,Noida,8.52,10.25,9.74,2019-05-22
+Bottle+gourd,Uttar Pradesh,Jalaun (Orai),Orai,10.0,20.0,10.5,2019-05-22
+Bottle+gourd,Uttar Pradesh,Lakhimpur,Paliakala,7.7,8.35,8.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Pillibhit,Pilibhit,7.2,7.6,7.4,2019-05-22
+Bottle+gourd,Uttar Pradesh,Kanpur,Pukhrayan,8.0,9.0,8.35,2019-05-22
+Bottle+gourd,Uttar Pradesh,Pillibhit,Puranpur,7.2,7.8,7.5,2019-05-22
+Bottle+gourd,Uttar Pradesh,Shahjahanpur,Puwaha,10.0,12.0,11.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Raebarelli,Raibareilly,9.0,10.0,9.5,2019-05-22
+Bottle+gourd,Uttar Pradesh,Rampur,Rampur,8.0,9.0,8.5,2019-05-22
+Bottle+gourd,Uttar Pradesh,Barabanki,Rudauli,9.5,11.0,10.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Kanpur,Rura,8.5,9.0,9.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Saharanpur,Saharanpur,7.0,8.0,7.5,2019-05-22
+Bottle+gourd,Uttar Pradesh,Siddharth Nagar,Sahiyapur,8.9,9.9,9.4,2019-05-22
+Bottle+gourd,Uttar Pradesh,Ghazipur,Saidpur,11.5,12.5,12.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Muradabad,Sambhal,5.0,6.25,5.6,2019-05-22
+Bottle+gourd,Uttar Pradesh,Agra,Samsabad,8.0,8.5,8.2,2019-05-22
+Bottle+gourd,Uttar Pradesh,Hardoi,Sandi,10.0,11.0,10.5,2019-05-22
+Bottle+gourd,Uttar Pradesh,Hardoi,Shahabad(New Mandi),8.3,9.1,8.7,2019-05-22
+Bottle+gourd,Uttar Pradesh,Jaunpur,Shahganj,10.5,12.5,11.4,2019-05-22
+Bottle+gourd,Uttar Pradesh,Shahjahanpur,Shahjahanpur,12.0,13.0,12.6,2019-05-22
+Bottle+gourd,Uttar Pradesh,Muzaffarnagar,Shamli,6.5,8.0,7.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Firozabad,Sirsaganj,5.3,7.3,6.3,2019-05-22
+Bottle+gourd,Uttar Pradesh,Sitapur,Sitapur,8.9,10.5,10.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Bulandshahar,Siyana,4.0,5.0,4.6,2019-05-22
+Bottle+gourd,Uttar Pradesh,Sultanpur,Sultanpur,9.0,11.0,10.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Saharanpur,Sultanpurchilkana,4.0,5.0,4.5,2019-05-22
+Bottle+gourd,Uttar Pradesh,Padrauna(Kusinagar),Tamkuhi Road,8.5,9.5,9.0,2019-05-22
+Bottle+gourd,Uttar Pradesh,Muzaffarnagar,Thanabhawan,4.0,5.0,4.6,2019-05-22
+Bottle+gourd,Uttar Pradesh,Firozabad,Tundla,7.3,7.6,7.5,2019-05-22
+Bottle+gourd,Uttrakhand,Dehradoon,Dehradoon,4.0,6.0,4.5,2019-05-22
+Bottle+gourd,Uttrakhand,Nanital,Haldwani,5.03,7.03,6.03,2019-05-22
+Bottle+gourd,Uttrakhand,Haridwar,Haridwar Union,4.0,5.35,5.0,2019-05-22
+Bottle+gourd,Uttrakhand,UdhamSinghNagar,Jaspur(UC),8.0,8.0,8.0,2019-05-22
+Bottle+gourd,Uttrakhand,UdhamSinghNagar,Kashipur,6.0,7.0,6.5,2019-05-22
+Bottle+gourd,Uttrakhand,UdhamSinghNagar,Khateema,3.12,5.12,4.12,2019-05-22
+Bottle+gourd,Uttrakhand,UdhamSinghNagar,Kicchha,4.0,6.0,5.0,2019-05-22
+Bottle+gourd,Uttrakhand,Garhwal (Pauri),Kotadwara,4.0,9.0,7.0,2019-05-22
+Bottle+gourd,Uttrakhand,Haridwar,Manglaur,8.0,10.0,9.0,2019-05-22
+Bottle+gourd,Uttrakhand,Haridwar,Roorkee,4.0,6.0,5.0,2019-05-22
+Bottle+gourd,Uttrakhand,Dehradoon,Vikasnagar,5.0,8.0,5.0,2019-05-22
+Brinjal,Assam,Kamrup,Pamohi(Garchuk),28.0,30.0,29.0,2019-05-22
+Brinjal,Chattisgarh,Rajnandgaon,Rajnandgaon,10.0,10.0,10.0,2019-05-22
+Brinjal,Gujarat,Ahmedabad,Ahmedabad,5.0,10.0,8.0,2019-05-22
+Brinjal,Gujarat,Bharuch,Ankleshwar,17.0,24.0,21.5,2019-05-22
+Brinjal,Gujarat,Surat,Bardoli(Katod),10.0,20.0,16.0,2019-05-22
+Brinjal,Gujarat,Bharuch,Bharuch,15.0,18.5,17.0,2019-05-22
+Brinjal,Gujarat,Navsari,Bilimora,5.0,15.0,10.0,2019-05-22
+Brinjal,Gujarat,Dahod,Dahod(Veg. Market),6.0,15.0,10.0,2019-05-22
+Brinjal,Gujarat,Amreli,Damnagar,19.0,24.0,22.0,2019-05-22
+Brinjal,Gujarat,Ahmedabad,Dholka(Koth),9.0,12.0,10.0,2019-05-22
+Brinjal,Gujarat,Rajkot,Dhoraji,5.5,10.5,8.0,2019-05-22
+Brinjal,Gujarat,Rajkot,Morbi,10.0,15.0,12.5,2019-05-22
+Brinjal,Gujarat,Kheda,Nadiyad(Piplag),5.0,7.0,6.0,2019-05-22
+Brinjal,Gujarat,Vadodara(Baroda),Padra,10.0,12.5,11.25,2019-05-22
+Brinjal,Gujarat,Rajkot,Rajkot(Ghee Peeth),5.5,10.5,8.0,2019-05-22
+Brinjal,Gujarat,Surat,Surat,5.0,19.0,12.0,2019-05-22
+Brinjal,Gujarat,Junagarh,Talalagir,7.5,9.0,8.5,2019-05-22
+Brinjal,Haryana,Karnal,Asandh,8.0,9.5,9.0,2019-05-22
+Brinjal,Haryana,Faridabad,Ballabhgarh,12.0,14.0,13.0,2019-05-22
+Brinjal,Haryana,Panchkula,Barwala,8.0,12.0,10.0,2019-05-22
+Brinjal,Haryana,Hissar,Barwala(Hisar),8.0,9.0,9.0,2019-05-22
+Brinjal,Haryana,Yamuna Nagar,Chhachrauli,10.1,10.1,10.1,2019-05-22
+Brinjal,Haryana,Faridabad,Faridabad,8.0,10.0,9.0,2019-05-22
+Brinjal,Haryana,Fatehabad,Fatehabad,10.0,12.0,10.0,2019-05-22
+Brinjal,Haryana,Fatehabad,Jakhal,7.0,7.0,7.0,2019-05-22
+Brinjal,Haryana,Mahendragarh-Narnaul,Mohindergarh,6.0,15.0,10.0,2019-05-22
+Brinjal,Haryana,Ambala,Mullana,7.0,7.0,7.0,2019-05-22
+Brinjal,Haryana,Yamuna Nagar,Mustafabad,12.0,13.0,12.0,2019-05-22
+Brinjal,Haryana,Gurgaon,Pataudi,8.0,10.0,9.0,2019-05-22
+Brinjal,Haryana,Yamuna Nagar,Radaur,10.0,13.0,12.0,2019-05-22
+Brinjal,Haryana,Panipat,Samalkha,10.0,14.0,12.0,2019-05-22
+Brinjal,Haryana,Sonipat,Sonepat,8.0,12.0,8.0,2019-05-22
+Brinjal,Himachal Pradesh,Kullu,Bhuntar,16.0,22.0,19.0,2019-05-22
+Brinjal,Himachal Pradesh,Chamba,Chamba,9.0,12.0,10.5,2019-05-22
+Brinjal,Himachal Pradesh,Mandi,Dhanotu (Mandi),5.0,14.0,9.5,2019-05-22
+Brinjal,Himachal Pradesh,Hamirpur,Hamirpur,15.0,18.0,16.0,2019-05-22
+Brinjal,Himachal Pradesh,Hamirpur,Hamirpur(Nadaun),15.0,17.0,16.0,2019-05-22
+Brinjal,Himachal Pradesh,Kangra,Kangra,13.0,14.0,13.5,2019-05-22
+Brinjal,Himachal Pradesh,Kangra,Kangra(Baijnath),15.0,20.0,18.0,2019-05-22
+Brinjal,Himachal Pradesh,Kangra,Kangra(Jassour),9.0,10.0,9.5,2019-05-22
+Brinjal,Himachal Pradesh,Kullu,Kullu,16.0,20.0,18.0,2019-05-22
+Brinjal,Himachal Pradesh,Mandi,Mandi(Mandi),7.0,20.0,14.0,2019-05-22
+Brinjal,Himachal Pradesh,Sirmore,Nahan,18.0,20.0,19.0,2019-05-22
+Brinjal,Himachal Pradesh,Kangra,Palampur,15.0,20.0,17.5,2019-05-22
+Brinjal,Himachal Pradesh,Sirmore,Paonta Sahib,20.0,25.0,23.0,2019-05-22
+Brinjal,Himachal Pradesh,Solan,Solan,10.0,15.0,12.0,2019-05-22
+Brinjal,Himachal Pradesh,Solan,Solan(Nalagarh),13.0,15.0,14.0,2019-05-22
+Brinjal,Jammu and Kashmir,Jammu,Akhnoor,12.0,13.0,12.5,2019-05-22
+Brinjal,Karnataka,Davangere,Honnali,3.0,6.0,5.0,2019-05-22
+Brinjal,Karnataka,Kolar,Kolar,10.0,12.0,11.0,2019-05-22
+Brinjal,Karnataka,Bangalore,Ramanagara,28.0,32.0,30.0,2019-05-22
+Brinjal,Kerala,Ernakulam,Aluva,30.0,40.0,35.0,2019-05-22
+Brinjal,Kerala,Ernakulam,Angamaly,21.0,25.0,23.0,2019-05-22
+Brinjal,Kerala,Alappuzha,Aroor,36.0,38.0,37.0,2019-05-22
+Brinjal,Kerala,Kottayam,Athirampuzha,24.0,26.0,25.0,2019-05-22
+Brinjal,Kerala,Thiruvananthapuram,Attingal,38.0,40.0,40.0,2019-05-22
+Brinjal,Kerala,Thiruvananthapuram,Chala,33.0,33.54,33.21,2019-05-22
+Brinjal,Kerala,Kollam,Chathanoor,38.0,42.0,40.0,2019-05-22
+Brinjal,Kerala,Thirssur,Chelakkara,20.0,0.0,21.0,2019-05-22
+Brinjal,Kerala,Alappuzha,Chengannur,34.0,37.0,36.0,2019-05-22
+Brinjal,Kerala,Alappuzha,Cherthala,32.0,33.5,33.0,2019-05-22
+Brinjal,Kerala,Kottayam,Ettumanoor,25.0,27.0,26.0,2019-05-22
+Brinjal,Kerala,Alappuzha,Harippad,35.0,40.0,40.0,2019-05-22
+Brinjal,Kerala,Kozhikode(Calicut),Kallachi,14.0,18.0,16.0,2019-05-22
+Brinjal,Kerala,Wayanad,Kalpetta,16.0,17.0,17.0,2019-05-22
+Brinjal,Kerala,Kasargod,Kanjangadu,21.0,30.0,25.0,2019-05-22
+Brinjal,Kerala,Alappuzha,Kayamkulam,21.0,23.0,22.0,2019-05-22
+Brinjal,Kerala,Palakad,Koduvayoor,12.0,18.0,16.0,2019-05-22
+Brinjal,Kerala,Malappuram,Kondotty,17.0,19.0,18.0,2019-05-22
+Brinjal,Kerala,Ernakulam,Kothamangalam,25.0,32.0,28.0,2019-05-22
+Brinjal,Kerala,Malappuram,Kottakkal,14.0,15.0,14.5,2019-05-22
+Brinjal,Kerala,Pathanamthitta,Kuttoor,23.0,30.0,27.0,2019-05-22
+Brinjal,Kerala,Alappuzha,Madhavapuram,34.0,38.0,36.0,2019-05-22
+Brinjal,Kerala,Malappuram,Manjeri,15.0,16.0,15.5,2019-05-22
+Brinjal,Kerala,Kasargod,Manjeswaram,28.0,34.0,31.0,2019-05-22
+Brinjal,Kerala,Alappuzha,Mannar,35.0,37.0,36.0,2019-05-22
+Brinjal,Kerala,Kozhikode(Calicut),Mukkom,18.0,22.0,20.0,2019-05-22
+Brinjal,Kerala,Kasargod,Neeleswaram,32.0,36.0,34.0,2019-05-22
+Brinjal,Kerala,Thiruvananthapuram,Neyyatinkara,25.0,30.0,27.0,2019-05-22
+Brinjal,Kerala,Palakad,Palakkad,25.0,30.0,28.0,2019-05-22
+Brinjal,Kerala,Kozhikode(Calicut),Palayam,14.0,16.0,15.0,2019-05-22
+Brinjal,Kerala,Kottayam,Pampady,30.0,34.0,32.0,2019-05-22
+Brinjal,Kerala,Palakad,Pattambi,20.0,30.0,25.0,2019-05-22
+Brinjal,Kerala,Malappuram,Perinthalmanna,32.0,38.0,35.0,2019-05-22
+Brinjal,Kerala,Ernakulam,Perumbavoor,22.0,30.0,28.0,2019-05-22
+Brinjal,Kerala,Thiruvananthapuram,Pothencode,40.0,50.0,45.0,2019-05-22
+Brinjal,Kerala,Kozhikode(Calicut),Quilandy,15.0,18.0,17.0,2019-05-22
+Brinjal,Kerala,Kottayam,Thalayolaparambu,16.0,21.0,18.0,2019-05-22
+Brinjal,Kerala,Idukki,Thodupuzha,18.0,20.0,20.0,2019-05-22
+Brinjal,Kerala,Ernakulam,Thrippunithura,38.0,44.0,40.0,2019-05-22
+Brinjal,Kerala,Thirssur,Thrissur,18.0,20.0,19.0,2019-05-22
+Brinjal,Kerala,Palakad,vadakarapathy,12.0,14.0,13.0,2019-05-22
+Brinjal,Kerala,Palakad,Vadakkenchery,25.0,30.0,27.5,2019-05-22
+Brinjal,Kerala,Kozhikode(Calicut),Vengeri(Kozhikode),19.0,21.0,20.0,2019-05-22
+Brinjal,Madhya Pradesh,Rajgarh,Biaora,9.0,10.0,9.5,2019-05-22
+Brinjal,Madhya Pradesh,Burhanpur,Burhanpur(F&V),9.0,16.0,13.0,2019-05-22
+Brinjal,Madhya Pradesh,Chhindwara,Chhindwara(F&V),9.0,11.0,10.0,2019-05-22
+Brinjal,Madhya Pradesh,Dewas,Dewas(F&V),7.0,17.0,11.0,2019-05-22
+Brinjal,Madhya Pradesh,Dhar,Dhamnod,8.0,10.0,9.0,2019-05-22
+Brinjal,Madhya Pradesh,Narsinghpur,Gadarwada,6.0,10.0,8.0,2019-05-22
+Brinjal,Madhya Pradesh,Guna,Guna(F&V),3.0,5.0,3.5,2019-05-22
+Brinjal,Madhya Pradesh,Dewas,Haatpipliya,10.0,15.0,12.0,2019-05-22
+Brinjal,Madhya Pradesh,Harda,Harda(F&V),3.0,5.0,4.0,2019-05-22
+Brinjal,Madhya Pradesh,Indore,Indore(F&V),4.0,8.0,6.0,2019-05-22
+Brinjal,Madhya Pradesh,Jhabua,Jhabua,6.0,7.0,6.5,2019-05-22
+Brinjal,Madhya Pradesh,Dhar,Kukshi,5.0,9.0,7.0,2019-05-22
+Brinjal,Madhya Pradesh,Mandsaur,Mandsaur(F&V),4.0,6.0,5.0,2019-05-22
+Brinjal,Madhya Pradesh,Shajapur,Nalkehda,17.0,20.0,18.5,2019-05-22
+Brinjal,Madhya Pradesh,Dhar,Rajgarh,8.0,11.0,10.0,2019-05-22
+Brinjal,Madhya Pradesh,Indore,Sanwer,9.5,10.0,9.75,2019-05-22
+Brinjal,Madhya Pradesh,Badwani,Sendhwa,5.0,8.0,6.5,2019-05-22
+Brinjal,Madhya Pradesh,Jhabua,Thandla,17.0,19.0,18.0,2019-05-22
+Brinjal,Madhya Pradesh,Harda,Timarni,8.0,10.0,9.0,2019-05-22
+Brinjal,Madhya Pradesh,Ujjain,Ujjain(F&V),6.5,22.0,13.8,2019-05-22
+Brinjal,Maharashtra,Sholapur,Akluj,15.0,27.0,25.0,2019-05-22
+Brinjal,Maharashtra,Aurangabad,Aurangabad,6.0,15.0,10.5,2019-05-22
+Brinjal,Maharashtra,Chandrapur,Chandrapur(Ganjwad),8.0,12.0,10.0,2019-05-22
+Brinjal,Maharashtra,Jalgaon,Jalgaon,5.0,13.0,9.0,2019-05-22
+Brinjal,Maharashtra,Nagpur,Kalmeshwar,6.55,9.0,8.75,2019-05-22
+Brinjal,Maharashtra,Satara,Karad,7.0,10.0,10.0,2019-05-22
+Brinjal,Maharashtra,Pune,Khed(Chakan),10.0,20.0,15.0,2019-05-22
+Brinjal,Maharashtra,Kolhapur,Kolhapur,5.0,25.0,15.0,2019-05-22
+Brinjal,Maharashtra,Pune,Maanachar,2.0,20.0,12.5,2019-05-22
+Brinjal,Maharashtra,Sholapur,Mangal Wedha,8.0,60.0,33.0,2019-05-22
+Brinjal,Maharashtra,Mumbai,Mumbai,8.0,14.0,11.0,2019-05-22
+Brinjal,Maharashtra,Nashik,Nasik,10.0,32.5,17.5,2019-05-22
+Brinjal,Maharashtra,Satara,Patan,12.5,14.5,13.5,2019-05-22
+Brinjal,Maharashtra,Pune,Pune,6.0,20.0,13.0,2019-05-22
+Brinjal,Maharashtra,Pune,Pune(Khadiki),5.0,15.0,10.0,2019-05-22
+Brinjal,Maharashtra,Pune,Pune(Pimpri),20.0,30.0,25.0,2019-05-22
+Brinjal,Maharashtra,Ratnagiri,Ratnagiri (Nachane),15.0,25.0,20.0,2019-05-22
+Brinjal,Maharashtra,Satara,Satara,15.0,20.0,17.5,2019-05-22
+Brinjal,Maharashtra,Ahmednagar,Shrirampur,10.0,15.0,12.5,2019-05-22
+Brinjal,Maharashtra,Kolhapur,Vadgaonpeth,5.0,20.0,16.0,2019-05-22
+Brinjal,Meghalaya,West Garo Hills,Dadengiri,35.0,40.0,37.0,2019-05-22
+Brinjal,Meghalaya,West Garo Hills,Tura,35.0,40.0,38.0,2019-05-22
+Brinjal,Nagaland,Dimapur,Dimapur,23.0,27.0,25.0,2019-05-22
+Brinjal,NCT of Delhi,Delhi,Azadpur,5.0,14.0,8.33,2019-05-22
+Brinjal,Odisha,Nayagarh,Bahadajholla,30.0,33.0,32.0,2019-05-22
+Brinjal,Odisha,Khurda,Balugaon,30.0,33.0,32.0,2019-05-22
+Brinjal,Odisha,Cuttack,Banki,38.0,40.0,39.0,2019-05-22
+Brinjal,Odisha,Bargarh,Bargarh(Barapalli),12.0,20.0,15.0,2019-05-22
+Brinjal,Odisha,Mayurbhanja,Baripada,20.0,30.0,25.0,2019-05-22
+Brinjal,Odisha,Mayurbhanja,Betnoti,16.0,20.0,18.0,2019-05-22
+Brinjal,Odisha,Ganjam,Bhanjanagar,16.0,19.0,18.0,2019-05-22
+Brinjal,Odisha,Sonepur,Birmaharajpur,15.0,25.0,20.0,2019-05-22
+Brinjal,Odisha,Bolangir,Bolangir,18.0,20.0,18.0,2019-05-22
+Brinjal,Odisha,Sundergarh,Bonai,20.0,20.0,20.0,2019-05-22
+Brinjal,Odisha,Boudh,Boudh,16.0,20.0,20.0,2019-05-22
+Brinjal,Odisha,Kendrapara,Chatta Krushak Bazar,35.0,36.0,35.0,2019-05-22
+Brinjal,Odisha,Mayurbhanja,Chuliaposi,25.0,30.0,25.0,2019-05-22
+Brinjal,Odisha,Dhenkanal,Dhenkanal,25.0,35.0,30.0,2019-05-22
+Brinjal,Odisha,Sonepur,Dungurapalli,16.0,18.5,18.0,2019-05-22
+Brinjal,Odisha,Kendrapara,Gopa,30.0,32.0,30.0,2019-05-22
+Brinjal,Odisha,Dhenkanal,Hindol,25.0,30.0,28.0,2019-05-22
+Brinjal,Odisha,Ganjam,Hinjilicut,30.0,40.0,35.0,2019-05-22
+Brinjal,Odisha,Jagatsinghpur,Jagatsinghpur,35.0,50.0,40.0,2019-05-22
+Brinjal,Odisha,Jajpur,Jajpur,30.0,35.0,32.0,2019-05-22
+Brinjal,Odisha,Jajpur,Jhumpura,25.0,30.0,30.0,2019-05-22
+Brinjal,Odisha,Dhenkanal,Kamakhyanagar,19.0,25.0,20.0,2019-05-22
+Brinjal,Odisha,Boudh,Khunthabandha,16.0,20.0,20.0,2019-05-22
+Brinjal,Odisha,Koraput,Koraput(Semilguda),18.0,20.0,19.0,2019-05-22
+Brinjal,Odisha,Bargarh,Padampur,18.0,20.0,19.0,2019-05-22
+Brinjal,Odisha,Sonepur,Pandkital,18.0,19.0,19.0,2019-05-22
+Brinjal,Odisha,Sundergarh,Panposh,16.0,20.0,19.0,2019-05-22
+Brinjal,Odisha,Kendrapara,Pattamundai,33.0,35.0,34.0,2019-05-22
+Brinjal,Odisha,Nayagarh,Sarankul,30.0,33.0,32.0,2019-05-22
+Brinjal,Odisha,Sundergarh,Sargipali,15.0,20.0,18.0,2019-05-22
+Brinjal,Odisha,Bolangir,Tusura,18.0,20.0,18.0,2019-05-22
+Brinjal,Odisha,Mayurbhanja,Udala,25.0,29.0,25.0,2019-05-22
+Brinjal,Punjab,Fazilka,Abohar,6.5,12.0,10.5,2019-05-22
+Brinjal,Punjab,Jalandhar,Adampur,10.0,12.0,12.0,2019-05-22
+Brinjal,Punjab,Amritsar,Ajnala,9.0,11.0,10.0,2019-05-22
+Brinjal,Punjab,Bhatinda,Bhagta Bhai Ka,8.9,9.8,9.3,2019-05-22
+Brinjal,Punjab,Jalandhar,Bilga,10.0,12.0,11.0,2019-05-22
+Brinjal,Punjab,Hoshiarpur,Dasuya,5.0,7.0,7.0,2019-05-22
+Brinjal,Punjab,Gurdaspur,Dhariwal,14.0,16.0,15.0,2019-05-22
+Brinjal,Punjab,Faridkot,Faridkot,3.5,10.0,7.5,2019-05-22
+Brinjal,Punjab,Ferozpur,Firozepur City,10.0,13.0,11.5,2019-05-22
+Brinjal,Punjab,Muktsar,Giddarbaha,10.0,10.0,10.0,2019-05-22
+Brinjal,Punjab,Gurdaspur,Gurdaspur,7.0,9.0,8.0,2019-05-22
+Brinjal,Punjab,Tarntaran,Harike,4.0,5.0,4.0,2019-05-22
+Brinjal,Punjab,Ludhiana,Jagraon,11.0,15.0,13.0,2019-05-22
+Brinjal,Punjab,Gurdaspur,Kalanaur,14.5,16.5,15.5,2019-05-22
+Brinjal,Punjab,Moga,Kot ise Khan,10.0,12.0,11.0,2019-05-22
+Brinjal,Punjab,Mohali,Kurali,10.0,12.0,11.0,2019-05-22
+Brinjal,Punjab,Jalandhar,Lohian Khas,8.0,10.0,9.0,2019-05-22
+Brinjal,Punjab,Ferozpur,Makhu,4.0,5.0,4.5,2019-05-22
+Brinjal,Punjab,Sangrur,Malerkotla,5.0,9.0,7.5,2019-05-22
+Brinjal,Punjab,Ferozpur,Mamdot,6.0,7.0,6.5,2019-05-22
+Brinjal,Punjab,Jalandhar,Mehatpur,10.0,12.0,12.0,2019-05-22
+Brinjal,Punjab,Hoshiarpur,Mukerian(Talwara),8.0,10.5,9.0,2019-05-22
+Brinjal,Punjab,Patiala,Nabha,9.0,15.0,13.0,2019-05-22
+Brinjal,Punjab,Patiala,Patran,7.0,12.0,10.0,2019-05-22
+Brinjal,Punjab,Tarntaran,Patti,5.0,7.0,6.0,2019-05-22
+Brinjal,Punjab,kapurthala,Phagwara,7.0,10.0,8.5,2019-05-22
+Brinjal,Punjab,Jalandhar,Phillaur(Apra Mandi),19.0,21.0,20.0,2019-05-22
+Brinjal,Punjab,Patiala,Rajpura,5.0,7.0,6.0,2019-05-22
+Brinjal,Punjab,Amritsar,Rayya,18.0,20.0,19.0,2019-05-22
+Brinjal,Punjab,Sangrur,Sangrur,5.0,14.0,9.0,2019-05-22
+Brinjal,Punjab,Jalandhar,Shahkot,15.0,20.0,18.0,2019-05-22
+Brinjal,Punjab,Bhatinda,Talwandi Sabo,8.0,12.0,10.0,2019-05-22
+Brinjal,Punjab,Hoshiarpur,Tanda Urmur,10.0,15.0,12.0,2019-05-22
+Brinjal,Rajasthan,Ajmer,Ajmer(F&V),5.0,12.0,8.5,2019-05-22
+Brinjal,Rajasthan,Udaipur,Udaipur(F&V),4.0,15.0,9.5,2019-05-22
+Brinjal,Tripura,Sepahijala,Bishalgarh,15.0,25.0,20.0,2019-05-22
+Brinjal,Tripura,Sepahijala,Bishramganj,12.0,20.0,15.0,2019-05-22
+Brinjal,Tripura,West District,Champaknagar,25.0,35.0,30.0,2019-05-22
+Brinjal,Tripura,West District,Kamalghat,18.0,20.0,19.0,2019-05-22
+Brinjal,Tripura,West District,Mohanpur,20.0,22.0,21.0,2019-05-22
+Brinjal,Tripura,Khowai,Teliamura,15.0,25.0,20.0,2019-05-22
+Brinjal,Uttar Pradesh,Agra,Achnera,11.0,12.0,11.5,2019-05-22
+Brinjal,Uttar Pradesh,Agra,Agra,10.0,11.0,10.5,2019-05-22
+Brinjal,Uttar Pradesh,Allahabad,Ajuha,9.6,10.0,9.8,2019-05-22
+Brinjal,Uttar Pradesh,Ambedkarnagar,Akbarpur,16.0,16.8,16.4,2019-05-22
+Brinjal,Uttar Pradesh,Etah,Aliganj,12.0,14.0,13.0,2019-05-22
+Brinjal,Uttar Pradesh,Aligarh,Aligarh,9.0,10.0,9.5,2019-05-22
+Brinjal,Uttar Pradesh,Bulandshahar,Anoop Shahar,4.3,4.5,4.4,2019-05-22
+Brinjal,Uttar Pradesh,Bareilly,Anwala,7.0,8.0,7.5,2019-05-22
+Brinjal,Uttar Pradesh,Banda,Atarra,13.0,14.0,13.5,2019-05-22
+Brinjal,Uttar Pradesh,Aligarh,Atrauli,7.8,8.0,7.9,2019-05-22
+Brinjal,Uttar Pradesh,Auraiya,Auraiya,12.5,14.0,13.2,2019-05-22
+Brinjal,Uttar Pradesh,Etah,Awagarh,11.0,13.0,12.0,2019-05-22
+Brinjal,Uttar Pradesh,Azamgarh,Azamgarh,10.0,11.0,10.5,2019-05-22
+Brinjal,Uttar Pradesh,Badaun,Badayoun,8.5,10.5,9.5,2019-05-22
+Brinjal,Uttar Pradesh,Baghpat,Bagpat,13.0,15.0,14.0,2019-05-22
+Brinjal,Uttar Pradesh,Ballia,Ballia,13.0,14.0,13.5,2019-05-22
+Brinjal,Uttar Pradesh,Balrampur,Balrampur,14.0,16.0,15.0,2019-05-22
+Brinjal,Uttar Pradesh,Unnao,Bangarmau,9.5,10.5,10.0,2019-05-22
+Brinjal,Uttar Pradesh,Barabanki,Barabanki,9.1,11.0,10.1,2019-05-22
+Brinjal,Uttar Pradesh,Baghpat,Baraut,7.5,8.5,8.0,2019-05-22
+Brinjal,Uttar Pradesh,Bareilly,Bareilly,7.75,8.25,8.0,2019-05-22
+Brinjal,Uttar Pradesh,Basti,Basti,10.4,11.2,10.8,2019-05-22
+Brinjal,Uttar Pradesh,Mainpuri,Bewar,14.0,16.0,15.0,2019-05-22
+Brinjal,Uttar Pradesh,Bijnor,Bijnaur,9.0,10.0,9.4,2019-05-22
+Brinjal,Uttar Pradesh,Pillibhit,Billsadda,4.8,5.75,5.3,2019-05-22
+Brinjal,Uttar Pradesh,Badaun,Bilsi,11.0,12.0,11.5,2019-05-22
+Brinjal,Uttar Pradesh,Bulandshahar,Buland Shahr,9.0,13.0,10.5,2019-05-22
+Brinjal,Uttar Pradesh,Bijnor,Chaandpur,5.0,6.0,5.5,2019-05-22
+Brinjal,Uttar Pradesh,Muradabad,Chandausi,12.4,13.2,12.8,2019-05-22
+Brinjal,Uttar Pradesh,Aligarh,Charra,9.0,10.0,9.5,2019-05-22
+Brinjal,Uttar Pradesh,Kannuj,Chhibramau(Kannuj),8.0,9.2,9.0,2019-05-22
+Brinjal,Uttar Pradesh,Kanpur,Choubepur,11.0,12.0,11.5,2019-05-22
+Brinjal,Uttar Pradesh,Saharanpur,Chutmalpur,7.0,8.0,7.5,2019-05-22
+Brinjal,Uttar Pradesh,Bijnor,Dhampur,5.0,6.0,5.5,2019-05-22
+Brinjal,Uttar Pradesh,Bulandshahar,Divai,5.8,6.0,5.9,2019-05-22
+Brinjal,Uttar Pradesh,Sonbhadra,Dudhi,7.0,8.0,8.0,2019-05-22
+Brinjal,Uttar Pradesh,Etah,Etah,11.5,13.5,12.5,2019-05-22
+Brinjal,Uttar Pradesh,Etawah,Etawah,8.5,10.5,9.6,2019-05-22
+Brinjal,Uttar Pradesh,Faizabad,Faizabad,15.85,16.6,16.2,2019-05-22
+Brinjal,Uttar Pradesh,Farukhabad,Farukhabad,8.0,9.0,8.8,2019-05-22
+Brinjal,Uttar Pradesh,Agra,Fatehabad,8.0,9.0,8.5,2019-05-22
+Brinjal,Uttar Pradesh,Fatehpur,Fatehpur,12.5,14.0,13.2,2019-05-22
+Brinjal,Uttar Pradesh,Maharajganj,Gadaura,8.0,10.0,9.0,2019-05-22
+Brinjal,Uttar Pradesh,Saharanpur,Gangoh,4.2,4.5,4.35,2019-05-22
+Brinjal,Uttar Pradesh,Etah,Ganjdudwara,6.0,7.0,6.5,2019-05-22
+Brinjal,Uttar Pradesh,Ghaziabad,Ghaziabad,14.0,15.0,14.5,2019-05-22
+Brinjal,Uttar Pradesh,Mainpuri,Ghiraur,10.0,12.0,11.0,2019-05-22
+Brinjal,Uttar Pradesh,Gonda,Gonda,8.3,8.5,8.4,2019-05-22
+Brinjal,Uttar Pradesh,Bulandshahar,Gulavati,5.08,5.12,5.1,2019-05-22
+Brinjal,Uttar Pradesh,Hathras,Haathras,9.0,11.0,10.0,2019-05-22
+Brinjal,Uttar Pradesh,Hardoi,Hardoi,12.0,12.2,12.1,2019-05-22
+Brinjal,Uttar Pradesh,Bulandshahar,Jahangirabad,10.75,11.25,11.0,2019-05-22
+Brinjal,Uttar Pradesh,Shahjahanpur,Jalalabad,5.0,5.6,5.3,2019-05-22
+Brinjal,Uttar Pradesh,Jalaun (Orai),Jalaun,8.5,9.0,9.0,2019-05-22
+Brinjal,Uttar Pradesh,Agra,Jarar,6.0,7.0,6.5,2019-05-22
+Brinjal,Uttar Pradesh,Etawah,Jasvantnagar,6.0,7.0,6.5,2019-05-22
+Brinjal,Uttar Pradesh,Jaunpur,Jaunpur,12.4,13.0,12.8,2019-05-22
+Brinjal,Uttar Pradesh,Gautam Budh Nagar,Javer,0.0,9.0,8.0,2019-05-22
+Brinjal,Uttar Pradesh,Jhansi,Jhansi,7.5,8.5,8.0,2019-05-22
+Brinjal,Uttar Pradesh,Muzaffarnagar,Kadhle,5.0,6.0,5.5,2019-05-22
+Brinjal,Uttar Pradesh,Muzaffarnagar,Kairana,5.0,5.5,5.2,2019-05-22
+Brinjal,Uttar Pradesh,Kannuj,Kannauj,8.5,9.5,9.0,2019-05-22
+Brinjal,Uttar Pradesh,Kanpur,Kanpur(Grain),12.75,13.75,13.25,2019-05-22
+Brinjal,Uttar Pradesh,Chitrakut,Karvi,13.5,14.65,14.0,2019-05-22
+Brinjal,Uttar Pradesh,Etah,Kasganj,14.3,15.0,14.6,2019-05-22
+Brinjal,Uttar Pradesh,Farukhabad,Kayamganj,9.8,10.6,10.2,2019-05-22
+Brinjal,Uttar Pradesh,Agra,Khairagarh,15.0,16.0,15.5,2019-05-22
+Brinjal,Uttar Pradesh,Sant Kabir Nagar,Khalilabad,7.0,8.5,7.5,2019-05-22
+Brinjal,Uttar Pradesh,Muzaffarnagar,Khatauli,5.45,5.65,5.55,2019-05-22
+Brinjal,Uttar Pradesh,Baghpat,Khekda,15.0,17.0,16.0,2019-05-22
+Brinjal,Uttar Pradesh,Bulandshahar,Khurja,10.5,11.2,10.85,2019-05-22
+Brinjal,Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj,9.5,10.5,10.0,2019-05-22
+Brinjal,Uttar Pradesh,Mathura,Kosikalan,9.6,11.0,10.0,2019-05-22
+Brinjal,Uttar Pradesh,Lakhimpur,Lakhimpur,10.4,11.2,10.9,2019-05-22
+Brinjal,Uttar Pradesh,Lalitpur,Lalitpur,13.5,14.0,13.8,2019-05-22
+Brinjal,Uttar Pradesh,Lucknow,Lucknow,9.5,11.0,10.5,2019-05-22
+Brinjal,Uttar Pradesh,Hardoi,Madhoganj,11.2,12.0,11.6,2019-05-22
+Brinjal,Uttar Pradesh,Mahoba,Mahoba,13.2,13.8,13.6,2019-05-22
+Brinjal,Uttar Pradesh,Mainpuri,Mainpuri,10.5,11.5,11.0,2019-05-22
+Brinjal,Uttar Pradesh,Mau(Maunathbhanjan),Mau,9.5,10.5,10.0,2019-05-22
+Brinjal,Uttar Pradesh,Hamirpur,Maudaha,12.0,14.0,13.5,2019-05-22
+Brinjal,Uttar Pradesh,Meerut,Meerut,7.8,8.3,8.0,2019-05-22
+Brinjal,Uttar Pradesh,Mirzapur,Mirzapur,12.25,12.65,12.45,2019-05-22
+Brinjal,Uttar Pradesh,Muradabad,Muradabad,12.0,14.0,13.0,2019-05-22
+Brinjal,Uttar Pradesh,Muzaffarnagar,Muzzafarnagar,8.0,8.5,8.2,2019-05-22
+Brinjal,Uttar Pradesh,Bahraich,Naanpara,11.35,12.6,12.0,2019-05-22
+Brinjal,Uttar Pradesh,Saharanpur,Nakud,8.1,8.3,8.2,2019-05-22
+Brinjal,Uttar Pradesh,Siddharth Nagar,Naugarh,11.0,11.5,11.25,2019-05-22
+Brinjal,Uttar Pradesh,Ghaziabad,Noida,5.42,7.45,6.21,2019-05-22
+Brinjal,Uttar Pradesh,Jalaun (Orai),Orai,11.0,12.0,11.5,2019-05-22
+Brinjal,Uttar Pradesh,Lakhimpur,Paliakala,9.6,10.4,9.9,2019-05-22
+Brinjal,Uttar Pradesh,Pillibhit,Pilibhit,8.2,8.6,8.4,2019-05-22
+Brinjal,Uttar Pradesh,Kanpur,Pukhrayan,12.0,13.5,12.1,2019-05-22
+Brinjal,Uttar Pradesh,Pillibhit,Puranpur,8.0,8.4,8.2,2019-05-22
+Brinjal,Uttar Pradesh,Shahjahanpur,Puwaha,11.0,12.5,12.0,2019-05-22
+Brinjal,Uttar Pradesh,Rampur,Rampur,10.0,11.0,10.5,2019-05-22
+Brinjal,Uttar Pradesh,Barabanki,Rudauli,11.5,13.8,13.0,2019-05-22
+Brinjal,Uttar Pradesh,Bahraich,Ruperdeeha,6.0,7.0,6.5,2019-05-22
+Brinjal,Uttar Pradesh,Kanpur,Rura,9.5,10.0,10.0,2019-05-22
+Brinjal,Uttar Pradesh,Saharanpur,Saharanpur,8.3,9.4,8.8,2019-05-22
+Brinjal,Uttar Pradesh,Siddharth Nagar,Sahiyapur,10.15,11.25,10.75,2019-05-22
+Brinjal,Uttar Pradesh,Ghazipur,Saidpur,12.3,13.3,12.8,2019-05-22
+Brinjal,Uttar Pradesh,Muradabad,Sambhal,4.5,5.7,5.0,2019-05-22
+Brinjal,Uttar Pradesh,Agra,Samsabad,6.5,7.5,7.0,2019-05-22
+Brinjal,Uttar Pradesh,Meerut,Sardhana,6.0,7.0,6.5,2019-05-22
+Brinjal,Uttar Pradesh,Hardoi,Shahabad(New Mandi),10.0,10.8,10.4,2019-05-22
+Brinjal,Uttar Pradesh,Jaunpur,Shahganj,11.3,13.0,12.1,2019-05-22
+Brinjal,Uttar Pradesh,Shahjahanpur,Shahjahanpur,10.0,11.0,10.25,2019-05-22
+Brinjal,Uttar Pradesh,Muzaffarnagar,Shamli,8.0,10.0,9.0,2019-05-22
+Brinjal,Uttar Pradesh,Bulandshahar,Sikanderabad,4.0,5.0,4.5,2019-05-22
+Brinjal,Uttar Pradesh,Bulandshahar,Sikarpur,4.0,6.0,5.0,2019-05-22
+Brinjal,Uttar Pradesh,Firozabad,Sirsaganj,10.3,12.3,11.3,2019-05-22
+Brinjal,Uttar Pradesh,Sitapur,Sitapur,10.0,11.0,10.6,2019-05-22
+Brinjal,Uttar Pradesh,Bulandshahar,Siyana,4.5,5.6,5.1,2019-05-22
+Brinjal,Uttar Pradesh,Sultanpur,Sultanpur,11.0,14.0,12.5,2019-05-22
+Brinjal,Uttar Pradesh,Saharanpur,Sultanpurchilkana,5.0,7.0,6.0,2019-05-22
+Brinjal,Uttar Pradesh,Muzaffarnagar,Thanabhawan,4.0,5.0,4.6,2019-05-22
+Brinjal,Uttar Pradesh,Firozabad,Tundla,9.9,10.1,9.95,2019-05-22
+Brinjal,Uttrakhand,Dehradoon,Dehradoon,4.0,5.0,4.5,2019-05-22
+Brinjal,Uttrakhand,Nanital,Haldwani,5.53,7.53,6.53,2019-05-22
+Brinjal,Uttrakhand,Haridwar,Haridwar Union,6.0,10.0,7.0,2019-05-22
+Brinjal,Uttrakhand,UdhamSinghNagar,Kashipur,7.0,8.0,7.5,2019-05-22
+Brinjal,Uttrakhand,UdhamSinghNagar,Khateema,4.0,6.0,5.0,2019-05-22
+Brinjal,Uttrakhand,UdhamSinghNagar,Kicchha,5.0,7.0,6.0,2019-05-22
+Brinjal,Uttrakhand,Haridwar,Manglaur,8.0,10.0,9.0,2019-05-22
+Brinjal,Uttrakhand,Nanital,Ramnagar,4.5,5.5,5.0,2019-05-22
+Brinjal,Uttrakhand,Haridwar,Roorkee,4.0,6.0,5.0,2019-05-22
+Brinjal,Uttrakhand,UdhamSinghNagar,Sitarganj,7.0,9.0,8.0,2019-05-22
+Brinjal,Uttrakhand,Dehradoon,Vikasnagar,10.0,12.0,11.0,2019-05-22
+Brinjal,West Bengal,Jalpaiguri,Alipurduar,25.0,27.0,26.0,2019-05-22
+Brinjal,West Bengal,Puruliya,Balarampur,14.0,18.0,16.0,2019-05-22
+Brinjal,West Bengal,Dakshin Dinajpur,Balurghat,15.0,17.0,16.0,2019-05-22
+Brinjal,West Bengal,North 24 Parganas,Barasat,26.0,26.0,26.0,2019-05-22
+Brinjal,West Bengal,Coochbehar,Baxirhat,14.5,16.5,15.5,2019-05-22
+Brinjal,West Bengal,Nadia,Chakdah,37.0,39.0,38.0,2019-05-22
+Brinjal,West Bengal,Coochbehar,Coochbehar,17.0,18.5,18.0,2019-05-22
+Brinjal,West Bengal,Jalpaiguri,Dhupguri,16.0,18.0,17.0,2019-05-22
+Brinjal,West Bengal,Medinipur(E),Egra/contai,15.0,17.0,16.0,2019-05-22
+Brinjal,West Bengal,Jalpaiguri,Falakata,18.0,20.0,19.0,2019-05-22
+Brinjal,West Bengal,Burdwan,Guskara(Burdwan),26.0,28.0,27.0,2019-05-22
+Brinjal,West Bengal,North 24 Parganas,Habra,32.0,35.0,34.0,2019-05-22
+Brinjal,West Bengal,Coochbehar,Haldibari,18.0,19.0,18.5,2019-05-22
+Brinjal,West Bengal,Bankura,Indus(Bankura Sadar),22.0,26.0,25.0,2019-05-22
+Brinjal,West Bengal,Jalpaiguri,Jalpaiguri Sadar,14.0,15.0,14.5,2019-05-22
+Brinjal,West Bengal,Medinipur(W),Jhargram,2.5,4.0,3.5,2019-05-22
+Brinjal,West Bengal,Burdwan,Kalna,20.0,22.0,21.0,2019-05-22
+Brinjal,West Bengal,Puruliya,Kasipur,22.0,24.0,23.0,2019-05-22
+Brinjal,West Bengal,Bankura,Khatra,18.0,25.0,20.0,2019-05-22
+Brinjal,West Bengal,Murshidabad,Lalbagh,19.0,22.0,20.0,2019-05-22
+Brinjal,West Bengal,Coochbehar,Mathabhanga,16.0,18.0,17.0,2019-05-22
+Brinjal,West Bengal,Medinipur(W),Medinipur(West),24.0,26.0,25.0,2019-05-22
+Brinjal,West Bengal,Nadia,Nadia,37.0,39.0,38.0,2019-05-22
+Brinjal,West Bengal,Coochbehar,Pundibari,17.0,18.5,17.5,2019-05-22
+Brinjal,West Bengal,Puruliya,Purulia,15.0,18.0,17.0,2019-05-22
+Brinjal,West Bengal,Nadia,Ranaghat,39.0,41.0,40.0,2019-05-22
+Brinjal,West Bengal,Birbhum,Sainthia,26.0,27.0,26.5,2019-05-22
+Brinjal,West Bengal,Kolkata,Sealdah Koley Market,28.0,30.0,28.0,2019-05-22
+Brinjal,West Bengal,Coochbehar,Toofanganj,14.0,16.0,15.0,2019-05-22
+Brinjal,West Bengal,Howrah,Uluberia,12.0,18.0,16.0,2019-05-22
+Broken+Rice,Odisha,Nowarangpur,Nawarangpur,12.5,12.5,12.5,2019-05-22
+Cabbage,Assam,Kamrup,Pamohi(Garchuk),20.0,26.0,23.0,2019-05-22
+Cabbage,Chattisgarh,Durg,Durg,17.0,19.0,18.0,2019-05-22
+Cabbage,Chattisgarh,Rajnandgaon,Rajnandgaon,12.0,12.0,12.0,2019-05-22
+Cabbage,Gujarat,Ahmedabad,Ahmedabad,6.0,12.0,10.0,2019-05-22
+Cabbage,Gujarat,Bharuch,Ankleshwar,7.5,12.0,9.75,2019-05-22
+Cabbage,Gujarat,Bharuch,Bharuch,8.0,11.0,10.0,2019-05-22
+Cabbage,Gujarat,Navsari,Bilimora,8.0,13.0,10.5,2019-05-22
+Cabbage,Gujarat,Dahod,Dahod(Veg. Market),7.0,13.0,12.0,2019-05-22
+Cabbage,Gujarat,Ahmedabad,Dholka(Koth),10.0,13.0,12.0,2019-05-22
+Cabbage,Gujarat,Rajkot,Dhoraji,7.5,10.0,8.5,2019-05-22
+Cabbage,Gujarat,Kheda,Nadiyad(Piplag),8.0,12.0,10.0,2019-05-22
+Cabbage,Gujarat,Vadodara(Baroda),Padra,10.0,12.5,11.25,2019-05-22
+Cabbage,Gujarat,Surat,Surat,7.0,14.0,10.5,2019-05-22
+Cabbage,Gujarat,Junagarh,Talalagir,8.0,10.0,9.0,2019-05-22
+Cabbage,Gujarat,Morbi,Vankaner(Sub yard),10.0,15.0,12.5,2019-05-22
+Cabbage,Gujarat,Mehsana,Vijapur(veg),5.0,5.0,5.0,2019-05-22
+Cabbage,Haryana,Karnal,Asandh,8.0,9.0,8.5,2019-05-22
+Cabbage,Haryana,Faridabad,Ballabhgarh,7.0,9.0,8.0,2019-05-22
+Cabbage,Haryana,Bhiwani,Bhiwani,35.0,35.0,35.0,2019-05-22
+Cabbage,Haryana,Faridabad,Faridabad,7.0,8.0,7.5,2019-05-22
+Cabbage,Haryana,Fatehabad,Fatehabad,10.0,10.0,10.0,2019-05-22
+Cabbage,Haryana,Kurukshetra,Pehowa,20.0,20.0,20.0,2019-05-22
+Cabbage,Himachal Pradesh,Kullu,Bhuntar,15.0,16.0,15.5,2019-05-22
+Cabbage,Himachal Pradesh,Bilaspur,Bilaspur,11.0,15.0,12.0,2019-05-22
+Cabbage,Himachal Pradesh,Chamba,Chamba,9.0,11.0,10.0,2019-05-22
+Cabbage,Himachal Pradesh,Mandi,Dhanotu (Mandi),8.0,12.0,10.0,2019-05-22
+Cabbage,Himachal Pradesh,Hamirpur,Hamirpur,14.0,15.0,15.0,2019-05-22
+Cabbage,Himachal Pradesh,Hamirpur,Hamirpur(Nadaun),14.0,15.0,15.0,2019-05-22
+Cabbage,Himachal Pradesh,Kangra,Kangra,10.0,15.0,15.0,2019-05-22
+Cabbage,Himachal Pradesh,Kangra,Kangra(Baijnath),10.0,12.0,10.0,2019-05-22
+Cabbage,Himachal Pradesh,Kangra,Kangra(Jassour),10.0,12.0,11.0,2019-05-22
+Cabbage,Himachal Pradesh,Kullu,Kullu,15.0,18.0,16.0,2019-05-22
+Cabbage,Himachal Pradesh,Mandi,Mandi(Mandi),10.0,15.0,12.0,2019-05-22
+Cabbage,Himachal Pradesh,Kangra,Palampur,13.0,14.0,13.5,2019-05-22
+Cabbage,Himachal Pradesh,Shimla,Shimla,10.0,20.0,15.0,2019-05-22
+Cabbage,Himachal Pradesh,Solan,Solan,10.0,13.0,12.0,2019-05-22
+Cabbage,Himachal Pradesh,Solan,Solan(Nalagarh),10.0,12.0,11.0,2019-05-22
+Cabbage,Jammu and Kashmir,Jammu,Akhnoor,11.0,12.0,11.5,2019-05-22
+Cabbage,Jammu and Kashmir,Srinagar,Parimpore,10.0,12.0,11.0,2019-05-22
+Cabbage,Karnataka,Davangere,Honnali,10.0,13.0,12.0,2019-05-22
+Cabbage,Karnataka,Kolar,Kolar,10.0,14.0,12.0,2019-05-22
+Cabbage,Karnataka,Bangalore,Ramanagara,24.0,28.0,26.0,2019-05-22
+Cabbage,Kerala,Ernakulam,Aluva,25.0,30.0,28.0,2019-05-22
+Cabbage,Kerala,Kollam,Anchal,31.0,33.0,32.0,2019-05-22
+Cabbage,Kerala,Ernakulam,Angamaly,30.0,34.0,32.0,2019-05-22
+Cabbage,Kerala,Alappuzha,Aroor,24.0,26.0,25.0,2019-05-22
+Cabbage,Kerala,Kottayam,Athirampuzha,28.0,30.0,29.0,2019-05-22
+Cabbage,Kerala,Thiruvananthapuram,Attingal,20.0,20.0,20.0,2019-05-22
+Cabbage,Kerala,Thiruvananthapuram,Chala,32.0,32.51,32.26,2019-05-22
+Cabbage,Kerala,Alappuzha,Chengannur,32.0,35.0,33.0,2019-05-22
+Cabbage,Kerala,Kottayam,Ettumanoor,27.0,28.0,28.0,2019-05-22
+Cabbage,Kerala,Alappuzha,Harippad,25.0,30.0,25.0,2019-05-22
+Cabbage,Kerala,Kozhikode(Calicut),Kallachi,26.0,30.0,28.0,2019-05-22
+Cabbage,Kerala,Kasargod,Kanjangadu,24.0,30.0,26.0,2019-05-22
+Cabbage,Kerala,Alappuzha,Kayamkulam,25.0,27.0,26.0,2019-05-22
+Cabbage,Kerala,Palakad,Koduvayoor,24.0,28.0,26.0,2019-05-22
+Cabbage,Kerala,Malappuram,Kondotty,23.0,25.0,24.0,2019-05-22
+Cabbage,Kerala,Ernakulam,Kothamangalam,25.0,35.0,30.0,2019-05-22
+Cabbage,Kerala,Malappuram,Kottakkal,25.0,26.0,25.5,2019-05-22
+Cabbage,Kerala,Alappuzha,Madhavapuram,40.0,44.0,42.0,2019-05-22
+Cabbage,Kerala,Malappuram,Manjeri,22.0,23.0,22.5,2019-05-22
+Cabbage,Kerala,Kasargod,Manjeswaram,27.0,40.0,33.5,2019-05-22
+Cabbage,Kerala,Alappuzha,Mannar,35.0,37.0,36.0,2019-05-22
+Cabbage,Kerala,Kozhikode(Calicut),Mukkom,12.0,16.0,14.0,2019-05-22
+Cabbage,Kerala,Kasargod,Neeleswaram,30.0,34.0,32.0,2019-05-22
+Cabbage,Kerala,Thiruvananthapuram,Neyyatinkara,15.0,20.0,17.0,2019-05-22
+Cabbage,Kerala,Palakad,Palakkad,24.0,30.0,28.0,2019-05-22
+Cabbage,Kerala,Kozhikode(Calicut),Palayam,21.0,23.0,22.0,2019-05-22
+Cabbage,Kerala,Kottayam,Pampady,30.0,34.0,32.0,2019-05-22
+Cabbage,Kerala,Palakad,Pattambi,30.0,40.0,35.0,2019-05-22
+Cabbage,Kerala,Malappuram,Perinthalmanna,13.0,19.0,16.0,2019-05-22
+Cabbage,Kerala,Ernakulam,Perumbavoor,24.0,32.0,28.0,2019-05-22
+Cabbage,Kerala,Thiruvananthapuram,Pothencode,35.0,45.0,40.0,2019-05-22
+Cabbage,Kerala,Kozhikode(Calicut),Quilandy,25.0,28.0,26.0,2019-05-22
+Cabbage,Kerala,Kottayam,Thalayolaparambu,30.0,35.0,33.0,2019-05-22
+Cabbage,Kerala,Idukki,Thodupuzha,20.0,22.0,22.0,2019-05-22
+Cabbage,Kerala,Ernakulam,Thrippunithura,36.0,45.0,40.0,2019-05-22
+Cabbage,Kerala,Thirssur,Thrissur,15.0,18.0,16.0,2019-05-22
+Cabbage,Kerala,Palakad,vadakarapathy,17.0,19.0,18.0,2019-05-22
+Cabbage,Kerala,Palakad,Vadakkenchery,25.0,30.0,27.5,2019-05-22
+Cabbage,Madhya Pradesh,Rajgarh,Biaora,6.0,10.0,8.0,2019-05-22
+Cabbage,Madhya Pradesh,Burhanpur,Burhanpur(F&V),8.0,15.0,12.0,2019-05-22
+Cabbage,Madhya Pradesh,Chhindwara,Chhindwara(F&V),4.0,6.0,5.0,2019-05-22
+Cabbage,Madhya Pradesh,Dhar,Dhamnod,10.0,15.0,12.0,2019-05-22
+Cabbage,Madhya Pradesh,Dewas,Haatpipliya,10.0,15.0,12.0,2019-05-22
+Cabbage,Madhya Pradesh,Indore,Indore(F&V),4.0,8.0,6.0,2019-05-22
+Cabbage,Madhya Pradesh,Jhabua,Jhabua,7.0,8.0,7.5,2019-05-22
+Cabbage,Madhya Pradesh,Khandwa,Khandwa(F&V),7.0,10.0,8.5,2019-05-22
+Cabbage,Madhya Pradesh,Mandsaur,Mandsaur(F&V),8.0,10.0,9.0,2019-05-22
+Cabbage,Madhya Pradesh,Shajapur,Nalkehda,28.0,30.0,29.0,2019-05-22
+Cabbage,Madhya Pradesh,Badwani,Sendhwa,6.0,10.0,8.0,2019-05-22
+Cabbage,Madhya Pradesh,Jhabua,Thandla,16.0,18.0,17.0,2019-05-22
+Cabbage,Madhya Pradesh,Harda,Timarni,10.0,10.0,10.0,2019-05-22
+Cabbage,Madhya Pradesh,Ujjain,Ujjain(F&V),8.5,17.0,13.5,2019-05-22
+Cabbage,Maharashtra,Aurangabad,Aurangabad,7.0,13.0,10.0,2019-05-22
+Cabbage,Maharashtra,Chandrapur,Chandrapur(Ganjwad),8.0,12.0,10.0,2019-05-22
+Cabbage,Maharashtra,Jalgaon,Jalgaon,5.0,8.0,6.5,2019-05-22
+Cabbage,Maharashtra,Nagpur,Kalmeshwar,9.6,11.0,10.95,2019-05-22
+Cabbage,Maharashtra,Satara,Karad,7.0,10.0,10.0,2019-05-22
+Cabbage,Maharashtra,Pune,Khed(Chakan),4.0,6.0,5.0,2019-05-22
+Cabbage,Maharashtra,Kolhapur,Kolhapur,5.0,16.0,10.5,2019-05-22
+Cabbage,Maharashtra,Pune,Maanachar,3.0,8.0,5.6,2019-05-22
+Cabbage,Maharashtra,Mumbai,Mumbai,10.0,14.0,12.0,2019-05-22
+Cabbage,Maharashtra,Nashik,Nasik,8.35,12.5,10.4,2019-05-22
+Cabbage,Maharashtra,Pune,Pune,6.0,10.0,8.0,2019-05-22
+Cabbage,Maharashtra,Pune,Pune(Khadiki),4.0,6.0,5.0,2019-05-22
+Cabbage,Maharashtra,Pune,Pune(Pimpri),10.0,13.0,11.5,2019-05-22
+Cabbage,Maharashtra,Ratnagiri,Ratnagiri (Nachane),8.0,15.0,12.0,2019-05-22
+Cabbage,Maharashtra,Satara,Satara,8.0,10.0,9.0,2019-05-22
+Cabbage,Maharashtra,Ahmednagar,Shrirampur,8.0,12.0,10.0,2019-05-22
+Cabbage,Maharashtra,Satara,Vai,7.0,8.0,7.2,2019-05-22
+Cabbage,Manipur,Imphal West,Imphal,11.0,13.0,13.0,2019-05-22
+Cabbage,Manipur,Thoubal,Thoubal,22.0,28.0,25.0,2019-05-22
+Cabbage,Meghalaya,East Khasi Hills,Shillong,22.0,26.0,24.0,2019-05-22
+Cabbage,NCT of Delhi,Delhi,Azadpur,5.0,8.0,6.8,2019-05-22
+Cabbage,Odisha,Bolangir,Bolangir,28.0,30.0,28.0,2019-05-22
+Cabbage,Odisha,Sundergarh,Bonai,30.0,30.0,30.0,2019-05-22
+Cabbage,Odisha,Dhenkanal,Dhenkanal,25.0,30.0,30.0,2019-05-22
+Cabbage,Odisha,Sonepur,Dungurapalli,18.5,19.0,19.0,2019-05-22
+Cabbage,Odisha,Ganjam,Hinjilicut,20.0,25.0,25.0,2019-05-22
+Cabbage,Odisha,Jajpur,Jajpur,16.0,20.0,20.0,2019-05-22
+Cabbage,Odisha,Dhenkanal,Kamakhyanagar,29.0,35.0,30.0,2019-05-22
+Cabbage,Odisha,Bargarh,Padampur,38.0,40.0,39.0,2019-05-22
+Cabbage,Odisha,Sonepur,Pandkital,18.0,20.0,19.0,2019-05-22
+Cabbage,Odisha,Sundergarh,Panposh,16.0,20.0,19.0,2019-05-22
+Cabbage,Odisha,Bolangir,Tusura,28.0,30.0,28.0,2019-05-22
+Cabbage,Punjab,Jalandhar,Adampur,9.0,10.0,10.0,2019-05-22
+Cabbage,Punjab,Hoshiarpur,Dasuya,6.0,8.0,8.0,2019-05-22
+Cabbage,Punjab,Faridkot,Faridkot,8.5,15.0,12.5,2019-05-22
+Cabbage,Punjab,Gurdaspur,Gurdaspur,8.0,9.0,8.5,2019-05-22
+Cabbage,Punjab,Ludhiana,Jagraon,5.0,7.0,6.0,2019-05-22
+Cabbage,Punjab,Mohali,Kharar,7.0,10.0,8.0,2019-05-22
+Cabbage,Punjab,Moga,Kot ise Khan,10.0,12.0,11.0,2019-05-22
+Cabbage,Punjab,Sangrur,Lehra Gaga,11.0,11.0,11.0,2019-05-22
+Cabbage,Punjab,Ferozpur,Mamdot,5.0,6.0,5.5,2019-05-22
+Cabbage,Punjab,Hoshiarpur,Mukerian(Talwara),18.0,24.0,22.0,2019-05-22
+Cabbage,Punjab,Patiala,Patran,4.0,6.0,5.0,2019-05-22
+Cabbage,Punjab,kapurthala,Phagwara,8.25,11.0,9.63,2019-05-22
+Cabbage,Punjab,Sangrur,Sangrur,7.0,8.0,8.0,2019-05-22
+Cabbage,Punjab,Hoshiarpur,Tanda Urmur,15.0,18.0,16.0,2019-05-22
+Cabbage,Rajasthan,Ajmer,Ajmer(F&V),7.0,14.0,11.0,2019-05-22
+Cabbage,Rajasthan,Ganganagar,Sriganganagar(F&V),7.0,9.0,8.0,2019-05-22
+Cabbage,Rajasthan,Udaipur,Udaipur(F&V),7.0,15.0,11.0,2019-05-22
+Cabbage,Telangana,Hyderabad,Bowenpally,5.0,15.0,12.0,2019-05-22
+Cabbage,Telangana,Hyderabad,Gudimalkapur,8.0,10.0,9.0,2019-05-22
+Cabbage,Telangana,Hyderabad,L B Nagar,10.0,12.0,11.0,2019-05-22
+Cabbage,Telangana,Mahbubnagar,Shadnagar,15.0,18.0,16.0,2019-05-22
+Cabbage,Uttar Pradesh,Agra,Achnera,8.0,8.6,8.3,2019-05-22
+Cabbage,Uttar Pradesh,Etah,Aliganj,10.0,12.0,11.0,2019-05-22
+Cabbage,Uttar Pradesh,Aligarh,Aligarh,6.5,7.5,7.0,2019-05-22
+Cabbage,Uttar Pradesh,Etah,Awagarh,10.0,12.0,11.0,2019-05-22
+Cabbage,Uttar Pradesh,Barabanki,Barabanki,11.0,11.4,11.2,2019-05-22
+Cabbage,Uttar Pradesh,Bareilly,Bareilly,10.5,11.0,10.75,2019-05-22
+Cabbage,Uttar Pradesh,Bijnor,Bijnaur,8.0,9.1,8.6,2019-05-22
+Cabbage,Uttar Pradesh,Aligarh,Charra,6.35,7.35,6.85,2019-05-22
+Cabbage,Uttar Pradesh,Saharanpur,Chutmalpur,12.0,14.0,13.0,2019-05-22
+Cabbage,Uttar Pradesh,Etah,Etah,10.0,11.5,10.8,2019-05-22
+Cabbage,Uttar Pradesh,Etawah,Etawah,8.5,11.0,9.5,2019-05-22
+Cabbage,Uttar Pradesh,Agra,Fatehabad,12.0,12.5,12.2,2019-05-22
+Cabbage,Uttar Pradesh,Saharanpur,Gangoh,4.4,4.7,4.6,2019-05-22
+Cabbage,Uttar Pradesh,Gorakhpur,Gorakhpur,9.1,10.0,9.5,2019-05-22
+Cabbage,Uttar Pradesh,Hardoi,Hardoi,19.0,19.2,19.1,2019-05-22
+Cabbage,Uttar Pradesh,Jalaun (Orai),Jalaun,8.5,9.0,9.0,2019-05-22
+Cabbage,Uttar Pradesh,Jhansi,Jhansi,6.2,7.5,6.9,2019-05-22
+Cabbage,Uttar Pradesh,Muzaffarnagar,Kadhle,4.0,4.6,4.3,2019-05-22
+Cabbage,Uttar Pradesh,Chitrakut,Karvi,9.4,10.25,9.75,2019-05-22
+Cabbage,Uttar Pradesh,Etah,Kasganj,12.0,12.8,12.5,2019-05-22
+Cabbage,Uttar Pradesh,Agra,Khairagarh,16.5,17.5,17.0,2019-05-22
+Cabbage,Uttar Pradesh,Bulandshahar,Khurja,8.65,9.2,9.0,2019-05-22
+Cabbage,Uttar Pradesh,Mathura,Kosikalan,7.65,8.7,8.0,2019-05-22
+Cabbage,Uttar Pradesh,Lucknow,Lucknow,9.0,10.5,10.0,2019-05-22
+Cabbage,Uttar Pradesh,Meerut,Meerut,11.3,12.1,11.55,2019-05-22
+Cabbage,Uttar Pradesh,Jalaun (Orai),Orai,6.0,7.0,6.5,2019-05-22
+Cabbage,Uttar Pradesh,Pillibhit,Pilibhit,11.2,11.6,11.4,2019-05-22
+Cabbage,Uttar Pradesh,Pillibhit,Puranpur,11.8,12.3,12.0,2019-05-22
+Cabbage,Uttar Pradesh,Rampur,Rampur,9.0,10.0,9.5,2019-05-22
+Cabbage,Uttar Pradesh,Kanpur,Rura,8.5,9.0,9.0,2019-05-22
+Cabbage,Uttar Pradesh,Saharanpur,Saharanpur,11.0,12.15,11.5,2019-05-22
+Cabbage,Uttar Pradesh,Agra,Samsabad,12.0,12.5,12.2,2019-05-22
+Cabbage,Uttar Pradesh,Shahjahanpur,Shahjahanpur,7.0,8.0,7.6,2019-05-22
+Cabbage,Uttar Pradesh,Firozabad,Sirsaganj,9.2,11.2,10.2,2019-05-22
+Cabbage,Uttar Pradesh,Muzaffarnagar,Thanabhawan,3.0,4.0,3.5,2019-05-22
+Cabbage,Uttar Pradesh,Firozabad,Tundla,7.3,7.5,7.4,2019-05-22
+Cabbage,Uttrakhand,Dehradoon,Dehradoon,4.5,6.0,5.0,2019-05-22
+Cabbage,Uttrakhand,Nanital,Ramnagar,6.0,6.5,6.25,2019-05-22
+Cabbage,Uttrakhand,Haridwar,Roorkee,3.0,4.0,3.5,2019-05-22
+Cabbage,West Bengal,Jalpaiguri,Dhupguri,8.5,9.5,9.0,2019-05-22
+Cabbage,West Bengal,Jalpaiguri,Jalpaiguri Sadar,15.0,16.0,15.5,2019-05-22
+Cabbage,West Bengal,Darjeeling,Kalimpong,20.0,22.0,21.0,2019-05-22
+Cabbage,West Bengal,Darjeeling,Karsiyang(Matigara),12.0,16.0,14.0,2019-05-22
+Cabbage,West Bengal,Nadia,Ranaghat,24.0,26.0,25.0,2019-05-22
+Cabbage,West Bengal,Kolkata,Sealdah Koley Market,22.0,26.0,24.0,2019-05-22
+Capsicum,Chattisgarh,Durg,Durg,28.0,32.0,30.0,2019-05-22
+Capsicum,Gujarat,Ahmedabad,Ahmedabad,23.0,28.0,26.5,2019-05-22
+Capsicum,Gujarat,Bharuch,Ankleshwar,22.25,26.25,24.5,2019-05-22
+Capsicum,Gujarat,Bharuch,Bharuch,18.0,22.5,20.0,2019-05-22
+Capsicum,Gujarat,Amreli,Damnagar,25.0,33.0,29.0,2019-05-22
+Capsicum,Gujarat,Surat,Surat,15.0,22.5,18.75,2019-05-22
+Capsicum,Gujarat,Morbi,Vankaner(Sub yard),20.0,25.0,22.5,2019-05-22
+Capsicum,Haryana,Karnal,Asandh,16.0,18.0,17.5,2019-05-22
+Capsicum,Haryana,Faridabad,Ballabhgarh,18.0,20.0,19.0,2019-05-22
+Capsicum,Haryana,Faridabad,Faridabad,10.0,12.0,11.0,2019-05-22
+Capsicum,Haryana,Fatehabad,Fatehabad,12.0,15.0,15.0,2019-05-22
+Capsicum,Haryana,Sirsa,kalanwali,8.0,9.0,8.5,2019-05-22
+Capsicum,Haryana,Mahendragarh-Narnaul,Mohindergarh,10.0,12.0,12.0,2019-05-22
+Capsicum,Haryana,Yamuna Nagar,Mustafabad,10.0,12.0,10.0,2019-05-22
+Capsicum,Haryana,Yamuna Nagar,Radaur,8.0,12.0,10.0,2019-05-22
+Capsicum,Haryana,Panipat,Samalkha,30.0,35.0,32.0,2019-05-22
+Capsicum,Haryana,Sonipat,Sonepat,20.0,25.0,20.0,2019-05-22
+Capsicum,Himachal Pradesh,Kullu,Bhuntar,13.0,14.0,13.5,2019-05-22
+Capsicum,Himachal Pradesh,Bilaspur,Bilaspur,14.0,22.0,15.0,2019-05-22
+Capsicum,Himachal Pradesh,Chamba,Chamba,10.0,15.0,12.5,2019-05-22
+Capsicum,Himachal Pradesh,Mandi,Dhanotu (Mandi),13.0,17.0,15.0,2019-05-22
+Capsicum,Himachal Pradesh,Hamirpur,Hamirpur,12.0,14.0,13.0,2019-05-22
+Capsicum,Himachal Pradesh,Kangra,Kangra,15.0,20.0,20.0,2019-05-22
+Capsicum,Himachal Pradesh,Kangra,Kangra(Baijnath),30.0,30.0,30.0,2019-05-22
+Capsicum,Himachal Pradesh,Kangra,Kangra(Jassour),10.0,12.0,11.0,2019-05-22
+Capsicum,Himachal Pradesh,Kullu,Kullu,15.0,20.0,18.0,2019-05-22
+Capsicum,Himachal Pradesh,Mandi,Mandi(Mandi),10.0,15.0,12.0,2019-05-22
+Capsicum,Himachal Pradesh,Sirmore,Nahan,10.0,12.0,11.0,2019-05-22
+Capsicum,Himachal Pradesh,Kangra,Palampur,10.0,12.0,11.0,2019-05-22
+Capsicum,Himachal Pradesh,Sirmore,Paonta Sahib,12.0,20.0,15.0,2019-05-22
+Capsicum,Himachal Pradesh,Shimla,Shimla,10.0,12.0,11.0,2019-05-22
+Capsicum,Himachal Pradesh,Solan,Solan,12.0,14.0,13.0,2019-05-22
+Capsicum,Himachal Pradesh,Solan,Solan(Nalagarh),15.0,20.0,18.0,2019-05-22
+Capsicum,Jammu and Kashmir,Jammu,Akhnoor,10.0,11.0,10.5,2019-05-22
+Capsicum,Jammu and Kashmir,Srinagar,Parimpore,30.0,36.0,33.0,2019-05-22
+Capsicum,Karnataka,Kolar,Kolar,20.0,26.0,23.0,2019-05-22
+Capsicum,Kerala,Alappuzha,Aroor,56.0,58.0,57.0,2019-05-22
+Capsicum,Kerala,Thiruvananthapuram,Chala,56.0,56.52,56.21,2019-05-22
+Capsicum,Kerala,Alappuzha,Chengannur,80.0,82.0,80.0,2019-05-22
+Capsicum,Kerala,Alappuzha,Harippad,45.0,50.0,50.0,2019-05-22
+Capsicum,Kerala,Malappuram,Kottakkal,63.0,64.0,63.5,2019-05-22
+Capsicum,Kerala,Malappuram,Manjeri,65.0,66.0,65.5,2019-05-22
+Capsicum,Kerala,Alappuzha,Mannar,75.0,82.0,80.0,2019-05-22
+Capsicum,Kerala,Palakad,Palakkad,50.0,55.0,53.0,2019-05-22
+Capsicum,Kerala,Malappuram,Perinthalmanna,66.0,74.0,70.0,2019-05-22
+Capsicum,Kerala,Thiruvananthapuram,Pothencode,45.0,55.0,50.0,2019-05-22
+Capsicum,Kerala,Ernakulam,Thrippunithura,70.0,90.0,80.0,2019-05-22
+Capsicum,Madhya Pradesh,Chhindwara,Chhindwara(F&V),18.0,22.0,20.0,2019-05-22
+Capsicum,Madhya Pradesh,Narsinghpur,Gadarwada,20.0,20.0,20.0,2019-05-22
+Capsicum,Madhya Pradesh,Harda,Harda(F&V),11.0,13.0,12.0,2019-05-22
+Capsicum,Madhya Pradesh,Indore,Indore(F&V),15.0,25.0,20.0,2019-05-22
+Capsicum,Madhya Pradesh,Khandwa,Khandwa(F&V),10.0,13.5,11.3,2019-05-22
+Capsicum,Madhya Pradesh,Ujjain,Ujjain(F&V),9.0,48.5,32.5,2019-05-22
+Capsicum,Meghalaya,East Khasi Hills,Shillong,35.0,45.0,40.0,2019-05-22
+Capsicum,NCT of Delhi,Delhi,Azadpur,6.0,12.0,9.0,2019-05-22
+Capsicum,Odisha,Bolangir,Bolangir,78.0,80.0,78.0,2019-05-22
+Capsicum,Odisha,Sundergarh,Bonai,40.0,40.0,40.0,2019-05-22
+Capsicum,Odisha,Jajpur,Jajpur,40.0,50.0,45.0,2019-05-22
+Capsicum,Punjab,Jalandhar,Adampur,10.0,12.0,12.0,2019-05-22
+Capsicum,Punjab,Sangrur,Bhawanigarh,10.0,12.0,11.0,2019-05-22
+Capsicum,Punjab,Jalandhar,Bilga,10.0,12.0,11.0,2019-05-22
+Capsicum,Punjab,Hoshiarpur,Dasuya,8.0,10.0,10.0,2019-05-22
+Capsicum,Punjab,Gurdaspur,Dhariwal,15.0,17.0,16.0,2019-05-22
+Capsicum,Punjab,Sangrur,Dhuri,13.0,15.0,14.0,2019-05-22
+Capsicum,Punjab,Ferozpur,Firozepur City,4.0,4.0,4.0,2019-05-22
+Capsicum,Punjab,Muktsar,Giddarbaha,3.0,6.0,5.0,2019-05-22
+Capsicum,Punjab,Gurdaspur,Gurdaspur,10.0,13.0,12.0,2019-05-22
+Capsicum,Punjab,Gurdaspur,Kalanaur,19.0,23.5,21.5,2019-05-22
+Capsicum,Punjab,Mohali,Kharar,10.0,20.0,15.0,2019-05-22
+Capsicum,Punjab,Moga,Kot ise Khan,12.0,14.0,13.0,2019-05-22
+Capsicum,Punjab,Mohali,Kurali,15.0,18.0,16.5,2019-05-22
+Capsicum,Punjab,Jalandhar,Lohian Khas,5.0,7.0,6.0,2019-05-22
+Capsicum,Punjab,Sangrur,Malerkotla,8.0,11.0,9.5,2019-05-22
+Capsicum,Punjab,Ferozpur,Mamdot,6.0,7.0,6.5,2019-05-22
+Capsicum,Punjab,Jalandhar,Mehatpur,7.0,8.0,8.0,2019-05-22
+Capsicum,Punjab,Hoshiarpur,Mukerian(Talwara),32.0,42.0,36.0,2019-05-22
+Capsicum,Punjab,Patiala,Nabha,4.0,8.0,5.0,2019-05-22
+Capsicum,Punjab,Patiala,Patran,10.0,12.0,10.0,2019-05-22
+Capsicum,Punjab,Tarntaran,Patti,10.0,12.0,11.0,2019-05-22
+Capsicum,Punjab,kapurthala,Phagwara,5.6,9.0,7.3,2019-05-22
+Capsicum,Punjab,Patiala,Rajpura,10.0,15.0,12.5,2019-05-22
+Capsicum,Punjab,Patiala,Samana,15.0,25.0,20.0,2019-05-22
+Capsicum,Punjab,Sangrur,Sangrur,10.0,13.0,13.0,2019-05-22
+Capsicum,Punjab,Sangrur,Sunam,10.0,15.0,12.0,2019-05-22
+Capsicum,Punjab,Hoshiarpur,Tanda Urmur,12.0,18.0,15.0,2019-05-22
+Capsicum,Rajasthan,Ganganagar,Sriganganagar(F&V),9.0,11.0,10.0,2019-05-22
+Capsicum,Uttar Pradesh,Agra,Agra,15.0,16.8,16.0,2019-05-22
+Capsicum,Uttar Pradesh,Aligarh,Aligarh,15.0,16.0,15.5,2019-05-22
+Capsicum,Uttar Pradesh,Bareilly,Bareilly,18.25,18.75,18.5,2019-05-22
+Capsicum,Uttar Pradesh,Bijnor,Bijnaur,19.2,20.3,19.75,2019-05-22
+Capsicum,Uttar Pradesh,Faizabad,Faizabad,33.75,35.0,34.0,2019-05-22
+Capsicum,Uttar Pradesh,Farukhabad,Farukhabad,24.0,26.0,25.0,2019-05-22
+Capsicum,Uttar Pradesh,Agra,Jarar,8.0,9.0,8.5,2019-05-22
+Capsicum,Uttar Pradesh,Lakhimpur,Lakhimpur,26.0,27.0,26.5,2019-05-22
+Capsicum,Uttar Pradesh,Ghaziabad,Noida,16.54,19.11,17.85,2019-05-22
+Capsicum,Uttar Pradesh,Lakhimpur,Paliakala,23.45,24.7,24.0,2019-05-22
+Capsicum,Uttar Pradesh,Rampur,Rampur,13.2,14.0,13.6,2019-05-22
+Capsicum,Uttar Pradesh,Firozabad,Tundla,18.0,20.0,19.1,2019-05-22
+Capsicum,Uttrakhand,Dehradoon,Dehradoon,6.0,8.0,7.0,2019-05-22
+Capsicum,Uttrakhand,Haridwar,Roorkee,5.0,7.0,6.0,2019-05-22
+Capsicum,West Bengal,Kolkata,Sealdah Koley Market,40.0,46.0,44.0,2019-05-22
+Cardamoms,Kerala,Idukki,Thodupuzha,2000.0,2500.0,2100.0,2019-05-22
+Cardamoms,Maharashtra,Mumbai,Mumbai,2500.0,3000.0,2800.0,2019-05-22
+Carrot,Assam,Kamrup,Pamohi(Garchuk),40.0,45.0,42.5,2019-05-22
+Carrot,Chattisgarh,Durg,Durg,20.0,22.0,21.0,2019-05-22
+Carrot,Gujarat,Ahmedabad,Ahmedabad,12.0,16.0,15.0,2019-05-22
+Carrot,Gujarat,Bharuch,Ankleshwar,17.0,21.0,19.25,2019-05-22
+Carrot,Gujarat,Bharuch,Bharuch,14.0,17.5,16.0,2019-05-22
+Carrot,Gujarat,Dahod,Dahod(Veg. Market),25.0,30.0,27.0,2019-05-22
+Carrot,Gujarat,Vadodara(Baroda),Padra,15.0,20.0,17.5,2019-05-22
+Carrot,Gujarat,Surat,Surat,15.0,22.5,18.75,2019-05-22
+Carrot,Himachal Pradesh,Kullu,Bhuntar,14.0,16.0,15.0,2019-05-22
+Carrot,Himachal Pradesh,Chamba,Chamba,24.0,26.0,25.0,2019-05-22
+Carrot,Himachal Pradesh,Kangra,Kangra,15.0,20.0,20.0,2019-05-22
+Carrot,Himachal Pradesh,Kullu,Kullu,14.0,18.0,16.0,2019-05-22
+Carrot,Himachal Pradesh,Mandi,Mandi(Mandi),17.0,20.0,18.0,2019-05-22
+Carrot,Himachal Pradesh,Kangra,Palampur,24.0,25.0,24.5,2019-05-22
+Carrot,Himachal Pradesh,Sirmore,Paonta Sahib,23.0,25.0,24.0,2019-05-22
+Carrot,Himachal Pradesh,Shimla,Shimla,15.0,20.0,17.5,2019-05-22
+Carrot,Himachal Pradesh,Solan,Solan,15.0,18.0,16.0,2019-05-22
+Carrot,Himachal Pradesh,Solan,Solan(Nalagarh),25.0,30.0,28.0,2019-05-22
+Carrot,Jammu and Kashmir,Jammu,Akhnoor,14.0,15.0,14.5,2019-05-22
+Carrot,Jammu and Kashmir,Srinagar,Parimpore,18.0,20.0,19.0,2019-05-22
+Carrot,Karnataka,Kolar,Kolar,30.0,35.0,33.0,2019-05-22
+Carrot,Kerala,Ernakulam,Aluva,40.0,48.0,44.0,2019-05-22
+Carrot,Kerala,Kollam,Anchal,48.0,50.0,49.0,2019-05-22
+Carrot,Kerala,Ernakulam,Angamaly,50.0,54.0,52.0,2019-05-22
+Carrot,Kerala,Alappuzha,Aroor,56.0,58.0,57.0,2019-05-22
+Carrot,Kerala,Kottayam,Athirampuzha,46.0,48.0,47.0,2019-05-22
+Carrot,Kerala,Thiruvananthapuram,Attingal,44.0,45.0,45.0,2019-05-22
+Carrot,Kerala,Thiruvananthapuram,Chala,47.0,47.5,47.21,2019-05-22
+Carrot,Kerala,Thirssur,Chelakkara,30.0,33.0,32.0,2019-05-22
+Carrot,Kerala,Alappuzha,Chengannur,55.0,58.0,56.0,2019-05-22
+Carrot,Kerala,Kottayam,Ettumanoor,50.0,52.0,51.0,2019-05-22
+Carrot,Kerala,Alappuzha,Harippad,25.0,30.0,30.0,2019-05-22
+Carrot,Kerala,Kozhikode(Calicut),Kallachi,53.0,57.0,55.0,2019-05-22
+Carrot,Kerala,Alappuzha,Kayamkulam,51.0,53.0,52.0,2019-05-22
+Carrot,Kerala,Palakad,Koduvayoor,48.0,52.0,50.0,2019-05-22
+Carrot,Kerala,Malappuram,Kondotty,50.0,52.0,51.0,2019-05-22
+Carrot,Kerala,Ernakulam,Kothamangalam,50.0,60.0,55.0,2019-05-22
+Carrot,Kerala,Malappuram,Kottakkal,55.0,56.0,55.5,2019-05-22
+Carrot,Kerala,Alappuzha,Madhavapuram,65.0,70.0,68.0,2019-05-22
+Carrot,Kerala,Malappuram,Manjeri,43.0,44.0,43.5,2019-05-22
+Carrot,Kerala,Kasargod,Manjeswaram,54.0,60.0,57.0,2019-05-22
+Carrot,Kerala,Alappuzha,Mannar,55.0,57.0,56.0,2019-05-22
+Carrot,Kerala,Kozhikode(Calicut),Mukkom,22.0,26.0,24.0,2019-05-22
+Carrot,Kerala,Kasargod,Neeleswaram,60.0,64.0,62.0,2019-05-22
+Carrot,Kerala,Thiruvananthapuram,Neyyatinkara,33.0,35.0,34.0,2019-05-22
+Carrot,Kerala,Palakad,Palakkad,50.0,55.0,53.0,2019-05-22
+Carrot,Kerala,Kozhikode(Calicut),Palayam,44.0,46.0,45.0,2019-05-22
+Carrot,Kerala,Palakad,Pattambi,52.0,60.0,58.0,2019-05-22
+Carrot,Kerala,Malappuram,Perinthalmanna,47.0,53.0,50.0,2019-05-22
+Carrot,Kerala,Ernakulam,Perumbavoor,25.0,33.0,30.0,2019-05-22
+Carrot,Kerala,Thiruvananthapuram,Pothencode,50.0,60.0,55.0,2019-05-22
+Carrot,Kerala,Kozhikode(Calicut),Quilandy,50.0,53.0,52.0,2019-05-22
+Carrot,Kerala,Kottayam,Thalayolaparambu,45.0,50.0,48.0,2019-05-22
+Carrot,Kerala,Idukki,Thodupuzha,48.0,50.0,50.0,2019-05-22
+Carrot,Kerala,Ernakulam,Thrippunithura,50.0,60.0,54.0,2019-05-22
+Carrot,Kerala,Thirssur,Thrissur,38.0,40.0,39.0,2019-05-22
+Carrot,Kerala,Palakad,vadakarapathy,41.0,43.0,42.0,2019-05-22
+Carrot,Kerala,Palakad,Vadakkenchery,50.0,55.0,52.5,2019-05-22
+Carrot,Madhya Pradesh,Chhindwara,Chhindwara(F&V),7.0,9.0,8.0,2019-05-22
+Carrot,Madhya Pradesh,Narsinghpur,Gadarwada,20.0,20.0,20.0,2019-05-22
+Carrot,Maharashtra,Chandrapur,Chandrapur(Ganjwad),10.0,15.0,12.0,2019-05-22
+Carrot,Maharashtra,Mumbai,Mumbai,10.0,16.0,13.0,2019-05-22
+Carrot,Maharashtra,Pune,Pune,10.0,20.0,15.0,2019-05-22
+Carrot,Meghalaya,East Khasi Hills,Shillong,40.0,50.0,45.0,2019-05-22
+Carrot,NCT of Delhi,Delhi,Azadpur,4.0,14.0,8.0,2019-05-22
+Carrot,Odisha,Bolangir,Bolangir,38.0,40.0,38.0,2019-05-22
+Carrot,Odisha,Sundergarh,Bonai,20.0,20.0,20.0,2019-05-22
+Carrot,Odisha,Jajpur,Jajpur,16.0,20.0,18.0,2019-05-22
+Carrot,Punjab,Faridkot,Faridkot,20.0,25.0,25.0,2019-05-22
+Carrot,Punjab,Sangrur,Malerkotla,9.0,12.0,11.0,2019-05-22
+Carrot,Punjab,Sangrur,Sangrur,11.0,11.0,11.0,2019-05-22
+Carrot,Rajasthan,Ajmer,Ajmer(F&V),10.0,20.0,15.0,2019-05-22
+Carrot,Rajasthan,Ganganagar,Sriganganagar(F&V),12.0,14.0,13.0,2019-05-22
+Carrot,Uttar Pradesh,Etah,Aliganj,10.0,12.0,11.0,2019-05-22
+Carrot,Uttar Pradesh,Baghpat,Baraut,9.0,10.0,9.5,2019-05-22
+Carrot,Uttar Pradesh,Faizabad,Faizabad,17.6,18.5,18.0,2019-05-22
+Carrot,Uttar Pradesh,Sant Kabir Nagar,Khalilabad,9.5,12.0,10.0,2019-05-22
+Carrot,Uttar Pradesh,Meerut,Meerut,12.0,12.75,12.5,2019-05-22
+Carrot,Uttar Pradesh,Lakhimpur,Paliakala,9.7,10.4,10.0,2019-05-22
+Carrot,Uttar Pradesh,Shahjahanpur,Shahjahanpur,8.0,8.25,8.1,2019-05-22
+Carrot,Uttrakhand,Dehradoon,Dehradoon,6.0,8.0,7.5,2019-05-22
+Carrot,Uttrakhand,UdhamSinghNagar,Kashipur,7.0,8.0,7.5,2019-05-22
+Carrot,West Bengal,Darjeeling,Kalimpong,55.0,57.0,56.0,2019-05-22
+Carrot,West Bengal,Darjeeling,Karsiyang(Matigara),42.0,50.0,45.0,2019-05-22
+Carrot,West Bengal,Kolkata,Sealdah Koley Market,28.0,32.0,30.0,2019-05-22
+Cashewnuts,Karnataka,Udupi,Kundapura,90.0,105.57,105.57,2019-05-22
+Cashewnuts,Kerala,Kannur,Irikkur,85.0,85.0,85.0,2019-05-22
+Cashewnuts,Kerala,Kasargod,Manjeswaram,80.0,82.0,81.0,2019-05-22
+Cashewnuts,Maharashtra,Mumbai,Mumbai,700.0,1100.0,1000.0,2019-05-22
+Cashewnuts,Odisha,Gajapati,Parlakhemundi,100.0,120.0,120.0,2019-05-22
+Cashewnuts,Tamil Nadu,Ariyalur,Andimadom,84.0,86.5,85.0,2019-05-22
+Castor+Seed,Andhra Pradesh,Kurnool,Kurnool,48.67,50.92,49.59,2019-05-22
+Castor+Seed,Gujarat,Banaskanth,Amirgadh,54.85,105.0,54.9,2019-05-22
+Castor+Seed,Gujarat,Amreli,Amreli,32.5,53.25,47.5,2019-05-22
+Castor+Seed,Gujarat,Kachchh,Bachau,55.3,55.8,55.5,2019-05-22
+Castor+Seed,Gujarat,Mehsana,Becharaji,54.6,55.0,54.8,2019-05-22
+Castor+Seed,Gujarat,Bhavnagar,Bhavnagar,42.5,55.15,55.15,2019-05-22
+Castor+Seed,Gujarat,Kachchh,Bhuj,50.0,55.2,52.6,2019-05-22
+Castor+Seed,Gujarat,Bhavnagar,Botad,53.3,53.3,53.3,2019-05-22
+Castor+Seed,Gujarat,Dahod,Dahod,51.0,52.5,52.0,2019-05-22
+Castor+Seed,Gujarat,Surendranagar,Dasada Patadi,54.95,55.05,55.0,2019-05-22
+Castor+Seed,Gujarat,Banaskanth,Deesa,54.5,55.4,55.0,2019-05-22
+Castor+Seed,Gujarat,Banaskanth,Deesa(Bhildi),54.95,55.3,55.25,2019-05-22
+Castor+Seed,Gujarat,Gandhinagar,Dehgam,54.25,55.0,54.62,2019-05-22
+Castor+Seed,Gujarat,Gandhinagar,Dehgam(Rekhiyal),54.0,54.75,54.37,2019-05-22
+Castor+Seed,Gujarat,Banaskanth,Dhanera,54.0,55.6,54.8,2019-05-22
+Castor+Seed,Gujarat,Sabarkantha,Dhansura,54.5,55.5,55.25,2019-05-22
+Castor+Seed,Gujarat,Ahmedabad,Dholka(Koth),53.0,54.45,54.0,2019-05-22
+Castor+Seed,Gujarat,Rajkot,Dhoraji,50.0,53.55,53.05,2019-05-22
+Castor+Seed,Gujarat,Jamnagar,Dhrol,47.5,52.3,49.9,2019-05-22
+Castor+Seed,Gujarat,Surendranagar,Halvad,52.5,55.45,55.0,2019-05-22
+Castor+Seed,Gujarat,Sabarkantha,Himatnagar,53.0,55.85,54.5,2019-05-22
+Castor+Seed,Gujarat,Bharuch,Jambusar,38.0,42.0,40.0,2019-05-22
+Castor+Seed,Gujarat,Bharuch,Jambusar(Kaavi),39.0,41.0,40.0,2019-05-22
+Castor+Seed,Gujarat,Jamnagar,Jamnagar,50.0,54.2,52.1,2019-05-22
+Castor+Seed,Gujarat,Rajkot,Jasdan,40.0,51.25,47.5,2019-05-22
+Castor+Seed,Gujarat,Junagarh,Junagadh,50.0,53.15,52.0,2019-05-22
+Castor+Seed,Gujarat,Kachchh,K.Mandvi,54.5,55.5,55.0,2019-05-22
+Castor+Seed,Gujarat,Mehsana,Kadi,54.9,55.5,55.25,2019-05-22
+Castor+Seed,Gujarat,Jamnagar,Kalawad,50.0,53.8,51.9,2019-05-22
+Castor+Seed,Gujarat,Vadodara(Baroda),Karjan,55.0,56.0,55.5,2019-05-22
+Castor+Seed,Gujarat,Ahmedabad,Mandal,54.5,55.0,54.75,2019-05-22
+Castor+Seed,Gujarat,Gandhinagar,Mansa,52.85,55.8,55.5,2019-05-22
+Castor+Seed,Gujarat,Rajkot,Morbi,40.0,53.0,46.5,2019-05-22
+Castor+Seed,Gujarat,Patan,Patan,54.25,55.55,54.9,2019-05-22
+Castor+Seed,Gujarat,Porbandar,Porbandar,0.0,40.25,40.25,2019-05-22
+Castor+Seed,Gujarat,Patan,Radhanpur,54.25,55.0,54.6,2019-05-22
+Castor+Seed,Gujarat,Rajkot,Rajkot,46.75,53.9,52.35,2019-05-22
+Castor+Seed,Gujarat,Kachchh,Rapar,54.0,54.0,54.0,2019-05-22
+Castor+Seed,Gujarat,Patan,Sami,54.5,55.25,55.0,2019-05-22
+Castor+Seed,Gujarat,Amreli,Savarkundla,51.0,54.0,52.5,2019-05-22
+Castor+Seed,Gujarat,Vadodara(Baroda),Savli,52.0,54.0,53.5,2019-05-22
+Castor+Seed,Gujarat,Patan,Siddhpur,54.0,55.55,54.77,2019-05-22
+Castor+Seed,Gujarat,Sabarkantha,Talod,54.75,55.75,55.25,2019-05-22
+Castor+Seed,Gujarat,Banaskanth,Thara,54.75,55.9,55.32,2019-05-22
+Castor+Seed,Gujarat,Banaskanth,Thara(Shihori),54.5,55.0,54.75,2019-05-22
+Castor+Seed,Gujarat,Banaskanth,Tharad,54.4,55.0,54.7,2019-05-22
+Castor+Seed,Gujarat,Banaskanth,Tharad(Rah),55.0,55.2,55.1,2019-05-22
+Castor+Seed,Gujarat,Anand,Umreth,53.0,53.5,53.15,2019-05-22
+Castor+Seed,Gujarat,Junagarh,Una,53.75,55.25,55.0,2019-05-22
+Castor+Seed,Gujarat,Mehsana,Unava,54.25,55.45,55.2,2019-05-22
+Castor+Seed,Gujarat,Vadodara(Baroda),Vagodiya,50.0,51.5,51.0,2019-05-22
+Castor+Seed,Gujarat,Mehsana,Vijapur,54.25,55.6,55.1,2019-05-22
+Castor+Seed,Gujarat,Mehsana,Vijapur(Gojjariya),54.5,55.2,54.9,2019-05-22
+Castor+Seed,Gujarat,Mehsana,Vijapur(Kukarvada),54.25,55.35,54.8,2019-05-22
+Castor+Seed,Gujarat,Junagarh,Visavadar,47.75,53.15,50.45,2019-05-22
+Castor+Seed,Gujarat,Mehsana,Visnagar,54.0,55.37,54.68,2019-05-22
+Castor+Seed,Rajasthan,Jalore,Bheenmal(Ranlwada),48.0,50.0,49.0,2019-05-22
+Castor+Seed,Rajasthan,Jalore,Sanchor,54.0,55.25,55.0,2019-05-22
+Cauliflower,Chattisgarh,Durg,Durg,20.0,25.0,22.5,2019-05-22
+Cauliflower,Gujarat,Ahmedabad,Ahmedabad,13.0,30.0,23.0,2019-05-22
+Cauliflower,Gujarat,Bharuch,Ankleshwar,22.25,31.25,29.0,2019-05-22
+Cauliflower,Gujarat,Bharuch,Bharuch,15.0,18.5,17.0,2019-05-22
+Cauliflower,Gujarat,Navsari,Bilimora,14.0,20.0,17.0,2019-05-22
+Cauliflower,Gujarat,Dahod,Dahod(Veg. Market),12.0,20.0,17.0,2019-05-22
+Cauliflower,Gujarat,Ahmedabad,Dholka(Koth),10.0,12.0,11.0,2019-05-22
+Cauliflower,Gujarat,Kheda,Nadiyad(Piplag),13.0,19.0,16.0,2019-05-22
+Cauliflower,Gujarat,Vadodara(Baroda),Padra,25.0,30.0,27.5,2019-05-22
+Cauliflower,Gujarat,Surat,Surat,11.0,27.5,19.25,2019-05-22
+Cauliflower,Gujarat,Junagarh,Talalagir,16.5,18.5,17.5,2019-05-22
+Cauliflower,Gujarat,Morbi,Vankaner(Sub yard),50.0,60.0,55.0,2019-05-22
+Cauliflower,Haryana,Karnal,Asandh,14.0,15.0,14.5,2019-05-22
+Cauliflower,Haryana,Faridabad,Ballabhgarh,18.0,21.0,20.0,2019-05-22
+Cauliflower,Haryana,Hissar,Barwala(Hisar),40.0,40.0,40.0,2019-05-22
+Cauliflower,Haryana,Bhiwani,Bhiwani,12.0,13.0,12.5,2019-05-22
+Cauliflower,Haryana,Faridabad,Faridabad,28.0,30.0,29.0,2019-05-22
+Cauliflower,Haryana,Fatehabad,Fatehabad,35.0,40.0,40.0,2019-05-22
+Cauliflower,Haryana,Mewat,Punhana,8.0,8.0,8.0,2019-05-22
+Cauliflower,Haryana,Panipat,Samalkha,4.0,8.0,6.0,2019-05-22
+Cauliflower,Haryana,Sonipat,Sonepat,30.0,45.0,30.0,2019-05-22
+Cauliflower,Himachal Pradesh,Kullu,Bandrol,29.0,34.0,31.5,2019-05-22
+Cauliflower,Himachal Pradesh,Kullu,Bhuntar,30.0,45.0,37.0,2019-05-22
+Cauliflower,Himachal Pradesh,Bilaspur,Bilaspur,40.0,52.0,42.0,2019-05-22
+Cauliflower,Himachal Pradesh,Mandi,Dhanotu (Mandi),30.0,45.0,37.5,2019-05-22
+Cauliflower,Himachal Pradesh,Hamirpur,Hamirpur,40.0,45.0,42.0,2019-05-22
+Cauliflower,Himachal Pradesh,Hamirpur,Hamirpur(Nadaun),40.0,45.0,42.0,2019-05-22
+Cauliflower,Himachal Pradesh,Kangra,Kangra,25.0,30.0,27.5,2019-05-22
+Cauliflower,Himachal Pradesh,Kangra,Kangra(Baijnath),30.0,30.0,30.0,2019-05-22
+Cauliflower,Himachal Pradesh,Kangra,Kangra(Jassour),35.0,40.0,37.5,2019-05-22
