@@ -1,0 +1,1 @@
+SELECT * FROM vw_district_price_spread LIMIT 20;
